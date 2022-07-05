@@ -1,0 +1,36 @@
+dataset: "DailyTalk"
+
+path:
+  corpus_path: "/home/keon/speech-datasets/en/dailytalk/"
+  sub_dir_name: "data"
+  lexicon_path: "lexicon/librispeech-lexicon.txt"
+  raw_path: "./raw_data/DailyTalk"
+  preprocessed_path: "./preprocessed_data/DailyTalk"
+
+preprocessing:
+  speaker_embedder: "none" # support 'none', 'DeepSpeaker'
+  speaker_embedder_cuda: False # since it's too large to load in a single GPU
+  val_size: 128
+  text:
+    text_cleaners: ["english_cleaners"]
+    language: "en"
+  audio:
+    trim_top_db: 23
+    sampling_rate: 22050
+    max_wav_value: 32768.0
+  stft:
+    filter_length: 1024
+    hop_length: 256
+    win_length: 1024
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000 # please set to 8000 for HiFi-GAN vocoder, set to null for MelGAN vocoder
+  pitch:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+  energy:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+  duration:
+    beta_binomial_scaling_factor: 1.0

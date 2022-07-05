@@ -1,0 +1,78 @@
+block_type: "transformer"
+external_speaker_dim: 512
+
+duration_modeling:
+  learn_alignment: True
+  aligner_temperature: 0.0005
+
+history_encoder:
+  type: "Guo" # ["none", "Guo"]
+  text_emb_size: 512
+  max_history_len: 10
+  duration_max: 898 # d_min: 2, d_min: 898
+  modal_hidden: 100
+  modal_layer: 2
+  modal_head: 2
+  modal_kernel_size: 17
+  modal_dropout: 0.2
+  cma_hidden: 100
+  cma_layer: 2
+  cma_head: 4
+  cma_filter_size: 256
+  cma_kernel_size: [9, 1]
+  cma_dropout: 0.2
+  context_layer: 2 
+  context_hidden: 128
+  context_dropout: 0.2
+
+transformer:
+  encoder_layer: 4
+  encoder_head: 2
+  encoder_hidden: 256
+  decoder_layer: 6
+  decoder_head: 2
+  decoder_hidden: 256
+  conv_filter_size: 1024
+  conv_kernel_size: [9, 1]
+  encoder_dropout: 0.2
+  decoder_dropout: 0.2
+
+conformer:
+  encoder_layer: 4
+  encoder_head: 8
+  encoder_hidden: 256
+  decoder_layer: 6
+  decoder_head: 8
+  decoder_hidden: 256
+  feed_forward_expansion_factor: 4
+  conv_expansion_factor: 2
+  conv_kernel_size: 31
+  half_step_residual: True
+  encoder_dropout: 0.1
+  decoder_dropout: 0.1
+
+variance_predictor:
+  filter_size: 256
+  kernel_size: 3
+  dropout: 0.5
+  cond_dur_layer: 2
+  cond_dur_head: 2
+  cond_dur_hidden: 128
+  conv_filter_size: 512
+  conv_kernel_size: [9, 1]
+  cond_dur_dropout: 0.2
+
+variance_embedding:
+  kernel_size: 9
+  pitch_quantization: "linear" # support 'linear' or 'log', 'log' is allowed only if the pitch values are not normalized during preprocessing
+  energy_quantization: "linear" # support 'linear' or 'log', 'log' is allowed only if the energy values are not normalized during preprocessing
+  n_bins: 256
+
+multi_speaker: True
+multi_emotion: True
+
+max_seq_len: 1500 # max sequence length of DailyTalk is 1483
+
+vocoder:
+  model: "HiFi-GAN" # support 'HiFi-GAN', 'MelGAN'
+  speaker: "universal" # support  'LJSpeech', 'universal'

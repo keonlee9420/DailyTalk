@@ -1,0 +1,1197 @@
+0_1_d23|1|{AY1 AE1 M L UH1 K IH0 NG F AO1 R AH0 P AE1 N sp}|i am looking for a pan.|none
+1_0_d23|0|{N OW1 P R AA1 B L AH0 M sp W AH1 T S AY1 Z W UH1 D Y UW1 L AY1 K sp}|no problem. what size would you like?|none
+2_1_d23|1|{AH0 B IH1 G W AH1 N W UH1 D B IY1 N AY1 S sp}|a big one would be nice.|none
+3_0_d23|0|{HH AW1 AH0 B AW1 T DH IH1 S W AH1 N sp IH1 T S AW1 ER0 B IH1 G AH0 S T sp sp S IH0 K S T IY1 N sp IH0 N D AY0 AE1 M AH0 T ER0 sp}|how about this one? it's our biggest -- sixteen' in diameter.|none
+4_1_d23|1|{OW1 sp Y EH1 S sp AY1 L AY1 K DH AE1 T W AH1 N sp B AH1 T IH1 T S T UW1 HH EH1 V IY0 sp}|oh, yes, i like that one, but it's too heavy.|happiness
+5_0_d23|0|{OW1 K EY1 sp T R AY1 DH IH1 S W AH1 N sp IH1 T S M EY1 D AH1 V AH0 L UW1 M AH0 N AH0 M sp}|ok, try this one. it's made of aluminum.|none
+6_1_d23|1|{OW1 sp Y EH1 S sp DH IH1 S IH1 Z M AH1 CH B EH1 T ER0 sp B AH1 T IH1 T HH AE1 Z AE1 N AH0 L UW1 M AH0 N AH0 M HH AE1 N D AH0 L sp}|oh, yes! this is much better. but it has an aluminum handle.|happiness
+7_0_d23|0|{HH IY1 R Y UW1 G OW1 sp S EY1 M P AE1 N sp B AH1 T W IH1 DH AH0 S T EY1 T sp AH1 V sp DH AH0 sp AA1 R T sp HH IY1 T sp R IH0 Z IH1 S T AH0 N T P L AE1 S T IH0 K HH AE1 N D AH0 L sp}|here you go. same pan, but with a state-of-the-art, heat-resistant plastic handle.|none
+8_1_d23|1|{Y EH1 S sp DH AE1 T S P ER1 F IH2 K T sp AY1 L T EY1 K IH1 T sp}|yes. that's perfect. i'll take it.|happiness
+9_0_d23|0|{G R EY1 T sp W IH1 L DH AE1 T B IY1 K AE1 SH AO1 R K R EH1 D AH0 T sp}|great. will that be cash or credit?|none
+10_1_d23|1|{OW1 sp W EY1 T AH0 M IH1 N AH0 T sp W AH1 T AH0 B AW1 T AH0 L IH1 D F AO1 R DH AH0 P AE1 N sp}|oh, wait a minute. what about a lid for the pan?|none
+11_0_d23|0|{AY1 M S AA1 R IY0 sp AY1 F ER0 G AA1 T T UW1 SH OW1 Y UW1 DH AH0 L IH1 D sp IH1 T K AH1 M Z W IH1 DH DH AH0 P AE1 N sp}|i'm sorry. i forgot to show you the lid. it comes with the pan.|none
+0_0_d30|0|{IH1 T S S AH1 N D EY2 T AH0 D EY1 sp}|it's sunday today.|none
+1_1_d30|1|{Y EH1 S sp AY1 N OW1 sp}|yes, i know.|none
+2_0_d30|0|{AH1 M AY1 TH IH1 NG K W IY1 SH UH1 D HH AE1 V AH0 HH AW1 S K L IY1 N IH0 NG T AH0 D EY1 sp W AH1 T S Y AO1 R AH0 P IH1 N Y AH0 N sp}|umm i think we should have a house cleaning today. what's your opinion?|none
+3_1_d30|1|{OW1 sp N OW1 sp W IY1 JH AH1 S T D IH1 D IH1 T L AE1 S T W IY1 K sp}|oh, no. we just did it last week.|none
+4_0_d30|0|{K AH1 M AA1 N sp W AH1 T D UW1 Y UW1 W AA1 N T T UW1 D UW1 sp W AA1 SH IH0 NG K L OW1 DH Z AO1 R K L IY1 N IH0 NG DH AH0 HH AW1 S sp}|come on. what do you want to do? washing clothes or cleaning the house?|none
+5_1_d30|1|{AY1 D R AE1 DH ER0 W AA1 SH DH AH0 K L OW1 DH Z sp}|i'd rather wash the clothes.|none
+6_0_d30|0|{OW1 K EY1 sp HH IY1 R IH1 Z DH AH0 L AO1 N D R IY0 sp}|ok. here is the laundry.|none
+7_1_d30|1|{OW1 sp M AY1 G AA1 D sp S OW1 M AH1 CH sp}|oh, my god! so much!|disgust
+8_0_d30|0|{D OW1 N T W ER1 IY0 sp AY1 L HH EH1 L P Y UW1 W IH1 DH IH1 T L EY1 T ER0 sp}|don't worry. i'll help you with it later.|none
+0_0_d59|0|{W AH1 T AA1 R Y UW1 R EH1 D IH0 NG sp Y UW1 V HH AE1 D Y AO1 R N OW1 Z B EH1 R IY0 D IH0 N DH AE1 T B UH1 K S IH1 N S L AE1 S T N AY1 T sp}|what are you reading? you've had your nose buried in that book since last night.|none
+1_1_d59|1|{DH IH1 S B UH1 K IH1 Z S OW1 G UH1 D sp AY1 JH AH1 S T K AE1 N T P UH1 T IH1 T D AW1 N sp IH1 T S K AO1 L D sp DH AH0 P AW1 ER0 AH1 V W AH1 N sp sp}|this book is so good. i just can't put it down! it's called 'the power of one'.|happiness
+2_0_d59|0|{AY1 HH AE1 V AH0 N T R EH1 D AH0 B UH1 K L AY1 K DH AE1 T F AO1 R AE1 Z L AO1 NG AE1 Z AY1 K AE1 N R IH0 M EH1 M B ER0 sp}|i haven't read a book like that for as long as i can remember.|happiness
+3_1_d59|1|{M IY1 IY1 DH ER0 sp F R AH1 M DH AH0 V EH1 R IY0 F ER1 S T P EY1 JH sp DH IH1 S AO1 TH ER0 JH AH1 S T P UH1 L D M IY1 R AY1 T IH0 N sp}|me either. from the very first page, this author just pulled me right in!|happiness
+4_0_d59|0|{K AE1 N AY1 R EH1 D IH1 T W EH1 N Y UH1 R F IH1 N IH0 SH T sp}|can i read it when you're finished?|happiness
+5_1_d59|1|{Y EH1 S sp AY1 M IH0 N DH AH0 L AE1 S T CH AE1 P T ER0 N AW1 AH0 N D IH1 T IH1 Z JH AH1 S T G R IH1 P IH0 NG sp}|yes. i'm in the last chapter now and it is just gripping.|happiness
+6_0_d59|0|{D OW1 N T T EH1 L M IY1 EH1 N IY0 TH IH2 NG AH0 B AW1 T IH1 T sp AY1 W AA1 N T T UW1 R EH1 D IH1 T F AO1 R M AY2 S EH1 L F sp}|don't tell me anything about it. i want to read it for myself.|none
+7_1_d59|1|{OW1 K EY1 sp B AH1 T B IY1 P R IY0 P EH1 R D F AO1 R AE1 N AO1 L sp N AY1 T ER0 sp AY1 D AW1 T Y UW1 W IH1 L W AA1 N T T UW1 P UH1 T IH1 T D AW1 N IY1 DH ER0 sp}|ok. but be prepared for an all-nighter! i doubt you will want to put it down either.|none
+0_0_d64|0|{M EH1 R IY0 sp K AE1 N Y UW1 T EH1 L M IY1 HH AW1 Y UW1 K IY1 P IH0 N SH EY1 P sp}|mary, can you tell me how you keep in shape?|none
+1_1_d64|1|{Y UW1 L N EH1 V ER0 B IY1 IH0 N SH EY1 P AH0 N T IH1 L Y UW1 IY1 T L EH1 S AH0 N D T EY1 K M AO1 R EH1 K S ER0 S AY2 Z sp}|you'll never be in shape until you eat less and take more exercise.|none
+2_0_d64|0|{N AW1 sp T EH1 L M IY1 W AH1 T Y UW1 AO1 F AH0 N IY1 T sp}|now, tell me what you often eat.|none
+3_1_d64|1|{AY1 AO1 F AH0 N IY1 T F IH1 SH AH0 N D EH1 G Z sp}|i often eat fish and eggs.|none
+4_0_d64|0|{D UW1 Y UW1 IY1 T AH0 L AA1 T AH1 V V EH1 JH T AH0 B AH0 L Z sp}|do you eat a lot of vegetables?|none
+5_1_d64|1|{OW1 Y EH1 S sp AH0 N D F R UW1 T S sp AY1 L AH1 V F R UW1 T S V EH1 R IY0 M AH1 CH sp}|oh yes, and fruits. i love fruits very much.|none
+6_0_d64|0|{W AH1 T D UW1 Y UW1 L AY1 K T UW1 D R IH1 NG K sp}|what do you like to drink?|none
+7_1_d64|1|{W EH1 L sp AY1 N EH1 V ER0 D R IH1 NG K AE1 L K AH0 HH AA2 L sp K AA1 F IY0 AO1 R T IY1 sp}|well, i never drink alcohol, coffee or tea.|none
+8_0_d64|0|{AH1 M W AH2 T EH1 V ER0 W UH1 D Y UW1 L AY1 K T UW1 D R IH1 NG K sp}|umm whatever would you like to drink?|none
+9_1_d64|1|{AY1 D R IH1 NG K AH0 L AA1 T AH1 V M IH1 L K sp AY1 D R IH1 NG K M IH1 L K AO1 L M OW2 S T EH1 V ER0 IY0 D EY1 sp}|i drink a lot of milk. i drink milk almost every day.|none
+10_0_d64|0|{HH AW1 AO1 F AH0 N D UW1 Y UW1 EH1 K S ER0 S AY2 Z sp}|how often do you exercise?|none
+11_1_d64|1|{W EH1 L sp AY1 W AO1 K EH1 V ER0 IY0 D EY1 sp}|well, i walk every day.|none
+12_0_d64|0|{IH1 T S AH0 G UH1 D D AY1 AH0 T AH0 N D AH0 R EH1 G Y AH0 L ER0 EH1 K S ER0 S AY2 Z sp}|it's a good diet and a regular exercise.|happiness
+13_1_d64|1|{Y EH1 S sp K W AY1 T R AY1 T sp}|yes, quite right.|happiness
+0_1_d71|1|{IH0 K S K Y UW1 S M IY1 sp}|excuse me!|none
+1_0_d71|0|{Y EH1 S sp}|yes?|none
+2_1_d71|1|{IH1 Z DH IH1 S Y AO1 R HH AE1 N D B AE2 G sp}|is this your handbag?|none
+3_0_d71|0|{P AA1 R D AH0 N sp}|pardon?|none
+4_1_d71|1|{IH1 Z DH IH1 S Y AO1 R HH AE1 N D B AE2 G sp}|is this your handbag?|none
+5_0_d71|0|{Y EH1 S sp IH1 T IH1 Z sp TH AE1 NG K Y UW1 V EH1 R IY0 M AH1 CH sp}|yes, it is. thank you very much.|happiness
+0_1_d79|1|{G UH1 D AE2 F T ER0 N UW1 N sp W AH1 T K AE1 N AY1 D UW1 F AO1 R Y UW1 sp}|good afternoon, what can i do for you?|none
+1_0_d79|0|{AY1 W AA1 N T T UW1 D R AO1 S AH1 M M AH1 N IY0 F R AH1 M M AY1 K ER1 AH0 N T AH0 K AW1 N T sp}|i want to draw some money from my current account.|none
+2_1_d79|1|{HH AW1 M AH1 CH D UW1 Y UW1 W AA1 N T T UW1 D R AO1 sp}|how much do you want to draw?|none
+3_0_d79|0|{W EH1 L sp AY1 W AA1 N T T UW1 D R AO1 AW1 T F AO1 R TH AW1 Z AH0 N D Y UW0 AA1 N sp}|well, i want to draw out four thousand yuan.|none
+4_1_d79|1|{OW1 K EY1 sp D UW1 Y UW1 T EY1 K Y AO1 R B AE1 NG K K AA1 R D AO1 R B AE1 NG B K UH2 K W IH1 DH Y UW1 sp}|ok! do you take your bank card or bankbook with you?|none
+5_0_d79|0|{Y EH1 S sp HH IY1 R IH1 Z M AY1 B AE1 NG B K UH2 K sp}|yes! here is my bankbook.|none
+6_1_d79|1|{OW1 K EY1 sp P L IY1 Z F IH1 L AW1 T DH IH1 S F AO1 R M F ER1 S T sp}|ok. please fill out this form first.|none
+7_0_d79|0|{Y EH1 S sp D UW1 AY1 N IY1 D T UW1 S AY1 N M AY1 N EY1 M HH IY1 R sp}|yes. do i need to sign my name here?|none
+8_1_d79|1|{SH UH1 R sp HH AW1 D UW1 Y UW1 W AA1 N T IH1 T sp}|sure. how do you want it?|none
+9_0_d79|0|{W EH1 L sp AY1 W AA1 N T TH AW1 Z AH0 N D Y UW0 AA1 N IH0 N T R AE1 V AH0 L ER0 Z CH EH1 K S AH0 N D DH AH0 R EH1 S T IH0 N K AE1 SH sp}|well, i want thousand yuan in traveler's checks and the rest in cash.|none
+10_1_d79|1|{AO1 L R AY1 T sp HH IY1 R AA1 R DH AH0 T R AE1 V AH0 L ER0 Z CH EH1 K S AH0 N D M AH1 N IY0 sp}|all right. here are the traveler's checks and money.|none
+11_0_d79|0|{TH AE1 NG K S AH0 L AA1 T sp}|thanks a lot.|happiness
+12_1_d79|1|{N AA1 T AE1 T AO1 L sp}|not at all.|none
+0_1_d111|1|{HH AY1 sp D IH1 R sp AY1 V G AA1 T Y AO1 R V OY1 S AE1 T L AE1 S T sp}|hi, dear, i've got your voice at last.|happiness
+1_0_d111|0|{HH AY1 sp D AA1 R L IH0 NG sp AY1 AE1 M TH IH1 NG K IH0 NG IH1 T IH1 Z DH AH0 T AY1 M AH1 V Y AO1 R K AO1 L IH0 NG sp}|hi, darling, i am thinking it is the time of your calling.|happiness
+2_1_d111|1|{AA1 R Y UW1 OW1 K EY1 T AH0 D EY1 sp}|are you ok today?|happiness
+3_0_d111|0|{K W AY1 T G UH1 D IH0 K S EH1 P T TH IH1 NG K IH0 NG AH1 V Y UW1 S OW1 M AH1 CH sp}|quite good except thinking of you so much.|happiness
+4_1_d111|1|{S OW1 D UW1 AY1 sp Y UW1 AA1 R AH0 B Y UW1 T AH0 F AH0 L F L AW1 ER0 IH0 N M AY1 M AY1 N D sp}|so do i. you are a beautiful flower in my mind.|happiness
+5_0_d111|0|{IH1 T S K AO1 L D L AH1 V IH1 Z B L AY1 N D sp AY1 TH IH1 NG K sp}|it's called love is blind, i think.|happiness
+0_1_d126|1|{K AE1 N Y UW1 SH OW1 M IY1 HH AW1 T UW1 Y UW1 S CH AA1 P S T IH2 K S sp}|can you show me how to use chopsticks?|none
+1_0_d126|0|{W IH1 DH P L EH1 ZH ER0 sp}|with pleasure.|happiness
+2_1_d126|1|{OW1 sp IH1 T IH1 Z N AA1 T IY1 Z IY0 T UW1 L ER1 N sp}|oh, it is not easy to learn!|none
+3_0_d126|0|{AY1 TH IH1 NG K Y UW1 AA1 R AH0 K W IH1 K L ER1 N ER0 sp}|i think you are a quick learner.|none
+4_1_d126|1|{W EH1 L sp AY1 D OW1 N T TH IH1 NG K AY1 K AE1 N M AE1 N AH0 JH W IH1 DH IH1 T sp}|well, i don't think i can manage with it.|none
+5_0_d126|0|{IH0 N DH AE1 T K EY1 S sp SH AE1 L AY1 AE1 S K DH AH0 W EY1 T ER0 T UW1 B R IH1 NG Y UW1 AH0 N AY1 F AH0 N D F AO1 R K sp}|in that case, shall i ask the waiter to bring you a knife and fork?|none
+6_1_d126|1|{DH AE1 T S G UH1 D sp TH AE1 NG K Y UW1 sp}|that's good, thank you.|happiness
+0_1_d143|1|{G UH1 D M AO1 R N IH0 NG sp K AE1 N AY1 HH EH1 L P Y UW1 sp}|good morning! can i help you?|none
+1_0_d143|0|{Y EH1 S sp L EH1 T M IY1 S IY1 S AH1 M AH1 V Y AO1 R HH AE1 T S sp P L IY1 Z sp}|yes, let me see some of your hats, please.|none
+2_1_d143|1|{OW1 K EY1 sp K AH1 M DH IH1 S W EY1 sp P L IY1 Z sp HH AW1 D AH1 Z DH IH1 S W AH1 N F IH1 T Y UW1 sp}|ok, come this way, please. how does this one fit you?|none
+3_0_d143|0|{IH1 T S AH0 L IH1 T AH0 L B IH1 T T AY1 T sp}|it's a little bit tight.|none
+4_1_d143|1|{L EH1 T M IY1 S T R EH1 CH IH1 T F AO1 R Y UW1 sp HH AW1 IH1 Z DH AE1 T N AW1 sp}|let me stretch it for you. how is that now?|none
+5_0_d143|0|{Y EH1 S sp IH1 T F IH1 T S AO1 L R AY1 T N AW1 sp AY1 L T EY1 K IH1 T sp P L IY1 Z P UH1 T IH1 T IH0 N AH0 B AE1 G AH0 N D AY1 L T EY1 K AH0 L AO1 NG sp}|yes, it fits all right now. i'll take it. please put it in a bag and i'll take along.|none
+6_1_d143|1|{OW1 K EY1 sp HH IY1 R Y UW1 AA1 R sp}|ok. here you are.|none
+7_0_d143|0|{HH AW1 M AH1 CH IH1 Z IH1 T sp}|how much is it?|none
+8_1_d143|1|{TH ER1 D IY0 sp F AY1 V Y UW0 AA1 N sp}|thirty-five yuan.|none
+9_0_d143|0|{HH IY1 R IH1 Z DH AH0 M AH1 N IY0 sp}|here is the money.|none
+10_1_d143|1|{TH AE1 NG K S sp N AH1 TH IH0 NG EH1 L S sp T AH0 D EY1 sp}|thanks. nothing else, today?|happiness
+11_0_d143|0|{N AH1 TH IH0 NG EH1 L S sp TH AE1 NG K Y UW1 sp}|nothing else, thank you.|happiness
+0_0_d155|0|{HH AE1 V Y UW1 B IH1 N T EY1 K AH0 N K EH1 R AH1 V sp M IH1 S sp}|have you been taken care of, miss?|none
+1_1_d155|1|{AY1 AE1 M L UH1 K IH0 NG F AO1 R AH0 T IY1 sp SH ER1 T sp}|i am looking for a t-shirt.|none
+2_0_d155|0|{W IY1 HH AE1 V K W AY1 T AH0 V ER0 AY1 AH0 T IY0 AH1 V SH ER1 T S HH IY1 R sp}|we have quite a variety of shirts here.|none
+3_1_d155|1|{W AH1 T K AY1 N D AH1 V M AH0 T IH1 R IY0 AH0 L IH1 Z DH IH1 S sp}|what kind of material is this?|none
+4_0_d155|0|{S IH1 L K sp Y UW1 HH AE1 V AH0 G UH1 D T EY1 S T sp IH1 T S EH1 K S AH0 L AH0 N T F AO1 R IH1 T S HH AE1 N D IY0 N AH0 S sp EH1 L AH0 G AH0 N S AH0 N D B Y UW1 T IY0 sp}|silk. you have a good taste. it's excellent for its handiness, elegance and beauty.|none
+5_1_d155|1|{K AE1 N AY1 T R AY1 IH1 T AA1 N sp}|can i try it on?|none
+0_1_d162|1|{K AE1 N AY1 AO1 R D ER0 T EY1 K sp AW1 T HH IY1 R sp}|can i order take-out here?|none
+1_0_d162|0|{W IY1 OW1 N L IY0 HH AE1 V S P R IH1 NG R OW1 L Z T AH0 D EY1 F AO1 R T EY1 K sp AW1 T sp}|we only have spring rolls today for take-out.|none
+2_1_d162|1|{DH EH1 N K UH1 D AY1 HH AE1 V F AO1 R AO1 R D ER0 Z sp P L IY1 Z sp}|then could i have four orders, please?|none
+3_0_d162|0|{AH1 V K AO1 R S sp M AE1 M sp}|of course, ma'am.|none
+4_1_d162|1|{W IH1 L IH1 T T EY1 K L AO1 NG sp}|will it take long?|none
+5_0_d162|0|{N AA1 T L AO1 NG sp DH EY1 L B IY1 R EH1 D IY0 IH0 N AH0 F Y UW1 M IH1 N AH0 T S sp}|not long. they'll be ready in a few minutes.|none
+0_0_d164|0|{K AE1 N AY1 T EY1 K Y AO1 R AO1 R D ER0 sp}|can i take your order?|none
+1_1_d164|1|{AY1 L T EY1 K T UW1 V AE1 L Y UW0 M IY1 L Z sp}|i'll take two value meals.|none
+2_0_d164|0|{W AH1 T K AY1 N D AH1 V D R IH1 NG K D UW1 Y UW1 W AA1 N T W IH1 DH DH OW1 Z M IY1 L Z sp}|what kind of drink do you want with those meals?|none
+3_1_d164|1|{W AH1 N K OW1 K AH0 K OW1 L AH0 AH0 N D DH AH0 AH1 DH ER0 AH0 S P R AY1 T sp P L IY1 Z sp}|one coca cola and the other a sprite, please.|none
+4_0_d164|0|{Y UW1 K AE1 N S UW1 P ER0 sp S AY1 Z Y AO1 R M IY1 L Z F AO1 R OW1 N L IY0 TH R IY1 D AA1 L ER0 Z EH1 K S T R AH0 sp}|you can super-size your meals for only three dollars extra.|none
+5_1_d164|1|{Y EH1 S sp AY1 D L AY1 K DH AE1 T sp DH EH1 N sp}|yes, i'd like that, then.|none
+6_0_d164|0|{HH AW1 AH0 B AW1 T EH1 N IY0 TH IH2 NG F AO1 R D IH0 Z ER1 T sp L AY1 K AE1 N AE1 P AH0 L P AY1 AO1 R AY1 S K R IY1 M sp}|how about anything for dessert, like an apple pie or ice cream?|none
+7_1_d164|1|{AH1 M N OW1 sp TH AE1 NG K S sp DH AE1 T W IH1 L B IY1 IH1 T sp}|umm no, thanks. that will be it.|none
+0_1_d168|1|{AY1 M S OW1 G L AE1 D W IY1 D IH0 S AY1 D IH0 D T UW1 G OW1 AA1 N AH0 K R UW1 Z F AO1 R AW1 ER0 V EY0 K EY1 SH AH0 N sp}|i'm so glad we decided to go on a cruise for our vacation.|none
+1_0_d168|0|{AA1 R Y UW1 IY1 V IH0 N G L AE1 D DH AE1 T W IY1 G EH1 T T UW1 B AY1 N UW1 K L OW1 DH Z T UW1 sp}|are you even glad that we get to buy new clothes too?|happiness
+2_1_d168|1|{AA1 sp DH AE1 T S AO1 L P AA1 R T AH1 V DH AH0 F AH1 N sp W AH1 T D UW1 Y UW1 TH IH1 NG K AH1 V DH IY1 Z SH AO1 R T S sp}|ah, that's all part of the fun. what do you think of these shorts?|happiness
+3_0_d168|0|{DH EY1 L UH1 K R IH1 L IY0 G UH1 D AA1 N Y UW1 sp DH EY1 L UH1 K K AH1 M F ER0 T AH0 B AH0 L T UW1 sp}|they look really good on you. they look comfortable too.|happiness
+4_1_d168|1|{DH EY1 AA1 R sp AY1 TH IH1 NG K AY1 M G OW1 IH0 NG T UW1 G EH1 T AH0 HH AE1 T T UW1 sp}|they are. i think i'm going to get a hat too.|none
+5_0_d168|0|{OW1 K EY1 sp AY1 CH OW1 Z DH IH1 S S W IH1 M IH0 NG S UW1 T sp D UW1 Y UW1 L AY1 K IH1 T sp}|ok. i chose this swimming suit. do you like it?|none
+6_1_d168|1|{W AW1 sp Y UW1 L UH1 K G R EY1 T sp}|wow. you look great.|happiness
+7_0_d168|0|{G R EY1 T AH0 N D W AY1 T sp W IH1 CH R IY0 M AY1 N D Z M IY1 sp L EH1 T S P IH1 K AH1 P S AH1 M HH EH1 V IY0 D UW1 T IY0 S AH0 N S K R IY1 N sp}|great and white! which reminds me, let's pick up some heavy duty sunscreen!|none
+0_0_d185|0|{JH UW1 L Y AH0 sp AY1 AH0 P AA1 L AH0 JH AY2 Z T UW1 Y UW1 F AO1 R W AH1 T AY1 HH AE1 V D AH1 N sp P L IY1 Z F ER0 G IH1 V M IY1 sp}|julia, i apologize to you for what i have done. please forgive me.|none
+1_1_d185|1|{AH1 sp AY1 V AO0 L R EH1 D IY0 F ER0 G IH1 V AH0 N Y UW1 sp AE1 K CH AH0 W AH0 L IY0 sp AY1 AO1 L S OW0 OW1 Y UW1 AE1 N AH0 P AA1 L AH0 JH IY0 sp AY1 W AA1 Z S OW1 R UW1 D T UW1 Y UW1 DH AE1 T D EY1 sp}|uh, i've already forgiven you. actually, i also owe you an apology. i was so rude to you that day.|none
+2_0_d185|0|{IH1 T D OW1 S T M AE1 T ER0 sp AY1 N OW1 DH AE1 T P IY1 P AH0 L AA1 R IY1 Z IY0 T UW1 G EH1 T M AE1 D W EH1 N DH EH1 R T AY1 ER0 D sp}|it does't matter. i know that people are easy to get mad when they're tired.|none
+3_1_d185|1|{TH AE1 NG K S F AO1 R Y AO1 R AH2 N D ER0 S T AE1 N D IH0 NG sp}|thanks for your understanding.|happiness
+4_0_d185|0|{Y UH1 R W EH1 L K AH0 M sp HH AE1 P IY0 K AH1 P AH0 L Z N IY1 D M Y UW1 CH AH0 W AH0 L AH2 N D ER0 S T AE1 N D IH0 NG sp}|you're welcome. happy couples need mutual understanding.|happiness
+0_0_d188|0|{M EY1 AY1 HH EH1 L P Y UW1 sp}|may i help you?|none
+1_1_d188|1|{DH IH1 S D R EH1 S IH1 Z B Y UW1 T AH0 F AH0 L sp M EY1 AY1 T R AY1 IH1 T AA1 N sp}|this dress is beautiful. may i try it on?|none
+2_0_d188|0|{AY1 M AH0 F R EY1 D Y UW1 K AE1 N T sp}|i'm afraid you can't.|sadness
+3_1_d188|1|{W AH1 T IH1 Z DH AH0 M AH0 T IH1 R IY0 AH0 L AH1 V DH IH1 S D R EH1 S sp}|what is the material of this dress?|none
+4_0_d188|0|{IH1 T S W AH1 N HH AH1 N D R AH0 D P ER0 S EH1 N T K AA1 T AH0 N sp}|it's one hundred percent cotton.|none
+5_1_d188|1|{DH AE1 T S G UH1 D sp K AE1 N Y UW1 G IH1 V M IY1 AH0 R AH0 D AH1 K SH AH0 N sp}|that's good. can you give me a reduction?|none
+6_0_d188|0|{IH1 T S AO0 L R EH1 D IY0 R AH0 D UW1 S T T W EH1 N T IY0 P ER0 S EH1 N T sp}|it's already reduced twenty percent.|none
+7_1_d188|1|{D UW1 Y UW1 HH AE1 V EH1 N IY0 CH IY1 P ER0 W AH1 N Z sp}|do you have any cheaper ones?|none
+8_0_d188|0|{Y EH1 S sp P L IY1 Z K AH1 M DH IH1 S W EY1 sp}|yes. please come this way.|none
+0_0_d195|0|{EH1 N IY0 TH IH2 NG AY1 K AE1 N D UW1 F AO1 R Y UW1 sp}|anything i can do for you?|none
+1_1_d195|1|{Y EH1 S sp AY1 JH AH1 S T F ER0 G AA1 T sp AH1 sp W EH1 R DH AH0 B EH1 D L IH1 N AH0 N Z D IH0 P AA1 R T M AH0 N T IH1 Z sp}|yes, i just forgot, uh, where the bed linens department is.|none
+2_0_d195|0|{IH1 T S AA1 N DH AH0 TH ER1 D F L AO1 R sp}|it's on the third floor.|none
+3_1_d195|1|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+4_0_d195|0|{Y UH1 R W EH1 L K AH0 M sp}|you're welcome.|happiness
+0_0_d221|0|{B AH0 N ZH UH1 R sp}|bonjour!|none
+1_1_d221|1|{W AH1 T sp}|what?|none
+2_0_d221|0|{AY1 S EH1 D sp B AH0 N ZH UH1 R sp}|i said, bonjour!|none
+3_1_d221|1|{W AH1 T S R AO1 NG W IH1 DH Y UW1 sp T EH1 D sp}|what's wrong with you, ted?|none
+4_0_d221|0|{AY1 M S P IY1 K IH0 NG F R EH1 N CH sp D OW1 N T Y UW1 N OW1 EH1 N IY0 TH IH2 NG sp}|i'm speaking french. don't you know anything?|none
+5_1_d221|1|{W AH1 T S R AO1 NG W IH1 DH S P IY1 K IH0 NG IH1 NG G L IH0 SH sp}|what's wrong with speaking english?|none
+6_0_d221|0|{W EH1 L sp AY1 JH AH1 S T G AA1 T B AE1 K F R AH1 M M AY1 L AE1 NG G W AH0 JH S K UW1 L sp W IY1 HH AE1 V T UW1 S P IY1 K F R EH1 N CH AO1 L D EY1 DH EH1 R sp N OW1 IH1 NG G L IH0 SH AH0 L AW1 D sp}|well, i just got back from my language school. we have to speak french all day there. no english allowed!|none
+7_1_d221|1|{W AH1 T AA1 R Y UW1 D UW1 IH0 NG DH AE1 T F AO1 R sp}|what are you doing that for?|none
+8_0_d221|0|{AY1 M T R AY1 IH0 NG T UW1 L ER1 N N UW1 S K IH1 L Z sp IH1 T M EY1 K S M IY1 M AO1 R K W AA1 L AH0 F AY2 D F AO1 R AH0 G UH1 D JH AA1 B sp}|i'm trying to learn new skills. it makes me more qualified for a good job.|none
+9_1_d221|1|{AH1 M sp sp G UH1 D F AO1 R Y UW1 sp}|umm.. good for you.|none
+0_0_d258|0|{DH EH1 R IH1 Z AH0 N UW1 K AA1 F IY0 SH AA1 P OW1 P AH0 N IH0 NG AH1 P D AW1 N DH AH0 S T R IY1 T sp}|there is a new coffee shop opening up down the street.|none
+1_1_d258|1|{AY1 HH OW1 P DH AE1 T DH EY1 HH AE1 V AH0 G UH1 D M EH1 N Y UW0 sp M OW1 S T K AA1 F IY0 SH AA1 P S OW1 N L IY0 HH AE1 V K AA1 F IY0 AH0 N D D EY1 N IH0 SH sp}|i hope that they have a good menu. most coffee shops only have coffee and danish.|none
+2_0_d258|0|{DH AE1 T S R AY1 T sp Y UW1 D OW1 N T D R IH1 NG K K AA1 F IY0 sp D UW1 Y UW1 sp}|that's right. you don't drink coffee, do you?|none
+3_1_d258|1|{N OW1 sp S OW1 IH1 T S Y UW1 ZH AH0 W AH0 L IY0 B AO1 R IH0 NG T UW1 JH OY1 N M AY1 F R EH1 N D Z IH0 N DH AH0 AE2 F T ER0 N UW1 N AE1 T AH0 R EH1 G Y AH0 L ER0 K AA1 F IY0 SH AA1 P sp}|no, so it's usually boring to join my friends in the afternoon at a regular coffee shop.|none
+4_0_d258|0|{W AH1 T K AY1 N D AH1 V TH IH1 NG Z W UH1 D Y UW1 L AY1 K T UW1 S IY1 AA1 N DH AH0 M EH1 N Y UW0 sp}|what kind of things would you like to see on the menu?|none
+5_1_d258|1|{M EY1 B IY0 AH0 F R UW1 T S AE1 L AH0 D AH0 N D AH0 F Y UW1 D IH1 F ER0 AH0 N T HH AA1 T S AE1 N D W IH0 CH IH0 Z AE1 T L IY1 S T sp}|maybe a fruit salad and a few different hot sandwiches at least.|none
+6_0_d258|0|{DH AE1 T SH UH1 D AH0 N T B IY1 T UW1 D IH1 F AH0 K AH0 L T sp S IH1 N S DH IH1 S IH1 Z AH0 S M AO1 L N EY1 B ER0 HH UH2 D sp M EY1 B IY0 DH EY1 W IH1 L T EY1 K DH IH1 S S AH0 G JH EH1 S CH AH0 N sp}|that shouldn't be too difficult. since this is a small neighborhood, maybe they will take this suggestion.|none
+7_1_d258|1|{L EH1 T S T R AY1 IH1 T sp}|let's try it!|none
+0_0_d264|0|{M AA1 M sp G IH1 V M IY1 AH0 G L AE1 S AH1 V AO1 R AH0 N JH JH UW1 S sp}|mom, give me a glass of orange juice.|none
+1_1_d264|1|{W AH1 T DH AH0 M AE1 JH IH0 K W AO1 R D T UW1 S EY1 IH1 F Y UW1 W AA1 N T S AH1 M TH IH0 NG G UH1 D T UW1 HH AE1 P AH0 N sp}|what the magic ward to say if you want something good to happen?|none
+2_0_d264|0|{OW1 sp S AA1 R IY0 M AA1 M sp AY1 F ER0 G AA1 T sp AH1 M P L IY1 Z G IH1 V M IY1 AH0 G L AE1 S AH1 V AO1 R AH0 N JH JH UW1 S sp}|oh, sorry mom, i forgot. umm please give me a glass of orange juice.|none
+3_1_d264|1|{OW1 K EY1 sp HH IY1 R Y UW1 AA1 R sp}|ok, here you are.|none
+4_0_d264|0|{OW1 sp IH1 T IH1 Z N AY1 S AH0 N D K OW1 L D sp D EH1 F AH0 N AH0 T L IY0 G UH1 D AO1 R AH0 N JH JH UW1 S sp}|oh, it is nice and cold, definitely good orange juice.|happiness
+5_1_d264|1|{JH IH1 M sp Y UW1 F ER0 G AA1 T AH0 N AH1 DH ER0 M AE1 JH IH0 K W ER1 D sp}|jim, you forgot another magic word.|none
+6_0_d264|0|{OW1 sp S AA1 R IY0 AH0 G EH1 N sp TH AE1 NG K Y UW1 M AA1 M sp}|oh, sorry again, thank you mom.|happiness
+7_1_d264|1|{Y UW1 AA1 R V EH1 R IY0 W EH1 L K AH0 M sp}|you are very welcome.|happiness
+0_0_d280|0|{AY1 D AH0 P R IY1 SH IY0 EY2 T IH1 T IH1 F Y UW1 K UH1 D HH EH1 L P M IY1 P IH1 K AW1 T AH0 G IH1 F T F AO1 R M AY1 D AO1 T ER0 sp}|i'd appreciate it if you could help me pick out a gift for my daughter.|none
+1_1_d280|1|{W UH1 D SH IY1 B IY1 IH1 N T R AH0 S T AH0 D IH0 N AH0 L AE1 P T AA2 P sp}|would she be interested in a laptop?|none
+2_0_d280|0|{DH AE1 T S IH0 G Z AE1 K T L IY0 W AH1 T AY1 W AA1 Z TH IH1 NG K IH0 NG AH1 V sp}|that's exactly what i was thinking of.|happiness
+3_1_d280|1|{AH0 M AE1 K W UH1 D B IY1 AE1 N EH1 K S AH0 L AH0 N T G IH1 F T sp}|a mac would be an excellent gift.|none
+4_0_d280|0|{AY1 L AY1 K M AE1 K S sp HH AW1 M AH1 CH F AO1 R AH0 M AE1 K sp}|i like macs. how much for a mac?|happiness
+5_1_d280|1|{Y UW1 K AE1 N T EY1 K AH0 F IH0 F T IY1 N sp IH1 N CH P R OW1 HH OW1 M R AY1 T N AW1 F AO1 R OW1 N L IY0 T W EH1 N T IY0 W AH1 N HH AH1 N D R AH0 D D AA1 L ER0 Z sp}|you can take a fifteen - inch pro home right now for only twenty one hundred dollars.|none
+6_0_d280|0|{AH0 M AE1 K IH1 T IH1 Z sp AY1 L T EY1 K W AH1 N HH OW1 M W IH1 DH M IY1 sp}|a mac it is. i'll take one home with me.|none
+7_1_d280|1|{SH IY1 L B IY1 V EH1 R IY0 HH AE1 P IY0 W IH1 DH DH IH1 S sp AH0 N D HH AW1 D UW1 Y UW1 P L AE1 N T UW1 P EY1 F AO1 R IH1 T sp}|she'll be very happy with this. and how do you plan to pay for it?|happiness
+8_0_d280|0|{AY1 L Y UW1 S M AY1 V IY1 Z AH0 sp IH1 F DH AE1 T S OW1 K EY1 sp}|i'll use my visa, if that's ok.|none
+9_1_d280|1|{N AW1 sp IH1 F Y UW1 L JH AH1 S T S AY1 N HH IY1 R sp DH AH0 M AE1 K IH1 Z AO1 L Y UH1 R Z sp}|now, if you'll just sign here, the mac is all yours.|none
+10_0_d280|0|{W IH1 L SH IY1 N IY1 D EH1 N IY0 TH IH2 NG B IH0 S AY1 D Z W AH1 T S IH0 N DH IH1 S B AA1 K S sp}|will she need anything besides what's in this box?|none
+11_1_d280|1|{EH1 V R IY0 TH IH2 NG SH IY1 N IY1 D Z IH1 Z R AY1 T HH IY1 R IH0 N DH AH0 B AA1 K S sp}|everything she needs is right here in the box.|none
+12_0_d280|0|{AY1 AH0 P R IY1 SH IY0 EY2 T Y AO1 R HH EH1 L P sp M EY1 B IY0 AY1 L B IY1 B AE1 K F AO1 R M AO1 R K AH0 M P Y UW1 T ER0 S T AH1 F sp}|i appreciate your help. maybe i'll be back for more computer stuff.|happiness
+13_1_d280|1|{Y AO1 R D AO1 T ER0 SH UH1 D G EH1 T S T R EY1 T EY1 Z F R AH1 M N AW1 AA1 N sp G UH1 D sp B AY1 sp}|your daughter should get straight a's from now on. good-bye.|none
+0_0_d289|0|{AW1 ER0 D IH1 N ER0 IH1 Z R EH1 D IY0 sp}|our dinner is ready.|none
+1_1_d289|1|{W AH1 T D UW1 W IY1 HH AE1 V F AO1 R DH AH0 D IH1 N ER0 N AW1 sp}|what do we have for the dinner now?|none
+2_0_d289|0|{P AH0 T EY1 T OW0 Z sp T AH0 M EY1 T OW0 Z AH0 N D K Y UW1 K AH0 M B ER0 sp}|potatoes, tomatoes and cucumber.|none
+3_1_d289|1|{D UW1 Y UW1 F IY1 D R AE1 B AH0 T S sp}|do you feed rabbits?|none
+4_0_d289|0|{IH1 T IH1 Z S EH1 D DH AE1 T G R IY1 N Z K AE1 N IH0 M P R UW1 V AW1 ER0 M AH0 T AE1 B AH0 L IH2 Z AH0 M sp IH0 N AH0 D IH1 SH AH0 N sp AY1 W AA1 N T T UW1 K IY1 P F IH1 T sp}|it is said that greens can improve our metabolism. in addition, i want to keep fit.|none
+5_1_d289|1|{W EH1 R IH1 Z M AY1 F EY1 V ER0 IH0 T W AY1 T B R EH1 D sp IH1 Z IH1 T IH0 N R AH0 F R IH1 JH ER0 EY2 T ER0 sp}|where is my favorite white bread? is it in refrigerator?|none
+6_0_d289|0|{AH1 M AY1 D IH1 D AH0 N T B AY1 EH1 N IY0 AH1 V IH1 T AE1 T AO1 L sp M OW1 S T HH EH1 L TH F UW1 D AA1 R G UH1 D F AO1 R Y UW1 sp B AH1 T D OW1 N T T EY1 S T G UH1 D sp}|umm i didn't buy any of it at all. most health food are good for you, but don't taste good.|none
+7_1_d289|1|{D UW1 Y UW1 P R IY0 P EH1 R S AH1 M D IH0 Z ER1 T F AO1 R M IY1 sp}|do you prepare some dessert for me?|none
+8_0_d289|0|{AY1 AE1 M K L IH1 R AH0 B AW1 T Y AO1 R S W IY1 T T UW1 TH sp S OW1 AY1 M EY1 D AH0 M IH1 K S T F R UW1 T D IH1 SH F AO1 R Y UW1 sp}|i am clear about your sweet tooth, so i made a mixed fruit dish for you.|none
+9_1_d289|1|{AA1 R Y UW1 T R AY1 IH0 NG T UW1 CH EY1 N JH AW1 ER0 IY1 T IH0 NG P AE1 T ER0 N Z sp}|are you trying to change our eating patterns?|none
+0_0_d308|0|{AA1 R Y UW1 R EH1 D IY0 T UW1 G OW1 T UW1 DH AH0 K AA1 N S ER0 T sp}|are you ready to go to the concert?|none
+1_1_d308|1|{Y EH1 S sp SH UH1 D W IY1 G OW1 DH EH1 R B AY1 B AH1 S S OW1 W IY1 AA1 R AH0 N T L EY1 T sp}|yes. should we go there by bus so we aren't late?|none
+2_0_d308|0|{AE1 K CH AH0 W AH0 L IY0 sp AH1 M W AY1 D OW1 N T W IY1 G OW1 DH EH1 R B AY1 B AY1 K sp W IY1 K UH1 D G EH1 T S T AH1 K IH0 N T R AE1 F IH0 K IH1 F W IY1 T R AE1 V AH0 L B AY1 B AH1 S IH0 N S AH1 CH AW1 ER0 sp}|actually, umm why don't we go there by bike? we could get stuck in traffic if we travel by bus in such hour.|none
+3_1_d308|1|{DH AE1 T S T R UW1 sp S AY1 K AH0 L IH0 NG IH1 Z G UH1 D F AO1 R AW1 ER0 IH0 N V AY1 R AH0 N M AH0 N T sp T UW1 sp L EH1 T M IY1 JH AH1 S T G EH1 T M AY1 HH EH1 L M AH0 T DH EH1 N sp}|that's true. cycling is good for our environment, too. let me just get my helmet then.|none
+4_0_d308|0|{IH1 Z Y AO1 R HH EH1 L M AH0 T K AH1 M F ER0 T AH0 B AH0 L sp}|is your helmet comfortable?|none
+5_1_d308|1|{N AA1 T R IH1 L IY0 sp B AH1 T AY1 L AY1 K T DH AH0 D IH0 Z AY1 N sp S OW1 AY1 G AA1 T IH1 T sp}|not really, but i liked the design, so i got it.|none
+6_0_d308|0|{M EY1 B IY0 Y UW1 SH UH1 D TH IH1 NG K AH0 B AW1 T G EH1 T IH0 NG AH0 R AW1 N D HH EH1 L M AH0 T DH EH1 R B EH1 T ER0 sp}|maybe you should think about getting a round helmet ; they're better.|none
+7_1_d308|1|{AY1 L TH IH1 NG K AH0 B AW1 T IH1 T sp}|i'll think about it.|none
+8_0_d308|0|{IH1 Z DH AE1 T Y AO1 R N UW1 B AY1 S IH0 K AH0 L sp}|is that your new bicycle?|none
+9_1_d308|1|{Y EH1 S sp M AY1 HH AH1 Z B AH0 N D G EY1 V IH1 T T UW1 M IY1 F AO1 R M AY1 B ER1 TH D EY2 sp D UW1 Y UW1 L AY1 K IH1 T sp}|yes, my husband gave it to me for my birthday. do you like it?|none
+10_0_d308|0|{IH1 T S DH AH0 N UW1 AH0 S T T EH1 N S P IY1 D S AY1 K AH0 L IH0 NG M AW1 N T AH0 N B AY1 K sp DH IY1 Z AA1 R R IH1 L IY0 IH0 K S P EH1 N S IH0 V sp}|it's the newest ten speed cycling mountain bike. these are really expensive!|none
+11_1_d308|1|{AY1 L AY1 K EH1 V R IY0 TH IH2 NG AH0 B AW1 T IH1 T IH0 K S EH1 P T F AO1 R DH AH0 B R EY1 K S sp DH EY1 AA1 R AH0 B IH1 T S T IH1 K IY0 sp}|i like everything about it except for the brakes. they are a bit sticky.|none
+12_0_d308|0|{AY1 K AE1 N F IH1 K S DH OW1 Z F AO1 R Y UW1 sp IH1 Z DH EH1 R EH1 N IY0 TH IH2 NG EH1 L S R AO1 NG W IH1 DH IH1 T sp}|i can fix those for you. is there anything else wrong with it?|none
+13_1_d308|1|{W EH1 L sp M AY1 S AE1 D AH0 L IH1 Z T UW1 L OW1 F AO1 R M IY1 sp D UW1 Y UW1 N OW1 HH AW1 T UW1 CH EY1 N JH DH AH0 HH AY1 T sp}|well, my saddle is too low for me. do you know how to change the height?|none
+14_0_d308|0|{DH AE1 T S IY1 Z IY0 sp IH1 T S IH0 M P AO1 R T AH0 N T T UW1 HH AE1 V DH AH0 S AE1 D AH0 L HH AY1 IH0 N AH1 F S OW1 DH AE1 T Y AO1 R L EH1 G Z K AE1 N IH0 K S T EH1 N D F UH1 L IY0 W EH1 N Y UW1 AA1 R AA1 N Y AO1 R B AY1 S IH0 K AH0 L sp}|that's easy. it's important to have the saddle high enough so that your legs can extend fully when you are on your bicycle.|none
+15_1_d308|1|{IH1 Z DH AE1 T W AY1 M AY1 N IY1 Z HH AE1 V F EH1 L T S AO1 R AE1 F T ER0 EH1 V ER0 IY0 T AY1 M AY1 V R IH1 D AH0 N M AY1 B AY1 K sp}|is that why my knees have felt sore after every time i've ridden my bike?|none
+16_0_d308|0|{IH1 T S P AA1 S AH0 B AH0 L sp G IH1 V M IY1 AH0 M IH1 N AH0 T AH0 N D AY1 K AE1 N F IH1 K S DH IY1 Z F AO1 R Y UW1 AH0 N D DH EH1 N W IY1 K AE1 N G OW1 sp}|it's possible. give me a minute and i can fix these for you and then we can go.|none
+0_0_d312|0|{HH EY1 sp G AY1 Z sp D IH1 D Y UW1 S IY1 DH AE1 T S AY1 N sp}|hey, guys! did you see that sign?|none
+1_1_d312|1|{N OW1 sp W AH1 T D IH1 D IH1 T S EY1 sp}|no. what did it say?|none
+2_0_d312|0|{DH EH1 R Z AH0 G ER0 AA1 ZH S EY1 L ER0 AW1 N D DH AH0 K AO1 R N ER0 sp}|there's a garage sale around the corner.|none
+3_1_d312|1|{AH0 G ER0 AA1 ZH S EY1 L sp sp sp DH AE1 T S W EH1 R P IY1 P AH0 L CH EH1 K AW1 T K AA1 R Z sp R AY1 T sp}|a garage sale... that's where people check out cars, right?|none
+4_0_d312|0|{W AH1 T sp K AA1 R Z sp AH1 M AA1 R Y UW1 S IH1 R IY0 AH0 S sp}|what? cars? umm are you serious?|surprise
+5_1_d312|1|{AY1 M P UH1 L IH0 NG Y AO1 R L EH1 G sp P AO1 L sp AY1 M AH0 SH AA1 P IH0 NG K W IY1 N sp R IH0 M EH1 M B ER0 sp S OW1 AH1 V K AO1 R S AY1 N OW1 W AH1 T AH0 G ER0 AA1 ZH S EY1 L IH1 Z AO1 L AH0 B AW1 T sp}|i'm pulling your leg, paul. i'm a shopping queen, remember? so of course i know what a garage sale is all about!|none
+0_1_d321|1|{IH0 K S K Y UW1 S M IY1 sp D R AY1 V ER0 sp L EH1 T M IY1 AO1 F HH IY1 R sp P L IY1 Z sp}|excuse me, driver. let me off here, please.|none
+1_0_d321|0|{W EH1 L sp IH1 T S N AA1 T DH AH0 S UW1 P ER0 M AA2 R K IH0 T Y UW1 W AA1 N T sp}|well, it's not the supermarket you want.|none
+2_1_d321|1|{AY1 HH AE1 V JH AH1 S T CH EY1 N JH D M AY1 P L AE1 N sp}|i have just changed my plan.|none
+3_0_d321|0|{AH1 sp OW1 K EY1 sp}|uh, ok.|none
+4_1_d321|1|{HH IY1 R IH1 Z DH AH0 F EH1 R AH0 N D K IY1 P DH AH0 CH EY1 N JH P L IY1 Z sp}|here is the fare and keep the change please.|none
+0_0_d343|0|{W AH1 T S DH AH0 M AE1 T ER0 sp D IH1 R sp}|what's the matter, dear?|none
+1_1_d343|1|{S AH1 M TH IH0 NG AA1 F AH0 L HH AE1 P AH0 N D sp W IY1 W EH1 N T T UW1 DH AH0 P AO0 R T OW0 B EH1 L OW0 R OW1 D sp AH0 N D S AH1 M W AH2 N S T OW1 L M AY1 HH AE1 N D B AE2 G sp}|something awful happened. we went to the portobello road, and someone stole my handbag.|sadness
+2_0_d343|0|{OW1 sp D IH1 R sp D IH1 D Y UW1 L UW1 Z AH0 L AA1 T AH1 V M AH1 N IY0 sp}|oh, dear. did you lose a lot of money?|none
+3_1_d343|1|{N OW1 sp OW1 N L IY0 AH0 F Y UW1 P AW1 N D Z sp B AH1 T M AY1 P AE1 S P AO2 R T W AA1 Z IH0 N DH AH0 B AE1 G sp DH AE1 T S W AH1 T AY1 M R IH1 L IY0 W ER1 IY0 D AH0 B AW1 T sp}|no. only a few pounds. but my passport was in the bag. that's what i'm really worried about.|sadness
+4_0_d343|0|{Y UW1 M AH1 S T T EH1 L DH AH0 EH1 M B AH0 S IY0 AH0 B AW1 T IH1 T sp AH0 N D AY1 TH IH1 NG K DH EY1 L IH1 SH UW0 Y UW1 W IH1 DH AH0 N UW1 W AH1 N sp}|you must tell the embassy about it. and i think they'll issue you with a new one.|none
+5_1_d343|1|{AY1 D B EH1 T ER0 G OW1 T AH0 M AA1 R OW2 sp}|i'd better go tomorrow.|sadness
+6_0_d343|0|{N OW1 sp B AH1 T Y UW1 M AH1 S T N AA1 T L IY1 V IH1 T T UW1 L AO1 NG sp D IH1 D Y UW1 R IY0 P AO1 R T IH1 T DH AH0 P AH0 L IY1 S sp}|no. but you must not leave it too long. did you report it the police?|none
+7_1_d343|1|{N OW1 sp AY1 K UH1 D AH0 N T F AY1 N D AH0 P AH0 L IY1 S M AH0 N sp}|no. i couldn't find a policeman.|sadness
+8_0_d343|0|{W EH1 L sp Y UW1 M AH1 S T R IY0 P AO1 R T DH AE1 T IH1 T S B IH1 N S T OW1 L AH0 N sp AH0 N D G IH1 V DH AH0 P AH0 L IY1 S D IH0 S K R IH1 P SH AH0 N AH1 V Y AO1 R B AE1 G sp}|well. you must report that it's been stolen. and give the police description of your bag.|none
+9_1_d343|1|{Y EH1 S sp AY1 L D UW1 IH1 T T AH0 M AA1 R OW2 sp}|yes. i'll do it tomorrow.|none
+10_0_d343|0|{AH0 N D L IY1 S AH0 sp}|and lisa.|none
+11_1_d343|1|{Y EH1 S sp}|yes?|none
+12_0_d343|0|{D OW1 N T B IY1 T UW1 AH1 P S EH2 T sp IH1 T S N AA1 T DH AH0 EH1 N D AH1 V DH AH0 W ER1 L D sp}|don't be too upset. it's not the end of the world.|none
+0_1_d359|1|{K EH1 R AH0 L AY2 N M EH1 N Z IY0 Z S P IY1 K IH0 NG sp}|caroline menzies speaking.|none
+1_0_d359|0|{AH1 M K UH1 D AY1 S P IY1 K T UW1 D AY0 AE1 N AH0 K ER1 Z AH0 N sp}|umm could i speak to diana curzon?|none
+2_1_d359|1|{AY1 M AH0 F R EY1 D SH IY1 Z IH0 N AH0 M IY1 T IH0 NG AE1 T DH AH0 M OW1 M AH0 N T sp HH UW1 Z S P IY1 K IH0 NG sp}|i'm afraid she's in a meeting at the moment. who's speaking?|none
+3_0_d359|0|{DH IH1 S IH1 Z JH AA1 N L AA1 IH0 NG F R AH1 M D AE1 N T AH0 N Z sp}|this is john laing from dantons.|none
+4_1_d359|1|{K AE1 N AY1 T EY1 K AH0 M EH1 S AH0 JH sp M IH1 S T ER0 L AA1 IH0 NG sp}|can i take a message, mister laing?|none
+5_0_d359|0|{Y EH1 S sp P L IY1 Z sp AY1 M AE1 K CH AH0 W AH0 L IY0 R IH0 T ER1 N IH0 NG HH ER0 K AO1 L sp S OW1 P ER0 HH AE1 P S Y UW1 K UH1 D T EH1 L HH ER0 DH AE1 T AY1 K AO1 L D sp}|yes, please. i'm actually returning her call. so perhaps you could tell her that i called.|none
+6_1_d359|1|{S ER1 T AH0 N L IY0 sp D AH1 Z SH IY1 HH AE1 V Y AO1 R N AH1 M B ER0 sp}|certainly. does she have your number?|none
+7_0_d359|0|{SH IY1 M AH1 S T HH AE1 V sp B AH1 T L EH1 T M IY1 G IH1 V IH1 T T UW1 Y UW1 EH1 N IY0 W EY2 sp IH1 T S OW1 sp W AH1 N sp S EH1 V AH0 N sp OW1 sp F AY1 V F AO1 R sp F AY1 V sp F AY1 V sp S IH1 K S sp T UW1 sp TH R IY1 sp}|she must have, but let me give it to you anyway. it's o-one-seven-o-five four-five-five-six-two-three.|none
+8_1_d359|1|{OW1 sp W AH1 N sp S EH1 V AH0 N sp OW1 sp F AY1 V sp sp sp}|o-one-seven-o-five...|none
+9_0_d359|0|{F AO1 R F AY1 V F AY1 V S IH1 K S T UW1 TH R IY1 sp}|four five five six two three.|none
+10_1_d359|1|{F AO1 R F AY1 V F AY1 V S IH1 K S T UW1 TH R IY1 sp}|four five five six two three.|none
+11_0_d359|0|{DH AE1 T S R AY1 T sp}|that's right.|none
+12_1_d359|1|{OW1 K EY1 sp AY1 L M EY1 K SH UH1 R SH IY1 G EH1 T S DH AH0 M EH1 S AH0 JH sp}|ok. i'll make sure she gets the message.|none
+13_0_d359|0|{TH AE1 NG K Y UW1 sp}|thank you.|none
+0_0_d364|0|{T UW1 N AH1 M B ER0 TH R IY1 Z sp P L IY1 Z sp}|two number threes, please.|none
+1_1_d364|1|{AO1 L R AY1 T sp W AH1 T W UH1 D Y UW1 L AY1 K T UW1 D R IH1 NG K sp}|all right. what would you like to drink?|none
+2_0_d364|0|{D AY1 AH0 T K OW1 K sp}|diet coke.|none
+3_1_d364|1|{R EH1 G Y AH0 L ER0 AO1 R L AA1 R JH sp}|regular or large?|none
+4_0_d364|0|{R EH1 G Y AH0 L ER0 sp P L IY1 Z sp}|regular, please.|none
+5_1_d364|1|{OW1 K EY1 sp EH1 N IY0 TH IH2 NG EH1 L S sp}|ok. anything else?|none
+6_0_d364|0|{N OW1 sp TH AE1 NG K S sp}|no, thanks.|none
+7_1_d364|1|{F AO1 R HH IY1 R AO1 R T UW1 G OW1 sp}|for here or to go?|none
+8_0_d364|0|{F AO1 R HH IY1 R sp}|for here.|none
+0_1_d371|1|{L UH1 K sp JH AO1 R JH sp DH EH1 R Z DH AH0 G R EY1 T W AO1 L sp}|look, george, there's the great wall.|none
+1_0_d371|0|{AY1 S IY1 sp IH1 T S AA1 N T AA1 P AH1 V DH AH0 HH IH1 L Z sp}|i see. it's on top of the hills.|none
+2_1_d371|1|{Y AE1 sp IH1 T S T R EH1 CH AH0 Z OW1 V ER0 F AO1 R TH AW1 Z AH0 N D Z AH1 V M AY1 L Z sp}|yeah, it stretches over for thousands of miles.|none
+3_0_d371|0|{AY1 N OW1 sp IH1 T S AH0 M EY1 JH ER0 S IH1 M B AH0 L AH1 V CH AY1 N AH0 sp}|i know. it's a major symbol of china.|none
+4_1_d371|1|{W EH1 R K AE1 N W IY1 K L AY1 M IH1 T sp}|where can we climb it?|none
+5_0_d371|0|{D UW1 W IY1 HH AE1 V EH1 N IY0 CH OY1 S AH0 Z sp}|do we have any choices?|none
+6_1_d371|1|{W EH1 L sp W IY1 K UH1 D T EY1 K DH AH0 K EY1 B AH0 L K AA1 R sp}|well, we could take the cable car.|none
+7_0_d371|0|{AA1 sp sp sp L EH1 T S JH AH1 S T K L AY1 M sp AH1 M IH1 T S M AO1 R F AH1 N sp AY1 TH IH1 NG K sp}|ah... let's just climb. umm it's more fun, i think.|none
+8_1_d371|1|{OW1 K EY1 sp L EH1 T S G OW1 sp}|ok. let's go.|none
+9_0_d371|0|{W EH1 L sp DH AE1 T W AA1 Z T AH1 F sp}|well, that was tough.|none
+10_1_d371|1|{B AH1 T W IY1 M EY1 D IH1 T sp}|but we made it.|none
+11_0_d371|0|{DH IH1 S L UH1 K S G R EY1 T sp W EH1 N W AA1 Z IH1 T B IH1 L T sp}|this looks great. when was it built?|none
+12_1_d371|1|{IH1 T W AA1 Z F ER1 S T B IH1 L T AH0 B AW1 T T W EH1 N T IY0 sp F AY1 V HH AH1 N D R AH0 D Y IH1 R Z AH0 G OW1 sp}|it was first built about twenty-five hundred years ago.|none
+13_0_d371|0|{DH AE1 T S R IH0 M AA1 R K AH0 B AH0 L sp}|that's remarkable.|happiness
+14_1_d371|1|{DH EH1 R AA1 R S OW1 M EH1 N IY0 EY1 N CH AH0 N T R EH1 L IH0 K S IH0 N CH AY1 N AH0 sp}|there are so many ancient relics in china.|happiness
+0_0_d373|0|{D UW1 Y UW1 L AY1 K EH1 TH N IH0 K F UW1 D sp}|do you like ethnic food?|none
+1_1_d373|1|{AY1 D UW1 sp M AY1 F EY1 V ER0 IH0 T S AA1 R M EH1 K S AH0 K AH0 N sp T AY1 sp AH0 N D IH1 N D IY0 AH0 N sp}|i do! my favorites are mexican, thai, and indian.|happiness
+2_0_d373|0|{R IH1 L IY0 sp HH AE1 V Y UW1 EH1 V ER0 T R AY1 D M ER0 AA1 K AH0 N sp}|really? have you ever tried moroccan?|surprise
+3_1_d373|1|{AY1 K AE1 N T S EY1 DH AE1 T AY1 HH AE1 V sp W AH1 T AA1 R DH AH0 B EY1 S IH0 K IH0 N G R IY1 D IY0 AH0 N T S sp}|i can't say that i have. what are the basic ingredients?|none
+4_0_d373|0|{AY1 D OW1 N T N OW1 sp AH0 F R EH1 N D AH1 V M AY1 N S EH1 D AY1 SH UH1 D T R AY1 IH1 T sp}|i don't know. a friend of mine said i should try it.|none
+5_1_d373|1|{D UW1 Y UW1 N OW1 W EH1 R AH0 M ER0 AA1 K AH0 N R EH1 S T ER0 AA2 N T IH1 Z sp}|do you know where a moroccan restaurant is?|none
+6_0_d373|0|{AE1 Z AH0 M AE1 T ER0 AH1 V F AE1 K T sp HH IY1 G EY1 V M IY1 DH IH1 S AE1 D R EH2 S sp}|as a matter of fact, he gave me this address.|none
+7_1_d373|1|{L EH1 T S G OW1 DH EH1 R F AO1 R L AH1 N CH sp AY1 M AH1 P F AO1 R AE1 N AE0 D V EH1 N CH ER0 sp}|let's go there for lunch! i'm up for an adventure!|happiness
+0_0_d403|0|{IH0 K S K Y UW1 S M IY1 sp AY1 W AH1 N D ER0 IH1 F Y UW1 K AE1 N HH EH1 L P M IY1 sp}|excuse me. i wonder if you can help me.|none
+1_1_d403|1|{AY1 L T R AY1 M AY1 B EH1 S T sp}|i'll try my best.|none
+2_0_d403|0|{AY1 M K AH0 M P L IY1 T L IY0 L AO1 S T sp AH1 M AY1 M T R AY1 IH0 NG T UW1 F AY1 N D DH AH0 W EY1 T UW1 M AY1 D AO1 T ER0 Z HH OW1 M sp}|i'm completely lost. umm i'm trying to find the way to my daughter's home.|none
+3_1_d403|1|{P L IY1 Z T EH1 L M IY1 W EH1 R Y AO1 R D AO1 T ER0 Z HH OW1 M IH1 Z sp}|please tell me where your daughter's home is.|none
+4_0_d403|0|{HH ER0 HH OW1 M IH1 Z B IH0 T W IY1 N DH AH0 CH AY1 N AH0 HH OW0 T EH1 L AH0 N D L IY1 SH EH1 NG TH IY1 AH0 T ER0 sp}|her home is between the china hotel and li sheng theater.|none
+5_1_d403|1|{T ER1 N R AY1 T AE1 T DH AH0 S EH1 K AH0 N D T R AE1 F IH0 K L AY1 T AH0 N D Y UW1 W IH1 L S IY1 IH1 T AA1 N Y AO1 R L EH1 F T sp}|turn right at the second traffic light and you will see it on your left.|none
+6_0_d403|0|{AY1 M G R EY1 T F AH0 L T UW1 Y UW1 sp}|i'm grateful to you.|happiness
+7_1_d403|1|{IH1 T S AH0 P L EH1 ZH ER0 sp}|it's a pleasure.|happiness
+0_0_d422|0|{AH1 M IH0 K S K Y UW1 S M IY1 sp M IH1 S sp AY1 M B AA1 B sp}|umm excuse me, miss. i'm bob.|none
+1_1_d422|1|{AY1 M EY1 M IY0 sp HH AW1 D UW1 Y UW1 D UW1 sp}|i'm amy. how do you do?|none
+2_0_d422|0|{AY1 M V EH1 R IY0 G L AE1 D T UW1 M IY1 T Y UW1 sp M EY1 AY1 HH AE1 V DH IH1 S D AE1 N S W IH1 DH Y UW1 sp}|i'm very glad to meet you. may i have this dance with you?|happiness
+3_1_d422|1|{S ER1 T AH0 N L IY0 sp AY1 S AH0 P OW1 Z Y UW1 D AE1 N S AO1 F AH0 N sp}|certainly! i suppose you dance often.|happiness
+4_0_d422|0|{N OW1 sp AY1 D OW1 N T AO1 F AH0 N D AE1 N S sp IH1 Z AH0 N T DH IH1 S AH0 W AH1 N D ER0 F AH0 L P AA1 R T IY0 sp}|no, i don't often dance. isn't this a wonderful party?|happiness
+5_1_d422|1|{Y EH1 S sp AY1 M G L AE1 D AY1 HH AE1 V K AH1 M sp}|yes, i'm glad i have come.|happiness
+6_0_d422|0|{HH AW1 D UW1 Y UW1 L AY1 K F AA1 K S sp T R AA1 T sp}|how do you like fox-trot?|happiness
+7_1_d422|1|{AY1 L AY1 K IH1 T V EH1 R IY0 M AH1 CH sp}|i like it very much.|happiness
+8_0_d422|0|{Y UW1 D AE1 N S B Y UW1 T AH0 F L IY0 sp}|you dance beautifully.|happiness
+9_1_d422|1|{TH AE1 NG K Y UW1 sp IH1 T S L AH1 K IY0 DH AE1 T AY1 HH AE1 V G AA1 T AH0 G UH1 D P AA1 R T N ER0 sp}|thank you. it's lucky that i have got a good partner.|happiness
+10_0_d422|0|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+0_1_d443|1|{EH1 R IH0 K sp HH AW1 L AO1 NG W IH1 L Y UW1 B IY1 IH0 N CH AY1 N AH0 sp}|eric, how long will you be in china?|none
+1_0_d443|0|{AY1 D OW1 N T N OW1 sp W EH1 L sp M AY1 K AA1 N T R AE2 K T HH IY1 R IH1 Z F AO1 R W AH1 N Y IH1 R sp AH0 N D AY1 D OW1 N T N OW1 W AH1 T AY1 SH UH1 D D UW1 AE1 F T ER0 DH AE1 T sp}|i don't know. well, my contract here is for one year, and i don't know what i should do after that.|none
+2_1_d443|1|{W EH1 L sp HH AE1 V Y UW1 EH1 V ER0 TH AO1 T AH0 B AW1 T L ER1 N IH0 NG S AH1 M CH AY0 N IY1 Z sp}|well, have you ever thought about learning some chinese?|none
+3_0_d443|0|{AE1 K CH AH0 W AH0 L IY0 sp AY1 AE1 M L ER1 N IH0 NG DH AE1 T N AW1 sp B AH1 T IH1 T S T UW1 HH AA1 R D F AO1 R M IY1 sp AH1 M Y UW1 N OW1 DH AH0 F AO1 R T OW1 N Z AH0 N D DH AH0 S T AH1 F sp}|actually, i am learning that now. but it's too hard for me. umm you know the four tones and the stuff.|none
+4_1_d443|1|{D OW1 N T W ER1 IY0 sp AO1 L TH IH1 NG Z AA1 R D IH1 F AH0 K AH0 L T B IH0 F AO1 R DH EY1 AA1 R IY1 Z IY0 sp}|don't worry. all things are difficult before they are easy.|none
+5_0_d443|0|{Y UW1 HH IH1 T DH AH0 N EY1 L R AY1 T AA1 N DH AH0 HH EH1 D sp}|you hit the nail right on the head.|none
+6_1_d443|1|{W EH1 L sp AA1 R Y UW1 IH0 N V EH1 S T AH0 D IH0 N S AH1 M L AE1 NG G W AH0 JH sp IH0 K S CH EY1 N JH P R OW1 G R AE2 M sp}|well, are you invested in some language-exchange program?|none
+7_0_d443|0|{W AH1 T IH1 Z IH1 T sp}|what is it?|none
+8_1_d443|1|{IH1 T S W EH1 R AY1 T IY1 CH Y UW1 CH AY0 N IY1 Z sp AH0 N D IH0 N IH0 K S CH EY1 N JH Y UW1 T IY1 CH M IY1 IH1 NG G L IH0 SH sp}|it's where i teach you chinese, and in exchange you teach me english.|none
+9_0_d443|0|{AA1 S AH0 M sp AY1 V B IH1 N G IH1 V IH0 NG DH IH1 S AH0 L AA1 T AH1 V TH AO1 T sp W EH1 N K AE1 N W IY1 D UW1 DH IH1 S sp}|awesome. i've been giving this a lot of thought. when can we do this?|none
+10_1_d443|1|{HH AW1 AH0 B AW1 T DH IH1 S S AH1 N D EY2 sp}|how about this sunday?|none
+11_0_d443|0|{OW1 K EY1 sp K UW1 L sp}|ok, cool.|happiness
+12_1_d443|1|{G UH1 D sp AY1 L G IH1 V Y UW1 AH0 K AO1 L T AH0 N AY1 T sp}|good. i'll give you a call tonight.|happiness
+13_0_d443|0|{N OW1 P R AA1 B L AH0 M sp}|no problem.|happiness
+14_1_d443|1|{B AY1 sp}|bye.|none
+0_0_d454|0|{HH EY1 sp S UW1 Z IY0 sp W AH1 T HH EH1 L TH K L AH1 B D UW1 Y UW1 B IH0 L AO1 NG T UW1 sp}|hey, susie, what health club do you belong to?|none
+1_1_d454|1|{T OW1 T AH0 L F IH1 T N AH0 S sp W AY1 sp}|total fitness, why?|none
+2_0_d454|0|{W EH1 L sp AY1 V B IH1 N G OW1 IH0 NG T UW1 AE0 TH L EH1 T IH0 K IH0 K S P R EH1 S sp B AH1 T AY1 D OW1 N T L AY1 K IH1 T DH EH1 R sp}|well, i've been going to athletic express, but i don't like it there.|none
+3_1_d454|1|{R IH1 L IY0 sp W AY1 N AA1 T sp AY1 HH IY1 R IH1 T S P R IH1 T IY0 G UH1 D sp}|really? why not? i hear it's pretty good.|surprise
+4_0_d454|0|{AH1 M DH AH0 P IY1 P AH0 L D OW1 N T R IH1 L IY0 W ER1 K AW1 T DH EH1 R sp DH EY1 JH AH1 S T S T AE1 N D ER0 AW1 N D AH0 N D T AO1 K AO1 L DH AH0 T AY1 M sp}|umm the people don't really work out there. they just stand around and talk all the time.|none
+5_1_d454|1|{OW1 sp IH1 T S W AH1 N AH1 V DH OW1 Z P L EY1 S AH0 Z sp}|oh, it's one of those places.|none
+6_0_d454|0|{Y AE1 sp IH1 Z Y AO1 R K L AH1 B D IH1 F ER0 AH0 N T sp}|yeah, is your club different?|none
+7_1_d454|1|{W EH1 L sp DH EY1 HH AE1 V D IH1 F ER0 AH0 N T R UW1 M Z sp AY1 L IH1 F T W EY1 T S B AY1 DH AH0 P UW1 L W EH1 R DH EH1 R AA1 R AH0 N T S OW1 M EH1 N IY0 P IY1 P AH0 L sp}|well, they have different rooms. i lift weights by the pool where there aren't so many people.|none
+8_0_d454|0|{D UW1 DH EY1 HH AE1 V AH0 L AA1 T AH1 V IH0 K W IH1 P M AH0 N T sp}|do they have a lot of equipment?|none
+9_1_d454|1|{Y AE1 sp DH EY1 HH AE1 V AO1 L DH AH0 M AH0 SH IY1 N Z sp AH0 P UW1 L sp AH0 N D AH0 S T IY1 M R UW1 M AH0 N D S AO1 N AH0 sp}|yeah, they have all the machines, a pool, and a steam room and sauna.|none
+10_0_d454|0|{S AW1 N D Z N AY1 S sp W AH1 T AH0 B AW1 T K L AE1 S AH0 Z sp}|sounds nice. what about classes?|happiness
+11_1_d454|1|{DH AH0 Y UW1 ZH AH0 W AH0 L sp ER0 OW1 B IH0 K S sp K IH1 K S B AE2 K IH0 NG sp Y OW1 G AH0 sp DH EY1 JH AH1 S T S T AA1 R T AH0 D AH0 T AY1 K AY1 K L AE1 S T UW1 sp}|the usual. aerobics, kickboxing, yoga. they just started a tai chi class too.|none
+12_0_d454|0|{W AW1 sp DH AE1 T S AW1 N D Z G R EY1 T sp}|wow, that sounds great.|happiness
+13_1_d454|1|{W EH1 L sp AY1 HH AE1 V AH0 G EH1 S T P AE1 S sp W AY1 D OW1 N T Y UW1 K AH1 M W IH1 DH M IY1 T AH0 N AY1 T sp}|well, i have a guest pass. why don't you come with me tonight?|none
+14_0_d454|0|{R IH1 L IY0 sp TH AE1 NG K S sp AY1 L S T AA1 P B AY1 W EH1 N AY1 G EH1 T AO1 F W ER1 K sp}|really? thanks. i'll stop by when i get off work.|none
+15_1_d454|1|{P ER1 F IH2 K T sp S IY1 Y UW1 L EY1 T ER0 sp}|perfect. see you later.|happiness
+16_0_d454|0|{OW1 K EY1 sp S IY1 Y UW1 sp}|ok, see you.|none
+0_1_d468|1|{M EY1 AY1 HH EH1 L P Y UW1 sp}|may i help you?|none
+1_0_d468|0|{K AE1 N Y UW1 R EH2 K AH0 M EH1 N D S AH1 M P AA1 P Y AH0 L ER0 T UH1 R sp}|can you recommend some popular tour?|none
+2_1_d468|1|{HH AW1 L AO1 NG IH1 Z Y AO1 R JH ER1 N IY0 sp}|how long is your journey?|none
+3_0_d468|0|{T UW1 W IY1 K S AH0 N D AY1 W UH1 D L AY1 K T UW1 G OW1 AH0 B R AO1 D sp}|two weeks and i would like to go abroad.|none
+4_1_d468|1|{AH1 M DH AH0 P AA1 P Y AH0 L ER0 T UH1 R AH1 V DH AH0 S IY1 Z AH0 N IH1 Z AH0 F AO1 R T IY1 N sp D EY1 Z sp S AY1 T S IY1 IH0 NG T UW1 V EH1 N AH0 S sp AA1 R Y UW1 IH1 N T R AH0 S T AH0 D IH0 N DH AE1 T S IH1 T IY0 sp}|umm the popular tour of the season is a fourteen - days' sightseeing to venice. are you interested in that city?|none
+5_0_d468|0|{Y EH1 S sp AH1 V K AO1 R S sp AY1 W IH1 L B UH1 K DH AH0 T UH1 R sp}|yes, of course. i will book the tour.|none
+0_1_d478|1|{Y UH1 R HH AE1 V IH0 NG K AA1 F IY0 sp AA1 R AH0 N T Y UW1 sp}|you're having coffee, aren't you?|none
+1_0_d478|0|{Y EH1 S sp AY1 AO1 L W EY2 Z HH AE1 V K AA1 F IY0 IH0 N DH AH0 M AO1 R N IH0 NG sp}|yes, i always have coffee in the morning.|none
+2_1_d478|1|{AH1 sp W AH1 T AA1 R Y UW1 G OW1 IH0 NG T UW1 HH AE1 V T UW1 IY1 T sp}|uh, what are you going to have to eat?|none
+3_0_d478|0|{AY1 M G OW1 IH0 NG T UW1 AO1 R D ER0 S K R AE1 M B AH0 L D EH1 G Z AH0 N D T OW1 S T sp W AH1 T AH0 B AW1 T Y UW1 sp}|i'm going to order scrambled eggs and toast. what about you?|none
+4_1_d478|1|{DH AE1 T S AW1 N D Z G UH1 D T UW1 M IY1 sp AY1 L HH AE1 V DH AH0 S EY1 M sp}|that sounds good to me. i'll have the same.|happiness
+0_1_d489|1|{HH AH0 L OW1 sp AY1 B AA1 T AH0 CH AY1 N AH0 D R EH1 S IH0 N Y AO1 R SH AA1 P DH IH1 S M AO1 R N IH0 NG sp}|hello, i bought a china dress in your shop this morning.|none
+1_0_d489|0|{Y EH1 S sp}|yes?|none
+2_1_d489|1|{AY1 B AA1 T W AH1 N S AY1 Z AH1 P B AY1 M IH0 S T EY1 K sp}|i bought one size up by mistake.|none
+3_0_d489|0|{OW1 sp D IH1 D Y UW1 sp}|oh, did you?|none
+4_1_d489|1|{AY1 W AH1 N D ER0 IH1 F Y UW1 K AE1 N CH EY1 N JH IH1 T T UW1 W AH1 N S AY1 Z D AW1 N sp}|i wonder if you can change it to one size down.|none
+5_0_d489|0|{Y EH1 S sp AH1 V K AO1 R S sp W IH1 L Y UW1 K AH1 M W IH1 DH R IH0 S IY1 T sp}|yes, of course. will you come with receipt?|none
+6_1_d489|1|{DH EH1 N AY1 L K AH1 M T UW1 Y AO1 R P L EY1 S L EY1 T ER0 IH0 N DH AH0 IY1 V N IH0 NG sp AH0 N D HH AW1 L EY1 T IH1 Z Y AO1 R SH AA1 P OW1 P AH0 N sp}|then i'll come to your place later in the evening, and how late is your shop open?|none
+7_0_d489|0|{AH0 N T IH1 L EY1 T AH0 K L AA1 K M AE1 D AH0 M sp W IY1 AA1 R L UH1 K IH0 NG F AO1 R W ER0 D T UW1 S IY1 IH0 NG Y UW1 sp}|until eight o'clock madam. we are looking forward to seeing you.|happiness
+0_0_d507|0|{HH EY1 sp AE1 N sp Y UW1 D OW1 N T HH AE1 V AH0 P EH1 N sp D UW1 Y UW1 sp}|hey, ann. you don't have a pen, do you?|none
+1_1_d507|1|{SH UH1 R sp HH IY1 R Y UW1 G OW1 sp}|sure, here you go.|happiness
+2_0_d507|0|{TH AE1 NG K S sp AY1 D OW1 N T S AH0 P OW1 Z Y UW1 HH AE1 V S AH1 M P EY1 P ER0 sp T UW1 sp}|thanks. i don't suppose you have some paper, too.|happiness
+3_1_d507|1|{AH1 V K AO1 R S sp DH EH1 R Y UW1 AA1 R sp}|of course. there you are.|happiness
+4_0_d507|0|{TH AE1 NG K S S OW1 M AH1 CH sp AY1 OW1 Y UW1 W AH1 N sp}|thanks so much. i owe you one.|happiness
+0_1_d578|1|{SH AE1 L W IY1 V IH1 Z AH0 T DH AH0 S AH1 M ER0 P AE1 L AH0 S T AH0 M AA1 R OW2 sp}|shall we visit the summer palace tomorrow?|none
+1_0_d578|0|{G UH1 D sp AH1 M AY1 D OW1 N T W AA1 N T T UW1 L IY1 V B EY2 ZH IH1 NG W IH0 TH AW1 T V IH1 Z AH0 T IH0 NG IH1 T sp}|good. umm i don't want to leave beijing without visiting it.|none
+2_1_d578|1|{HH AW1 F AA1 R IH1 Z IH1 T F R AH1 M AW1 ER0 HH OW0 T EH1 L sp}|how far is it from our hotel?|none
+3_0_d578|0|{IH1 T S AH0 B AW1 T F AY1 V K AH0 L AA1 M AH0 T ER0 Z sp}|it's about five kilometers.|none
+4_1_d578|1|{IH1 F W IY1 S T AA1 R T ER1 L IY0 sp D UW1 W IY1 HH AE1 V S AH1 M T AY1 M F AO1 R Y UW2 M AH0 N G IH1 SH AH0 N sp}|if we start early, do we have some time for yuanmingyuan?|none
+5_0_d578|0|{AY1 TH IH1 NG K S OW1 sp W IY1 K AE1 N G OW1 DH EH1 R IH0 N DH AH0 AE2 F T ER0 N UW1 N IH1 F Y UW1 L AY1 K sp}|i think so. we can go there in the afternoon if you like.|none
+0_1_d588|1|{R UW1 M S ER1 V AH0 S sp K AE1 N AY1 HH EH1 L P Y UW1 sp}|room service. can i help you?|none
+1_0_d588|0|{Y EH1 S sp T AH0 M AA1 R OW2 IH1 Z M AY1 F R EH1 N D Z B ER1 TH D EY2 sp K UH1 D AY1 ER0 EY1 N JH AH0 B ER1 TH D EY2 P AA1 R T IY0 F AO1 R HH IH1 M TH R UW1 Y UW1 sp}|yes, tomorrow is my friend's birthday. could i arrange a birthday party for him through you?|none
+2_1_d588|1|{S ER1 T AH0 N L IY0 sp}|certainly.|none
+3_0_d588|0|{AH1 M AY1 W AA1 N T T UW1 AO1 R D ER0 AH0 L AA1 R JH B ER1 TH D EY2 K EY1 K sp S EH1 V R AH0 L K AY1 N D Z AH1 V K OW1 L D D IH1 SH AH0 Z sp P EY1 S T R IY0 Z AH0 N D F R UW1 T S sp}|umm i want to order a large birthday cake, several kinds of cold dishes, pastries and fruits.|none
+4_1_d588|1|{EH1 N IY0 D R IH1 NG K S sp}|any drinks?|none
+5_0_d588|0|{AY1 V G AA1 T W IH1 S K IY0 AH0 N D B R AE1 N D IY0 B AH1 T AY1 N IY1 D S AH1 M B IH1 R AH0 N D S OW1 D AH0 sp DH AE1 T S AO1 L sp}|i've got whiskey and brandy but i need some beer and soda. that's all.|none
+0_1_d590|1|{G UH1 D M AO1 R N IH0 NG sp S ER1 sp HH AW1 M EY1 AY1 S ER1 V Y UW1 T AH0 D EY1 sp}|good morning. sir. how may i serve you today?|none
+1_0_d590|0|{AY1 D L AY1 K AH0 K AH1 P AH1 V M OW1 K AH0 sp}|i'd like a cup of mocha.|none
+2_1_d590|1|{SH UH1 R sp L AA1 R JH AO1 R M IY1 D IY0 AH0 M sp}|sure. large or medium?|none
+3_0_d590|0|{M IY1 D IY0 AH0 M sp P L IY1 Z sp}|medium, please.|none
+4_1_d590|1|{EH1 N IY0 TH IH2 NG EH1 L S T UW1 G OW1 sp}|anything else to go?|none
+5_0_d590|0|{Y AE1 sp G IH1 V M IY1 AH0 CH AO1 K L AH0 T B AA1 R AO1 L S OW0 sp}|yeah. give me a chocolate bar also.|none
+6_1_d590|1|{Y UW1 V G AA1 T IH1 T sp}|you've got it.|none
+7_0_d590|0|{P L IY1 Z HH AE1 V DH EH1 M R AE1 P T sp AY1 L T EY1 K DH EH1 M AH0 W EY1 sp}|please have them wrapped. i'll take them away.|none
+8_1_d590|1|{SH UH1 R sp IH1 T S S EH1 V AH0 N EY1 T IY0 sp N AY1 N sp}|sure. it's seven eighty-nine.|none
+9_0_d590|0|{HH IH1 R Z EY1 T D AA1 L ER0 Z sp K IY1 P DH AH0 CH EY1 N JH sp}|here's eight dollars. keep the change.|none
+10_1_d590|1|{TH AE1 NG K Y UW1 sp S ER1 sp HH AE1 V AH0 N AY1 S D EY1 sp}|thank you, sir. have a nice day.|happiness
+0_1_d608|1|{K AE1 N AY1 HH EH1 L P Y UW1 sp}|can i help you?|none
+1_0_d608|0|{Y EH1 S sp AY1 M D UW1 IH0 NG S AH1 M R IY0 S ER1 CH AA1 N R OW1 M AH0 N S IH2 V AH0 L IH0 Z EY1 SH AH0 N sp D UW1 Y UW1 HH AE1 V EH1 N IY0 B UH1 K S AA1 N DH AH0 S AH1 B JH IH0 K T sp}|yes, i'm doing some research on roman civilization. do you have any books on the subject?|none
+2_1_d608|1|{DH IY1 Z B UH1 K S OW1 V ER0 HH IY1 R AA1 R AH0 B AW1 T EY1 N CH AH0 N T HH IH1 S T ER0 IY0 sp DH EY1 M AY1 T B IY1 HH EH1 L P F AH0 L sp}|these books over here are about ancient history. they might be helpful.|none
+3_0_d608|0|{K AE1 N AY1 CH EH1 K DH IH1 S W AH1 N AW1 T sp}|can i check this one out?|none
+4_1_d608|1|{AY1 M S AA1 R IY0 sp IH1 T S F AO1 R R EH1 F ER0 AH0 N S OW1 N L IY0 sp S OW1 IH1 T M AH1 S T S T EY1 IH0 N DH AH0 L AY1 B R EH2 R IY0 sp B AH1 T Y UH1 R W EH1 L K AH0 M T UW1 L UH1 K TH R UW1 IH1 T sp}|i'm sorry. it's for reference only, so it must stay in the library. but you're welcome to look through it.|none
+5_0_d608|0|{OW1 K EY1 sp AH0 N D AY1 D L AY1 K T UW1 CH EH1 K DH IY1 Z B UH1 K S AW1 T sp}|ok. and i'd like to check these books out.|none
+6_1_d608|1|{AO1 L R AY1 T sp DH EH1 R D UW1 B AE1 K N EH1 K S T W EH1 N Z D IY0 sp}|all right. they're due back next wednesday.|none
+7_0_d608|0|{TH AE1 NG K S F AO1 R Y AO1 R HH EH1 L P sp}|thanks for your help.|happiness
+0_1_d633|1|{IH0 K S K Y UW1 S M IY1 sp B AE1 G Z AA1 R AH0 N T P ER0 M IH1 T AH0 D IH0 N S AY1 D DH AH0 S UW1 P ER0 M AA2 R K IH0 T sp}|excuse me, bags aren't permitted inside the supermarket.|none
+1_0_d633|0|{OW1 sp AY1 M S AA1 R IY0 sp}|oh, i'm sorry.|sadness
+2_1_d633|1|{D OW1 N T W ER1 IY0 sp JH AH1 S T CH EH1 K IH0 N Y AO1 R B AE1 G B IH0 F AO1 R EH1 N T ER0 IH0 NG sp}|don't worry. just check in your bag before entering.|none
+3_0_d633|0|{TH AE1 NG K S sp K UH1 D Y UW1 T EH1 L M IY1 W EH1 R AY1 SH UH1 D D AH0 P AA1 Z IH0 T M AY1 B AE1 G sp}|thanks. could you tell me where i should deposit my bag?|happiness
+4_1_d633|1|{DH AH0 CH EH1 K R UW2 M IH1 Z JH AH1 S T B IH0 HH AY1 N D DH AH0 F R AH1 N T D AO1 R sp}|the checkroom is just behind the front door.|none
+5_0_d633|0|{OW1 K EY1 sp AY1 W IH1 L D AH0 P AA1 Z IH0 T M AY1 B AE1 G R AY1 T N AW1 sp}|ok. i will deposit my bag right now.|none
+0_1_d634|1|{IH0 K S K Y UW1 S M IY1 sp B AH1 T K AE1 N Y UW1 T EH1 L M IY1 DH AH0 W EY1 T UW1 DH AH0 T AH0 D EY1 M AO1 L sp}|excuse me, but can you tell me the way to the today mall?|none
+1_0_d634|0|{Y EH1 S sp AH1 sp G OW1 D AW1 N DH AH0 F IH1 F TH S T R IY1 T sp Y UW1 W OW1 N T M IH1 S IH1 T sp}|yes, uh, go down the fifth street. you won't miss it.|none
+2_1_d634|1|{HH AW1 L AO1 NG W IH1 L IH1 T T EY1 K M IY1 T UW1 G EH1 T DH EH1 R sp}|how long will it take me to get there?|none
+3_0_d634|0|{IH1 T S OW1 N L IY0 AH0 B AW1 T T EH1 N M IH1 N AH0 T S sp W AO1 K sp}|it's only about ten minutes' walk.|none
+4_1_d634|1|{TH AE1 NG K Y UW1 V EH1 R IY0 M AH1 CH sp}|thank you very much.|happiness
+0_1_d643|1|{F IH1 L IH1 T AH1 P sp P L IY1 Z sp}|fill it up, please.|none
+1_0_d643|0|{P R IY1 M IY0 AH0 M AO1 R R EH1 G Y AH0 L ER0 sp M AE1 D AH0 M sp}|premium or regular, madam?|none
+2_1_d643|1|{P R IY1 M IY0 AH0 M sp P L IY1 Z sp K UH1 D Y UW1 CH EH1 K M AY1 T AY1 R Z sp T UW1 sp AY1 TH IH1 NG K DH EY1 N IY1 D EH1 R sp}|premium, please. could you check my tyres, too? i think they need air.|none
+3_0_d643|0|{N OW1 P R AA1 B L AH0 M sp M AE1 D AH0 M sp SH UH1 D AY1 CH EH1 K DH AH0 EH1 R IH0 N DH AH0 S P EH1 R T AY1 R AE1 Z W EH1 L sp}|no problem, madam. should i check the air in the spare tyre as well?|happiness
+4_1_d643|1|{AY1 D OW1 N T TH IH1 NG K S OW1 sp IH1 T S B R AE1 N D sp N UW1 sp}|i don't think so. it's brand-new.|none
+5_0_d643|0|{SH UH1 D AY1 K L IY1 N DH AH0 W IH1 N D SH IY2 L D F AO1 R Y UW1 sp}|should i clean the windshield for you?|none
+6_1_d643|1|{Y EH1 S sp P L IY1 Z sp AY1 AO1 L S OW0 N IY1 D Y UW1 T UW1 CH EH1 K DH AH0 OY1 L AH0 N D DH AH0 R EY1 D IY0 EY2 T ER0 sp}|yes, please. i also need you to check the oil and the radiator.|none
+7_0_d643|0|{AO1 L R AY1 T sp M AE1 D AH0 M sp IH1 T S OW1 K EY1 sp DH EH1 R IH1 Z HH AA1 R D L IY0 EH1 N IY0 W AO1 T ER0 IH0 N DH AH0 R EY1 D IY0 EY2 T ER0 sp Y UW1 K UH1 D B R EY1 K D AW1 N sp B IH0 K AO1 Z AH1 V DH AH0 HH IY1 T sp}|all right, madam. it's ok. there is hardly any water in the radiator. you could break down, because of the heat.|none
+8_1_d643|1|{P L EH1 S F IH1 L IH1 T AH1 P W IH1 DH W AO1 T ER0 DH EH1 N sp}|pls fill it up with water then.|none
+9_0_d643|0|{EH1 N IY0 TH IH2 NG Y UW1 S EY1 sp M AE1 D AH0 M sp}|anything you say, madam.|none
+10_1_d643|1|{D UW1 Y UW1 T EY1 K K R EH1 D AH0 T K AA1 R D sp}|do you take credit card?|none
+11_0_d643|0|{N OW1 sp W IY1 D OW1 N T sp AY1 AE1 M S AA1 R IY0 sp IH1 T S TH ER1 D IY0 D AA1 L ER0 Z AH0 N D T EH1 N S EH1 N T S IH0 N T OW1 T AH0 L sp}|no, we don't. i am sorry. it's thirty dollars and ten cents in total.|none
+12_1_d643|1|{TH ER1 D IY0 D AA1 L ER0 Z AH0 N D T EH1 N S EH1 N T S sp HH IY1 R Y UW1 G OW1 sp}|thirty dollars and ten cents? here you go.|none
+13_0_d643|0|{TH AE1 NG K Y UW1 sp M AE1 D AH0 M sp HH AE1 V AH0 N AY1 S D R AY1 V sp}|thank you, madam. have a nice drive!|happiness
+0_0_d671|0|{HH AH0 L OW1 sp DH IH1 S IH1 Z M IH1 S T ER0 S AY1 M AH0 N sp M EY1 AY1 HH EH1 L P Y UW1 sp}|hello, this is mister simon. may i help you?|none
+1_1_d671|1|{HH AH0 L OW1 sp DH IH1 S IH1 Z W AE1 NG L IY1 sp AH1 M sp AY1 W AA1 N T T UW1 N OW1 DH AH0 S T AE1 T AH0 S AH1 V DH AH0 P AH0 Z IH1 SH AH0 N sp}|hello, this is wang li. umm, i want to know the status of the position.|none
+2_0_d671|0|{S AA1 R IY0 sp AY1 K AE1 N T G IH1 V Y UW1 AE1 N IH0 M IY1 D IY0 AH0 T AE1 N S ER0 AA1 N DH AH0 M AE1 T ER0 sp IH1 T S P EH1 N D IH0 NG N AW1 sp}|sorry, i can't give you an immediate answer on the matter. it's pending now.|none
+3_1_d671|1|{W EH1 N K AE1 N AY1 N OW1 W EH1 DH ER0 AY1 M AE0 K S EH1 P T IH0 D AO1 R N AA1 T sp}|when can i know whether i'm accepted or not?|none
+4_0_d671|0|{IH0 N AH0 B AW1 T TH R IY1 T UW1 F AO1 R D EY1 Z sp}|in about three to four days.|none
+0_0_d684|0|{W AA1 CH AW1 T sp Y UH1 R T UW1 K L OW1 S T UW1 DH AH0 F AY1 ER0 P L EY1 S sp}|watch out! you're too close to the fire place.|none
+1_1_d684|1|{D OW1 N T W ER1 IY0 sp B AH1 T M AY1 K L OW1 DH Z AA1 R M EY1 D AH1 V L EH1 DH ER0 Z sp}|don't worry, but my clothes are made of leathers.|none
+2_0_d684|0|{R IH1 L IY0 sp DH AE1 T S W AH1 N D ER0 F AH0 L sp}|really? that's wonderful!|happiness
+3_1_d684|1|{TH AE1 NG K Y UW1 F AO1 R Y AO1 R W AO1 R N IH0 NG sp}|thank you for your warning.|happiness
+4_0_d684|0|{N AA1 T AE1 T AO1 L sp}|not at all.|happiness
+5_1_d684|1|{B IY1 K EH1 R F AH0 L AH1 V Y ER0 S EH1 L F sp}|be careful of yourself.|none
+0_0_d696|0|{L IY1 S AH0 sp AA1 R DH EH1 R F AE1 M AH0 L IY0 R UW1 L Z IH0 N DH IH1 S HH AW1 S sp}|lisa, are there family rules in this house?|none
+1_1_d696|1|{W EH1 L sp AY1 W UH1 D AH0 N T K AO1 L DH EH1 M R UW1 L Z sp B AH1 T DH EH1 R AA1 R S AH1 M TH IH1 NG Z DH AE1 T AY1 IH0 K S P EH1 K T M AY1 D AO1 T ER0 T UW1 D UW1 sp}|well, i wouldn't call them rules, but there are some things that i expect my daughter to do.|none
+2_0_d696|0|{L AY1 K W AH1 T sp}|like what?|none
+3_1_d696|1|{S EH1 T IH0 NG DH AH0 T EY1 B AH0 L AH0 N D D UW1 IH0 NG DH AH0 D IH1 SH AH0 Z sp}|setting the table and doing the dishes.|none
+4_0_d696|0|{IH1 Z DH EH1 R EH1 N IY0 TH IH2 NG EH1 L S sp}|is there anything else?|none
+5_1_d696|1|{AY1 AO1 L S OW0 IH0 K S P EH1 K T S IH1 N D IY0 T UW1 T AY1 D IY0 AH1 P HH ER0 OW1 N R UW1 M sp}|i also expect cindy to tidy up her own room.|none
+6_0_d696|0|{HH ER0 R UW1 M IH1 Z V EH1 R IY0 N IY1 T AH0 N D K L IY1 N sp}|her room is very neat and clean.|none
+7_1_d696|1|{Y AE1 sp SH IY1 Z AH0 V EH1 R IY0 R IY0 S P AA1 N S AH0 B AH0 L P ER1 S AH0 N sp}|yeah. she's a very responsible person.|none
+8_0_d696|0|{AY1 W IH1 L K IY1 P M AY1 R UW1 M K L IY1 N sp T UW1 sp DH AE1 T S AH0 P R AA1 M AH0 S sp}|i will keep my room clean, too. that's a promise.|none
+0_0_d726|0|{HH AH0 L OW1 sp HH EH1 L AH0 N sp}|hello, helen.|none
+1_1_d726|1|{HH AY1 sp S T IY1 V AH0 N sp}|hi, steven.|none
+2_0_d726|0|{HH AW1 AA1 R Y UW1 T AH0 D EY1 sp}|how are you today?|none
+3_1_d726|1|{AY1 M V EH1 R IY0 W EH1 L sp TH AE1 NG K Y UW1 sp AH0 N D Y UW1 sp}|i'm very well, thank you. and you?|happiness
+4_0_d726|0|{AY1 M F AY1 N sp TH AE1 NG K S sp AH1 M HH AW1 IH1 Z T OW1 N IY0 sp}|i'm fine, thanks. umm how is tony?|happiness
+5_1_d726|1|{HH IY1 Z F AY1 N sp TH AE1 NG K S sp HH AW1 Z EH1 M AH0 sp}|he's fine, thanks. how's emma?|happiness
+6_0_d726|0|{SH IY1 Z V EH1 R IY0 W EH1 L sp T UW1 sp HH EH1 L AH0 N sp G UH2 D B AY1 sp HH EH1 L AH0 N sp N AY1 S T UW1 S IY1 Y UW1 sp}|she's very well, too, helen. goodbye, helen. nice to see you.|happiness
+7_1_d726|1|{N AY1 S T UW1 S IY1 Y UW1 sp T UW1 sp S T IY1 V AH0 N sp G UH2 D B AY1 sp}|nice to see you, too, steven. goodbye.|happiness
+0_0_d749|0|{G IH1 V M IY1 S AH1 M G L AE1 S AH0 Z P L IY1 Z sp JH EY1 N sp}|give me some glasses please, jane.|none
+1_1_d749|1|{W IH1 CH G L AE1 S AH0 Z sp DH IY1 Z G L AE1 S AH0 Z sp}|which glasses? these glasses?|none
+2_0_d749|0|{N OW1 sp N AA1 T DH OW1 Z sp AH1 M DH AH0 W AH1 N Z AA1 N DH AH0 SH EH1 L F sp}|no, not those. umm the ones on the shelf.|none
+3_1_d749|1|{DH IY1 Z sp}|these?|none
+4_0_d749|0|{Y EH1 S sp P L IY1 Z sp}|yes, please.|none
+5_1_d749|1|{HH IY1 R Y UW1 AA1 R sp}|here you are.|none
+6_0_d749|0|{TH AE1 NG K S sp}|thanks.|happiness
+0_1_d760|1|{G UH1 D IY1 V N IH0 NG sp S ER1 sp W EH1 L K AH0 M T UW1 AW1 ER0 R EH1 S T ER0 AA2 N T sp}|good evening, sir. welcome to our restaurant.|none
+1_0_d760|0|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+2_1_d760|1|{D UW1 Y UW1 HH AE1 V AH0 R EH2 Z ER0 V EY1 SH AH0 N sp}|do you have a reservation?|none
+3_0_d760|0|{Y EH1 S sp AY1 D UW1 sp}|yes, i do.|none
+4_1_d760|1|{M EY1 AY1 HH AE1 V Y AO1 R N EY1 M sp P L IY1 Z sp}|may i have your name, please?|none
+5_0_d760|0|{Y EH1 S sp IH1 T S M IH1 S T ER0 B R AW1 N sp}|yes, it's mister brown.|none
+6_1_d760|1|{M IH1 S T ER0 B R AW1 N sp W IY1 W ER0 IH0 K S P EH1 K T IH0 NG Y UW1 sp DH IH1 S W EY1 sp P L IY1 Z sp W IH1 L DH IH1 S T EY1 B AH0 L B IY1 F AY1 N sp}|mister brown. we were expecting you. this way, please. will this table be fine?|none
+7_0_d760|0|{OW1 sp DH IH1 S IH1 Z JH AH1 S T F AY1 N sp}|oh, this is just fine.|happiness
+8_1_d760|1|{P L IY1 Z T EY1 K AH0 S IY1 T sp}|please take a seat.|none
+9_0_d760|0|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+10_1_d760|1|{HH IY1 R IH1 Z DH AH0 M EH1 N Y UW0 sp}|here is the menu.|none
+0_0_d784|0|{HH AY1 B R IH1 T N IY0 sp W AH1 T AA1 R Y UW1 D UW1 IH0 NG W IH1 DH AO1 L AH1 V Y AO1 R K L OW1 DH Z AA1 N Y AO1 R B EH1 D sp}|hi britney. what are you doing with all of your clothes on your bed?|none
+1_1_d784|1|{AH1 M AY1 M T R AY1 IH0 NG T UW1 D IH0 S AY1 D W AH1 T T UW1 W EH1 R T UW1 S K UW1 L DH AH0 F ER1 S T D EY1 sp}|umm i'm trying to decide what to wear to school the first day.|none
+2_0_d784|0|{OW1 sp M AA1 M D IH1 D AH0 N T T EH1 L Y UW1 sp}|oh. mom didn't tell you?|none
+3_1_d784|1|{D IH1 D AH0 N T T EH1 L M IY1 W AH1 T sp W AH1 T sp}|didn't tell me what? what?|none
+4_0_d784|0|{DH IH1 S B IY1 Z sp S K UW1 L Y UH1 R G OW1 IH0 NG T UW1 IH1 Z G OW1 IH0 NG T UW1 M EY1 K Y AO1 R L AY1 F IY1 Z IY0 sp}|this bs' school you're going to is going to make your life easy.|none
+5_1_d784|1|{W AH1 T AA1 R Y UW1 T AO1 K IH0 NG AH0 B AW1 T B R AH1 DH ER0 sp S P IH1 L IH1 T sp}|what are you talking about brother? spill it.|none
+6_0_d784|0|{Y UW1 N AH0 F AO2 R M Z sp S IH1 S sp N OW1 M AO1 R W ER1 IY0 IH0 NG AH0 B AW1 T AH0 P IH1 R AH0 N S AH0 Z sp}|uniforms, sis, no more worrying about appearances!|none
+7_1_d784|1|{Y UW1 M IY1 N AY1 HH AE1 V T UW1 W EH1 R DH AH0 S EY1 M TH IH1 NG EH1 V ER0 IY0 D EY1 sp M AA1 M sp}|you mean i have to wear the same thing every day? mom!|surprise
+0_0_d819|0|{AH1 M IH0 K S K Y UW1 S M IY1 sp AY1 M L UH1 K IH0 NG F AO1 R DH AH0 HH AA1 L AH0 D EY2 IH1 N sp D UW1 Y UW1 N OW1 W EH1 R IH1 T IH1 Z sp}|umm excuse me, i'm looking for the holiday inn. do you know where it is?|none
+1_1_d819|1|{SH UH1 R sp IH1 T S D AW1 N DH IH1 S S T R IY1 T AA1 N DH AH0 L EH1 F T sp}|sure. it's down this street on the left.|none
+2_0_d819|0|{IH1 Z IH1 T F AA1 R F R AH1 M HH IY1 R sp}|is it far from here?|none
+3_1_d819|1|{N OW1 sp IH1 T S N AA1 T F AA1 R sp}|no, it's not far.|none
+4_0_d819|0|{HH AW1 F AA1 R IH1 Z IH1 T sp}|how far is it?|none
+5_1_d819|1|{AH0 B AW1 T AH0 M AY1 L AH0 N D AH0 HH AE1 F sp}|about a mile and a half.|none
+6_0_d819|0|{HH AW1 L AO1 NG D AH1 Z IH1 T T EY1 K T UW1 G EH1 T DH EH1 R sp}|how long does it take to get there?|none
+7_1_d819|1|{F AY1 V M IH1 N AH0 T S AO1 R S OW1 sp}|five minutes or so.|none
+8_0_d819|0|{IH1 Z IH1 T K L OW1 S T UW1 DH AH0 S AH1 B W EY2 S T EY1 SH AH0 N sp}|is it close to the subway station?|none
+9_1_d819|1|{Y EH1 S sp IH1 T S V EH1 R IY0 K L OW1 S sp DH AH0 S AH1 B W EY2 S T EY1 SH AH0 N IH1 Z N EH1 K S T T UW1 DH AH0 HH OW0 T EH1 L sp Y UW1 K AE1 N W AO1 K DH EH1 R sp}|yes, it's very close. the subway station is next to the hotel. you can walk there.|none
+10_0_d819|0|{TH AE1 NG K S AH0 L AA1 T sp}|thanks a lot.|happiness
+0_1_d877|1|{G UH1 D M AO1 R N IH0 NG sp W AH1 T S R AO1 NG W IH1 DH Y UW1 sp}|good morning! what's wrong with you?|none
+1_0_d877|0|{AY1 HH AE1 V AH0 B AE1 D HH EH1 D EY2 K sp}|i have a bad headache.|none
+2_1_d877|1|{HH AW1 L AO1 NG HH AE1 V Y UW1 B IH1 N L AY1 K DH IH1 S sp}|how long have you been like this?|none
+3_0_d877|0|{F AO1 R T UW1 D EY1 Z sp}|for two days.|none
+4_1_d877|1|{D UW1 Y UW1 HH AE1 V AH0 F IY1 V ER0 sp}|do you have a fever?|none
+5_0_d877|0|{AY1 M AH0 F R EY1 D S OW1 sp S AH0 M T AY1 M Z AY1 F IY1 L HH AA1 T AH0 N D S AH0 M T AY1 M Z AY1 F IY1 L K OW1 L D sp}|i'm afraid so. sometimes i feel hot and sometimes i feel cold.|none
+6_1_d877|1|{L EH1 T M IY1 T EY1 K Y AO1 R T EH1 M P R AH0 CH ER0 F ER1 S T sp}|let me take your temperature first.|none
+0_1_d881|1|{S T UW1 ER0 D sp}|steward!|none
+1_0_d881|0|{Y EH1 S sp M AE1 M sp}|yes, ma'am?|none
+2_1_d881|1|{M EY1 AY1 HH AE1 V AH0 M AE1 G AH0 Z IY2 N AO1 R S AH1 M TH IH0 NG sp}|may i have a magazine or something?|none
+3_0_d881|0|{S ER1 T AH0 N L IY0 sp JH AH1 S T AH0 M OW1 M AH0 N T sp AH1 M AY1 L B IY1 R AY1 T B AE1 K W IH1 DH W AH1 N sp W IH1 CH D UW1 Y UW1 P R AH0 F ER1 sp W AH1 N IH0 N IH1 NG G L IH0 SH AO1 R IH0 N CH AY0 N IY1 Z sp}|certainly. just a moment. umm i'll be right back with one. which do you prefer, one in english or in chinese?|none
+4_1_d881|1|{W AH1 N IH0 N IH1 NG G L IH0 SH sp P L IY1 Z sp}|one in english, please.|none
+5_0_d881|0|{AO1 L R AY1 T sp M AE1 M sp}|all right, ma'am.|none
+0_0_d898|0|{W EY1 sp Y UW1 L UH1 K R IH1 L IY0 T AY1 ER0 D sp}|wei, you look really tired.|none
+1_1_d898|1|{Y EH1 S sp AY1 D IH1 D AH0 N T F IH1 N IH0 SH W ER1 K AH0 N T IH1 L N AY1 N P IY1 EH1 M sp}|yes, i didn't finish work until nine pm.|none
+2_0_d898|0|{N AY1 N sp}|nine!|surprise
+3_1_d898|1|{Y EH1 S sp AY1 HH AE1 V T UW1 M AH1 CH W ER1 K T UW1 D UW1 AE1 T DH AH0 M OW1 M AH0 N T sp}|yes, i have too much work to do at the moment.|none
+4_0_d898|0|{W AY1 Z DH AE1 T sp}|why's that ?|none
+5_1_d898|1|{B IH0 K AO1 Z T UW1 M EH1 N IY0 P IY1 P AH0 L IH0 N DH AH0 AO1 F AH0 S AA1 R AA1 N HH AA1 L AH0 D EY2 sp}|because too many people in the office are on holiday.|none
+0_1_d969|1|{K AH1 M AA1 N IH0 N sp L EH1 T M IY1 SH OW1 Y UW1 ER0 AW1 N D sp HH IH1 R Z DH AH0 L IH1 V IH0 NG R UW1 M sp}|come on in. let me show you around. here's the living room.|none
+1_0_d969|0|{G R EY1 T sp AH1 M DH AH0 V Y UW1 F R AH1 M DH IH1 S W IH1 N D OW0 IH1 Z W AH1 N D ER0 F AH0 L sp}|great. umm the view from this window is wonderful.|happiness
+2_1_d969|1|{DH IH1 S IH1 Z DH AH0 K IH1 CH AH0 N sp}|this is the kitchen.|none
+3_0_d969|0|{IH1 T L UH1 K S N UW1 sp}|it looks new.|happiness
+4_1_d969|1|{Y EH1 S sp W IY1 JH AH1 S T R EH1 N AH0 V EY2 T IH0 D AH0 F Y UW1 M AH1 N TH S AH0 G OW1 sp}|yes. we just renovated a few months ago.|none
+5_0_d969|0|{AY1 L AY1 K IH1 T sp}|i like it.|happiness
+6_1_d969|1|{HH IH1 R Z DH AH0 M AE1 S T ER0 B EH1 D R UW2 M sp}|here's the master bedroom.|none
+7_0_d969|0|{W AW1 sp IH1 T S N AY1 S sp W AH1 T D IH1 D Y UW1 S EY1 AH0 B AW1 T DH AH0 R EH1 N T sp}|wow, it's nice. what did you say about the rent?|none
+8_1_d969|1|{N AY1 N HH AH1 N D R AH0 D D AA1 L ER0 Z AH0 M AH1 N TH sp}|nine hundred dollars a month.|none
+9_0_d969|0|{D AH1 Z DH AE1 T IH0 N K L UW1 D Y UW0 T IH1 L AH0 T IY0 Z sp}|does that include utilities?|none
+10_1_d969|1|{Y EH1 S sp IH1 T IH0 N K L UW1 D Z IH0 L EH2 K T R IH1 S AH0 T IY0 sp W AO1 T ER0 sp G AE1 S AH0 N D K EY1 B AH0 L sp B AH1 T DH AH0 T EH1 L AH0 F OW2 N IH1 Z EH1 K S T R AH0 sp}|yes. it includes electricity, water, gas and cable, but the telephone is extra.|none
+11_0_d969|0|{W EH1 N W IH1 L IH1 T B IY1 AH0 V EY1 L AH0 B AH0 L sp}|when will it be available?|none
+12_1_d969|1|{DH AH0 EH1 N D AH1 V DH IH1 S M AH1 N TH sp}|the end of this month.|none
+13_0_d969|0|{AY1 L AY1 K IH1 T AH0 L AA1 T B AH1 T AY1 N IY1 D T UW1 T AO1 K W IH1 DH M AY1 W AY1 F sp K AE1 N Y UW1 HH OW1 L D IH1 T F AO1 R M IY1 F AO1 R T UW1 D EY1 Z sp}|i like it a lot but i need to talk with my wife. can you hold it for me for two days?|happiness
+14_1_d969|1|{SH UH1 R sp}|sure.|none
+15_0_d969|0|{TH AE1 NG K Y UW1 V EH1 R IY0 M AH1 CH sp AY1 W IH1 L L EH1 T Y UW1 N OW1 AE1 Z S UW1 N AE1 Z P AA1 S AH0 B AH0 L sp}|thank you very much. i will let you know as soon as possible.|happiness
+0_1_d1020|1|{AY1 V B R AO1 T S AH1 M P AH0 T EY1 T OW2 CH IH1 P S sp W UH1 D Y UW1 L AY1 K S AH1 M sp JH AE1 K sp}|i've brought some potato chips. would you like some, jack?|happiness
+1_0_d1020|0|{Y EH1 S sp AY1 D L AY1 K T UW1 S W AA1 P S AH1 M AH1 V M AY1 P IY1 N AH0 T S F AO1 R Y AO1 R CH IH1 P S sp}|yes. i'd like to swap some of my peanuts for your chips.|happiness
+2_1_d1020|1|{AH1 M sp DH AE1 T AH0 L B IY1 F AY1 N sp TH AE1 NG K S sp}|umm, that'll be fine. thanks.|happiness
+3_0_d1020|0|{D UW1 Y UW1 HH AE1 V EH1 N IY0 K EH1 CH AH0 P sp}|do you have any ketchup?|none
+4_1_d1020|1|{AY1 F ER0 G AA1 T T UW1 B R IH1 NG IH1 T sp B AH1 T M EY1 B IY0 M EH1 R IY0 HH AE1 Z S AH1 M sp L EH1 T S G OW1 AH0 N D AE1 S K HH ER0 sp}|i forgot to bring it, but maybe mary has some. let's go and ask her.|none
+0_1_d1023|1|{W EH1 L K AH0 M sp M EY1 AY1 HH EH1 L P Y UW1 sp}|welcome. may i help you?|none
+1_0_d1023|0|{Y EH1 S sp AY1 W AA1 N T AH0 AY1 sp SH AE1 D OW2 sp}|yes, i want a eye-shadow.|none
+2_0_d1023|0|{W IY1 HH AE1 V D IH1 F ER0 AH0 N T K AH1 L ER0 Z AH1 V AY1 sp SH AE1 D OW2 sp M EY1 AY1 N OW1 W AH1 T K AH1 L AW0 R Y UW1 Y UW1 ZH AH0 W AH0 L IY0 W EH1 R sp}|we have different colours of eye-shadow. may i know what colour you usually wear?|none
+3_1_d1023|1|{P ER1 P AH0 L sp B AH1 T T AH0 D EY1 sp AY1 M TH IH1 NG K IH0 NG AH1 V B AY1 IH0 NG W AH1 N IH0 N AH0 B R AY1 T K AH1 L AW0 R sp}|purple. but today, i'm thinking of buying one in a bright colour.|none
+4_0_d1023|0|{Y EH1 S sp AY1 S IY1 sp HH AW1 D UW1 Y UW1 L AY1 K DH IH1 S W AH1 N sp}|yes, i see. how do you like this one?|none
+5_1_d1023|1|{M EY1 AY1 HH AE1 V AH0 T R AY1 sp}|may i have a try?|happiness
+6_0_d1023|0|{S ER1 T AH0 N L IY0 sp}|certainly.|none
+7_1_d1023|1|{IH1 T S S T IH1 L T UW1 D AA1 R K sp EH1 N IY0 B R AY1 T ER0 K AH1 L ER0 Z sp}|it's still too dark. any brighter colours?|happiness
+8_0_d1023|0|{N AA1 T F R AH1 M DH IH1 S B R AE1 N D sp AY1 M AH0 F R EY1 D sp}|not from this brand, i'm afraid.|happiness
+9_1_d1023|1|{W AH1 T AH0 B AW1 T AH1 DH ER0 B R AE1 N D Z sp}|what about other brands?|none
+10_0_d1023|0|{HH AW1 AH0 B AW1 T DH IH1 S W AH1 N sp}|how about this one?|none
+11_1_d1023|1|{OW1 sp DH AE1 T S DH AH0 V EH1 R IY0 TH IH1 NG AY1 N IY1 D sp}|oh, that's the very thing i need.|happiness
+0_0_d1046|0|{L EY1 D IY0 Z AH0 N D JH EH1 N T AH0 L M IH0 N sp N AW1 W IY1 AA1 R IH0 N DH AH0 N AE1 SH AH0 N AH0 L F AO1 R AH0 S T P AA1 R K sp}|ladies and gentlemen, now we are in the national forest park.|none
+1_1_d1046|1|{W AH1 T S DH AE1 T sp}|what's that?|none
+2_0_d1046|0|{DH AH0 S T OW1 N IH1 Z AH0 P R IY2 HH IH0 S T AO1 R IH0 K L AO1 G sp IH1 T W AA1 Z T ER1 N D T UW1 S T OW1 N M IH1 L Y AH0 N Z AH1 V Y IH1 R Z AH0 G OW1 sp}|the stone is a prehistoric log. it was turned to stone millions of years ago.|none
+3_1_d1046|1|{R IH1 L IY0 sp IH1 T S AH2 N B AH0 L IY1 V AH0 B AH0 L sp}|really? it's unbelievable.|surprise
+4_0_d1046|0|{B AH1 T IH1 T S DH AH0 T R UW1 TH sp}|but it's the truth.|none
+5_1_d1046|1|{D UW1 Y UW1 HH AE1 V G IH1 NG K OW0 T R IY1 Z HH IY1 R sp}|do you have ginkgo trees here?|none
+6_0_d1046|0|{W IY1 D OW1 N T HH AE1 V DH EH1 M HH IY1 R sp AY1 M AH0 F R EY1 D sp AH1 M G IH1 NG K OW0 T R IY1 Z G R OW1 W EH1 L OW1 N L IY0 IH0 N K OW1 L D W EH1 DH ER0 sp}|we don't have them here, i'm afraid. umm ginkgo trees grow well only in cold weather.|none
+7_1_d1046|1|{W AH1 T AA1 R DH IY1 Z T R IY1 Z AA1 P AH0 Z AH0 T T UW1 DH AH0 P AY1 N T R IY1 Z sp}|what are these trees opposite to the pine trees?|none
+8_0_d1046|0|{DH EY1 AA1 R P AA1 P L ER0 T R IY1 Z sp DH EY1 AA1 R W AY1 D L IY0 Y UW1 Z D IH0 N AW1 ER0 L IH1 V Z sp}|they are poplar trees. they are widely used in our lives.|none
+9_1_d1046|1|{AY1 TH IH1 NG K AY1 N OW1 DH AE1 T sp}|i think i know that.|none
+0_1_d1091|1|{K AH0 N G R AE2 CH AH0 L EY1 SH AH0 N Z sp M IH1 S T ER0 S T UW1 ER0 T sp Y UW1 W AH1 N DH AH0 S IH1 T IY0 M EH1 R AH0 TH AA2 N sp}|congratulations! mister stuart! you won the city marathon.|happiness
+1_0_d1091|0|{TH AE1 NG K Y UW1 sp AY1 AE1 M V EH1 R IY0 IH0 K S AY1 T AH0 D sp}|thank you. i am very excited.|happiness
+2_1_d1091|1|{W IY1 AA1 R AO1 L V EH1 R IY0 P R AW1 D AH1 V Y UW1 sp}|we are all very proud of you.|happiness
+3_0_d1091|0|{AY1 AE1 M V EH1 R IY0 HH AE1 P IY0 sp T UW1 sp IH1 T W AA1 Z AH0 B IH1 G G EY1 M AH0 N D AY1 W AH1 N sp}|i am very happy, too. it was a big game and i won.|happiness
+4_1_d1091|1|{AY1 W AA1 CH T DH AH0 R EY1 S W IH1 DH M AY1 CH IH1 L D R AH0 N sp W IY1 S AO1 Y UW1 R AH1 N T UW1 DH AH0 F IH1 N IH0 SH L AY1 N sp W IY1 AO1 L S K R IY1 M D W IH1 DH IH0 K S AY1 T M AH0 N T sp}|i watched the race with my children. we saw you run to the finish line. we all screamed with excitement.|happiness
+5_0_d1091|0|{IH1 T W AA1 Z R IH1 L IY0 AE1 N IH0 K S AY1 T IH0 NG M OW1 M AH0 N T sp}|it was really an exciting moment.|happiness
+0_1_d1103|1|{W IY1 D L AY1 K T UW1 IH1 N V AY0 T Y UW1 OW1 V ER0 F AO1 R D IH1 N ER0 DH IH1 S F R AY1 D IY0 IY1 V N IH0 NG sp K AE1 N Y UW1 K AH1 M sp}|we'd like to invite you over for dinner this friday evening. can you come?|happiness
+1_0_d1103|0|{AH1 M DH IH1 S F R AY1 D IY0 IY1 V N IH0 NG sp}|umm this friday evening?|happiness
+2_1_d1103|1|{Y EH1 S sp W IY1 HH OW1 P Y UW1 L B IY1 EY1 B AH0 L T UW1 JH OY1 N AH1 S sp}|yes. we hope you'll be able to join us.|happiness
+3_0_d1103|0|{TH AE1 NG K Y UW1 F AO1 R DH AH0 IH2 N V IH0 T EY1 SH AH0 N sp AY1 L B IY1 V EH1 R IY0 HH AE1 P IY0 T UW1 G OW1 sp}|thank you for the invitation. i'll be very happy to go.|happiness
+4_1_d1103|1|{G UH1 D sp}|good!|happiness
+5_0_d1103|0|{W AH1 T T AY1 M SH UH1 D AY1 ER0 AY1 V sp}|what time should i arrive?|happiness
+6_1_d1103|1|{HH AW1 AH0 B AW1 T S IH1 K S sp}|how about six?|happiness
+7_0_d1103|0|{F AY1 N sp S IY1 Y UW1 DH EH1 N sp}|fine. see you then.|happiness
+0_0_d1104|0|{M EY1 AY1 T EY1 K Y AO1 R AO1 R D ER0 sp}|may i take your order?|none
+1_1_d1104|1|{Y EH1 S sp AY1 D L AY1 K AH0 HH AE1 M B ER0 G ER0 AH0 N D AH0 L AA1 R JH AO1 R D ER0 AH1 V F R EH1 N CH F R AY1 Z sp P L IY1 Z sp}|yes. i'd like a hamburger and a large order of french fries, please.|none
+2_0_d1104|0|{AO1 L R AY1 T sp AH0 N D W UH1 D Y UW1 L AY1 K AH0 S AE1 L AH0 D sp}|all right. and would you like a salad?|none
+3_1_d1104|1|{Y EH1 S sp AH1 M AY1 L HH AE1 V AH0 M IH1 K S T G R IY1 N S AE1 L AH0 D sp}|yes. umm i'll have a mixed green salad.|none
+4_0_d1104|0|{OW1 K EY1 sp W AH1 T K AY1 N D AH1 V D R EH1 S IH0 NG W UH1 D Y UW1 L AY1 K sp W IY1 HH AE1 V V IH2 N IH0 JH EH1 R T IY0 sp IH0 T AE1 L Y AH0 N sp AH0 N D F R EH1 N CH sp}|ok. what kind of dressing would you like? we have vinaigrette, italian, and french.|none
+5_1_d1104|1|{IH0 T AE1 L Y AH0 N sp P L IY1 Z sp}|italian, please.|none
+6_0_d1104|0|{AH0 N D W UH1 D Y UW1 L AY1 K EH1 N IY0 TH IH2 NG T UW1 D R IH1 NG K sp}|and would you like anything to drink?|none
+7_1_d1104|1|{Y EH1 S sp AY1 D L AY1 K AH0 L AA1 R JH S OW1 D AH0 sp P L IY1 Z sp}|yes, i'd like a large soda, please.|none
+0_1_d1112|1|{IH1 Z DH EH1 R EH1 N IY0 TH IH2 NG AY1 K AE1 N D UW1 F AO1 R Y UW1 sp M IH1 S T ER0 K IH1 NG sp}|is there anything i can do for you, mister king?|none
+1_0_d1112|0|{AY1 M L IY1 V IH0 NG F AO1 R SH AE1 NG HH AY1 T AH0 M AA1 R OW2 M AO1 R N IH0 NG sp W EH1 N D UW1 AY1 HH AE1 V T UW1 S EH1 T AH0 L M AY1 B IH1 L sp}|i'm leaving for shanghai tomorrow morning. when do i have to settle my bill?|none
+2_1_d1112|1|{IH1 Z IH1 T AO1 L R AY1 T F AO1 R Y UW1 T UW1 P EY1 DH AH0 B IH1 L DH IH1 S IY1 V N IH0 NG sp}|is it all right for you to pay the bill this evening?|none
+3_0_d1112|0|{AH1 M DH AE1 T W IH1 L D UW1 sp W EH1 R SH AE1 L AY1 G OW1 T UW1 P EY1 DH AH0 M AH1 N IY0 sp}|umm that will do. where shall i go to pay the money?|none
+4_1_d1112|1|{AE1 T DH AH0 K AE0 SH IH1 R Z K AW1 N T ER0 AH1 V AW1 ER0 HH OW0 T EH1 L sp R AY1 T IH0 N DH AH0 L AA1 B IY0 D AW1 N S T EH1 R Z sp}|at the cashier's counter of our hotel, right in the lobby downstairs.|none
+5_0_d1112|0|{W UH1 D Y UW1 P L IY1 Z G EH1 T DH AH0 B IH1 L R EH1 D IY0 B IH0 F AO1 R S AH1 P ER0 sp}|would you please get the bill ready before supper?|none
+6_1_d1112|1|{AO1 L R AY1 T sp IH1 Z Y AO1 R K AH0 M P AE1 N Y AH0 N L IY1 V IH0 NG F AO1 R SH AE1 NG HH AY1 W IH1 DH Y UW1 sp}|all right. is your companion leaving for shanghai with you?|none
+7_0_d1112|0|{N OW1 sp HH IY1 W IH1 L S T EY1 HH IY1 R F AO1 R T UW1 M AO1 R D EY1 Z sp P L IY1 Z K IY1 P DH AH0 R UW1 M F AO1 R HH IH1 M sp}|no, he will stay here for two more days. please keep the room for him.|none
+8_1_d1112|1|{SH AE1 L AY1 M EY1 K AW1 T AH0 S IH1 NG G AH0 L B IH1 L AO1 R T UW1 S EH1 P ER0 IH0 T B IH1 L Z sp}|shall i make out a single bill or two separate bills?|none
+9_0_d1112|0|{T UW1 S EH1 P ER0 IH0 T B IH1 L Z sp P L IY1 Z sp}|two separate bills, please.|none
+10_1_d1112|1|{OW1 K EY1 sp AY1 L SH UH1 R L IY0 HH AE1 V DH AH0 B IH1 L R EH1 D IY0 F AO1 R DH IH1 S IY1 V N IH0 NG sp}|ok. i'll surely have the bill ready for this evening.|none
+11_0_d1112|0|{W IH1 L Y UW1 G IH1 V DH AH0 B IH1 L T UW1 M IY1 AE1 T ER0 AW1 N D S IH1 K S AH0 K L AA1 K sp}|will you give the bill to me at around six o'clock?|none
+12_1_d1112|1|{N OW1 P R AA1 B L AH0 M sp B AY1 DH AH0 W EY1 sp D UW1 Y UW1 HH AE1 V EH1 N IY0 K AA1 M EH0 N T T UW1 M EY1 K AA1 N AW1 ER0 HH OW0 T EH1 L sp}|no problem. by the way, do you have any comment to make on our hotel?|none
+13_0_d1112|0|{AY1 HH AE1 V HH AE1 D AH0 G UH1 D S T EY1 HH IY1 R sp Y AO1 R S ER1 V AH0 S IH1 Z W AH1 N D ER0 F AH0 L sp AY1 M V EH1 R IY0 S AE1 T AH0 S F AY2 D W IH1 DH IH1 T sp}|i have had a good stay here. your service is wonderful. i'm very satisfied with it.|happiness
+14_1_d1112|1|{TH AE1 NG K Y UW1 F AO1 R Y AO1 R K AA1 M P L AH0 M AH0 N T S sp Y UH1 R W EH1 L K AH0 M T UW1 AW1 ER0 HH OW0 T EH1 L AH0 G EH1 N sp}|thank you for your compliments. you're welcome to our hotel again.|happiness
+15_0_d1112|0|{OW1 K EY1 sp AY1 W IH1 L sp}|ok, i will.|happiness
+0_0_d1126|0|{K AE1 N AY1 HH EH1 L P Y UW1 sp M AE1 D AH0 M sp}|can i help you, madam?|none
+1_1_d1126|1|{Y EH1 S sp AY1 M L UH1 K IH0 NG F AO1 R AH0 N UW1 W IH1 N T ER0 K OW1 T sp}|yes, i'm looking for a new winter coat.|none
+2_0_d1126|0|{AH1 M D UW1 Y UW1 HH AE1 V EH1 N IY0 P ER0 T IH1 K Y AH0 L ER0 K AH1 L ER0 IH0 N M AY1 N D sp}|umm do you have any particular color in mind?|none
+3_1_d1126|1|{AY1 D OW1 N T N OW1 R IH1 L IY0 sp W AH1 T S DH AH0 F AE1 SH AH0 N AH0 L K AH1 L ER0 DH IH1 S Y IH1 R sp}|i don't know really. what's the fashional color this year?|none
+4_0_d1126|0|{R EH1 D IH1 Z V EH1 R IY0 P AA1 P Y AH0 L ER0 sp}|red is very popular.|none
+5_1_d1126|1|{G UH1 D sp R EH1 D S UW1 T S M IY1 V EH1 R IY0 W EH1 L sp IH1 T S AH0 CH IH1 R F AH0 L K AH1 L ER0 sp IH1 Z AH0 N T IH1 T sp}|good.red suits me very well. it's a cheerful color, isn't it?|happiness
+6_0_d1126|0|{Y EH1 S sp M AE1 D AH0 M sp AY1 AH0 G R IY1 sp W AH1 T S AY1 Z AA1 R Y UW1 sp}|yes, madam, i agree. what size are you?|none
+7_1_d1126|1|{W EH1 L sp AY1 Y UW1 Z D T UW1 B IY1 S AY1 Z F AO1 R T IY1 N sp B AH1 T AY1 V P UH1 T AA1 N AH0 B IH1 T AH1 V W EY1 T R IY1 S AH0 N T L IY0 sp S OW1 M EY1 B IY1 S IH0 K S T IY1 N sp}|well, i used to be size fourteen, but i've put on a bit of weight recently, so may be sixteen.|none
+8_0_d1126|0|{HH IY1 R Y UW1 AA1 R sp M AE1 D AH0 M sp AO1 L DH IY1 Z AA1 R S IH1 K S T IY1 N Z sp}|here you are, madam. all these are sixteens.|none
+9_1_d1126|1|{AY1 K W AY1 T L AY1 K DH IH1 S W AH1 N sp HH AW1 M AH1 CH IH1 Z IH1 T sp}|i quite like this one. how much is it?|none
+10_0_d1126|0|{IH1 T S W AH1 N EY1 T IY0 D AA1 L ER0 Z sp}|it's one eighty dollars.|none
+11_1_d1126|1|{OW1 sp DH AE1 T S T UW1 IH0 K S P EH1 N S IH0 V sp AA1 R AH0 N T DH EH1 R EH1 N IY0 CH IY1 P ER0 W AH1 N Z sp}|oh, that's too expensive. aren't there any cheaper ones?|none
+12_0_d1126|0|{DH IY1 Z AA1 R AW1 ER0 CH IY1 P AH0 S T K OW1 T S sp M AE1 D AH0 M sp}|these are our cheapest coats, madam.|none
+13_1_d1126|1|{Y EH1 S sp AY1 S IY1 sp AY1 L T EY1 K IH1 T sp HH IH1 R Z T UW1 HH AH1 N D R AH0 D D AA1 L ER0 Z sp}|yes, i see. i'll take it. here's two hundred dollars.|none
+14_0_d1126|0|{HH IH1 R Z Y AO1 R CH EY1 N JH sp}|here's your change.|none
+15_1_d1126|1|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+0_1_d1133|1|{W UH1 D Y UW1 P L IY1 Z B R IH1 NG M IY1 DH AH0 B L AE1 K S UW1 T sp AY1 W AA1 N T T UW1 T R AY1 IH1 T AA1 N sp}|would you please bring me the black suit? i want to try it on.|none
+1_0_d1133|0|{HH IY1 R Y UW1 AA1 R sp}|here you are.|none
+2_1_d1133|1|{AH1 M sp AY1 TH IH1 NG K DH IH1 S S UW1 T F IH1 T S P ER1 F AH0 K T L IY0 sp}|umm, i think this suit fits perfectly.|happiness
+3_0_d1133|0|{Y EH1 S sp AY1 TH IH1 NG K S OW1 sp DH AH0 S UW1 T M AE1 CH AH0 Z DH AH0 T R AW1 Z ER0 Z sp}|yes, i think so. the suit matches the trousers.|happiness
+4_1_d1133|1|{IH1 T S F AY1 N sp P L IY1 Z R AE1 P IH1 T sp}|it's fine. please wrap it.|none
+0_1_d1172|1|{S EY1 sp HH AW1 AH0 B AW1 T HH AE1 V IH0 NG CH AY0 N IY1 Z F UW1 D F AO1 R AH0 CH EY1 N JH sp}|say, how about having chinese food for a change?|none
+1_0_d1172|0|{G R EY1 T AY0 D IY1 AH0 sp AY1 L AY1 K AH0 TH EH1 N T IH0 K CH AY0 N IY1 Z F UW1 D sp}|great idea! i like authentic chinese food.|happiness
+2_1_d1172|1|{L EH1 T S S IY1 W AH1 T W IY1 L T EY1 K sp}|let's see what we'll take.|none
+3_0_d1172|0|{P AO1 R K S T IY1 M D W IH1 DH R AY1 S F L AW1 ER0 sp JH EH1 L IY0 F IH1 SH AH0 N D EH1 G S UW1 P sp}|pork steamed with rice flour, jelly fish and egg soup.|none
+4_1_d1172|1|{DH AE1 T S IH1 T sp}|that's it!|happiness
+0_1_d1211|1|{TH AE1 NG K S F AO1 R IH0 N V AY1 T IH0 NG M IY1 T UW1 W ER1 K AW1 T W IH1 DH Y UW1 sp JH OW1 N sp}|thanks for inviting me to work out with you, joan.|happiness
+1_0_d1211|0|{D OW1 N T M EH1 N SH AH0 N IH1 T sp L EH1 T S G OW1 IH0 N sp}|don't mention it, let's go in.|none
+2_1_d1211|1|{Y AE1 sp DH IH1 S P L EY1 S L UH1 K S G R EY1 T sp W AW1 sp L UH1 K AE1 T HH ER0 sp SH IY1 K AE1 N S ER1 T AH0 N L IY0 G EH1 T D AW1 N sp K AE1 N T SH IY1 sp}|yeah, this place looks great. wow, look at her, she can certainly get down, can't she?|none
+3_0_d1211|0|{SH IY1 SH UH1 R K AE1 N sp AA1 R Y UW1 JH EH1 L AH0 S sp L EH1 S L IY0 sp}|she sure can. are you jealous, leslie?|none
+4_1_d1211|1|{AH0 L IH1 T AH0 L sp AY1 W IH1 SH AY1 K UH1 D D UW1 DH AE1 T sp}|a little, i wish i could do that.|none
+5_0_d1211|0|{Y UW1 K AE1 N sp W IH1 DH AH0 L IH1 T AH0 L P R AE1 K T AH0 S sp}|you can! with a little practice.|none
+6_1_d1211|1|{L UH1 K AE1 T HH IH1 M sp HH IY1 Z B AH1 F sp}|look at him, he's buff.|none
+7_0_d1211|0|{AY1 TH IH1 NG K HH IY1 Z HH AA1 T T UW1 sp}|i think he's hot too.|none
+8_1_d1211|1|{HH AW1 D UW1 DH EY1 AO1 L G EH1 T IH0 N S AH1 CH T IH1 P T AA2 P SH EY1 P sp}|how do they all get in such tiptop shape?|none
+9_0_d1211|0|{EH1 K S ER0 S AY2 Z D OW1 V ER0 AH0 N D OW1 V ER0 sp EH1 K S ER0 S AY2 Z IH1 Z AH0 K IY1 sp}|exercised over and over. exercise is a key.|none
+10_1_d1211|1|{DH AE1 T S IH1 T sp AY1 D IH0 S AY1 D IH0 D T UW1 T ER1 N OW1 V ER0 AH0 N UW1 L IY1 F sp AY1 M G OW1 IH0 NG T UW1 EH1 K S ER0 S AY2 Z EH1 V ER0 IY0 S IH1 NG G AH0 L D EY1 sp}|that's it. i decided to turn over a new leaf. i'm going to exercise every single day.|none
+11_0_d1211|0|{G UH1 D F AO1 R Y UW1 sp L EH1 S L IY0 sp}|good for you, leslie!|happiness
+0_1_d1229|1|{HH AY1 sp AY1 D L AY1 K T UW1 G EH1 T Y AO1 R S T AO1 R K R EH1 D AH0 T K AA1 R D sp}|hi, i'd like to get your store credit card.|none
+1_0_d1229|0|{HH IH1 R Z DH AH0 AE2 P L AH0 K EY1 SH AH0 N F AO1 R M sp}|here's the application form.|none
+2_1_d1229|1|{AY1 M F IH1 N IH0 SH T sp HH IH1 R Z DH AH0 F AO1 R M sp}|i'm finished. here's the form.|none
+3_0_d1229|0|{TH AE1 NG K Y UW1 sp N AW1 IH1 F Y UW1 L JH AH1 S T G IH1 V M IY1 AH0 K R EH1 D AH0 T K AA1 R D sp}|thank you. now if you'll just give me a credit card.|happiness
+4_1_d1229|1|{HH IH1 R Z M AY1 V IY1 Z AH0 sp}|here's my visa.|none
+5_0_d1229|0|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+0_1_d1238|1|{W AH1 T S AO1 L DH AH0 S IH0 K Y UH1 R AH0 T IY0 CH EH1 K AH0 B AW1 T sp JH IH1 M IY0 sp D AH1 Z IH1 T M IY1 N DH AH0 B AA1 R M EY1 B IY1 AH0 D EY1 N JH ER0 AH0 S P L EY1 S sp}|what's all the security check about, jimmy? does it mean the bar may be a dangerous place?|none
+1_0_d1238|0|{N OW1 sp AH1 V K AO1 R S N AA1 T sp JH AH1 S T IH0 N K EY1 S sp N AH1 TH IH0 NG T UW1 W ER1 IY0 AH0 B AW1 T sp AH1 M D OW1 N T Y UW1 AO1 L S OW0 D UW1 DH IH1 S IH0 N CH AY1 N AH0 sp}|no, of course not. just in case. nothing to worry about. umm don't you also do this in china?|none
+2_1_d1238|1|{AY1 D OW1 N T N OW1 sp M EY1 B IY0 DH AH0 S EY1 M sp AE1 K CH AH0 W AH0 L IY0 sp DH IH1 S IH1 Z M AY1 F ER1 S T T AY1 M B IY1 IH0 NG IH0 N AH0 B AA1 R sp}|i don't know. maybe the same. actually, this is my first time being in a bar.|none
+3_0_d1238|0|{OW1 sp DH EH1 N IH1 T S M AY1 AA1 N ER0 T UW1 B IY1 HH IY1 R W IH1 DH Y UW1 sp AY1 K AE1 N S IY1 N AW1 W AY1 Y UW1 V B IH1 N S OW1 K Y UH1 R IY0 AH0 S AH0 B AW1 T DH AH0 B AA1 R sp Y UW1 L AY1 K DH IH1 S P L EY1 S sp}|oh, then it's my honor to be here with you. i can see now why you've been so curious about the bar. you like this place?|happiness
+4_1_d1238|1|{SH UH1 R sp AY1 L AH1 V DH IH1 S P L EY1 S sp AH0 S P EH1 SH L IY0 DH AH0 D EH2 K ER0 EY1 SH AH0 N sp S OW1 T EY1 S T F AH0 L sp}|sure. i love this place, especially the decoration. so tasteful!|happiness
+5_0_d1238|0|{Y AE1 sp AH1 DH ER0 DH AE1 N DH AE1 T sp DH AH0 R IY1 L F IY1 CH ER0 IH1 Z DH AH0 EH1 K S AH0 L AH0 N T D R IH1 NG K S sp K AE1 N AY1 HH AE1 V Y AO1 R T IH1 K AH0 T sp}|yeah. other than that, the real feature is the excellent drinks. can i have your ticket?|happiness
+6_1_d1238|1|{HH IY1 R IH1 T IH1 Z sp B AH1 T sp W AH1 T F AO1 R sp W IY1 R AO0 L R EH1 D IY0 IH0 N sp}|here it is. but, what for? we're already in.|happiness
+7_0_d1238|0|{W EH1 L sp W IH1 DH DH AH0 T IH1 K AH0 T sp Y UW1 K AE1 N G EH1 T AH0 F R IY1 D R IH1 NG K sp W AH1 T W UH1 D Y UW1 L AY1 K sp AO1 R AH0 N JH JH UW1 S sp}|well, with the ticket, you can get a free drink. what would you like? orange juice?|happiness
+8_1_d1238|1|{Y EH1 S sp AO1 R AH0 N JH JH UW1 S W IH1 L B IY1 F AY1 N F AO1 R M IY1 sp B AH1 T HH AW1 K AE1 N Y UW1 G EH1 T DH AH0 D R IH1 NG K sp IH1 T S S OW1 K R AW1 D AH0 D DH EH1 R ER0 AW1 N D DH AH0 K AW1 N T ER0 sp Y UW1 K AE1 N B EH1 R L IY0 M UW1 V sp}|yes, orange juice will be fine for me. but how can you get the drink? it's so crowded there around the counter. you can barely move.|happiness
+9_0_d1238|0|{AY1 L SH OW1 Y UW1 HH AW1 sp DH AH0 B AA1 R T EH2 N D ER0 Z N OW1 HH UW1 Z T ER1 N IH1 T IH1 Z sp AH0 N D AO1 L S OW0 sp AY1 K AE1 N S N AE1 P M AY1 F IH1 NG G ER0 Z T UW1 K AE1 CH HH IH1 Z AH0 T EH1 N SH AH0 N sp}|i'll show you how. the bartenders know whose turn it is. and also, i can snap my fingers to catch his attention.|happiness
+10_1_d1238|1|{K UW1 L sp TH AE1 NG K S sp JH IH1 M IY0 B R IH1 NG Z M EY1 AH0 G L AE1 S AH1 V AO1 R AH0 N JH JH UW1 S sp OW1 sp F R EH1 SH JH UW1 S sp AY1 L AH1 V IH1 T sp W EH1 L sp AY1 HH ER1 D AH0 M EH1 R AH0 K AH0 N P IY1 P AH0 L L AH1 V HH AE1 NG IH0 NG AW1 T IH0 N B AA1 R Z sp IH1 Z DH AE1 T T R UW1 sp}|cool. thanks. ( jimmy brings may a glass of orange juice. ) oh, fresh juice, i love it. well, i heard american people love hanging out in bars. is that true?|happiness
+11_0_d1238|0|{N AA1 T EH1 V R IY0 W AH2 N sp B AH1 T AH0 L AA1 T AH1 V P IY1 P AH0 L D UW1 sp AH0 S P EH1 SH L IY0 DH AH0 Y AH1 NG sp IH1 T S AH0 F AY1 N P L EY1 S T UW1 S P EH1 N D AE1 N IY1 V N IH0 NG W IH1 DH F R EH1 N D Z AO1 R T UW1 M EY1 K S AH1 M N UW1 F R EH1 N D Z sp}|not everyone. but a lot of people do, especially the young. it's a fine place to spend an evening with friends or to make some new friends.|happiness
+12_1_d1238|1|{IH1 N T R AH0 S T IH0 NG sp HH EY1 sp L UH1 K OW1 V ER0 DH EH1 R sp DH AH0 D AE1 N S F L AO1 R IH1 Z AO0 L R EH1 D IY0 P AE1 K T W IH1 DH P IY1 P AH0 L sp OW1 sp DH AH0 G ER1 L IH0 N R EH1 D D AE1 N S AH0 Z G R EY1 T sp}|interesting. hey, look over there. the dance floor is already packed with people. oh, the girl in red dances great.|happiness
+13_0_d1238|0|{Y AE1 sp AH0 D AE1 N S IH0 NG K W IY1 N sp W AA1 N AH0 G OW1 AH0 N D JH OY1 N DH EH1 M sp}|yeah, a dancing queen. wanna go and join them?|happiness
+14_1_d1238|1|{M EY1 B IY0 L EY1 T ER0 sp AY1 W AA1 N AH0 T EY1 K S AH1 M F OW1 T OW2 Z F ER1 S T sp}|maybe later. i wanna take some photos first.|happiness
+15_0_d1238|0|{OW1 K EY1 sp L EH1 T M IY1 HH EH1 L P Y UW1 T UW1 HH OW1 L D DH AH0 D R IH1 NG K sp}|ok. let me help you to hold the drink.|happiness
+16_1_d1238|1|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+0_1_d1250|1|{HH AW1 D UW1 Y UW1 TH IH1 NG K AH0 B AW1 T AW1 ER0 B AA1 S sp}|how do you think about our boss?|none
+1_0_d1250|0|{HH IY1 Z DH AH0 N AY1 S IH0 S T B AA1 S AY1 V HH AE1 D sp}|he's the nicest boss i've had.|happiness
+2_1_d1250|1|{Y EH1 S sp AY1 TH IH1 NG K HH IY1 Z DH AH0 M OW1 S T R IH0 L AE1 K S IH0 NG P ER1 S AH0 N IH0 N M AE1 N AH0 JH M AH0 N T sp}|yes, i think he's the most relaxing person in management.|none
+3_0_d1250|0|{W AH1 T S M AO1 R sp HH IY1 S EH1 D AY1 W AA1 Z DH AH0 HH AA1 R D AH0 S T W ER1 K IH0 NG P ER1 S AH0 N IH0 N DH AH0 AO1 F AH0 S sp}|what's more, he said i was the hardest working person in the office!|happiness
+4_1_d1250|1|{DH AE1 T S G UH1 D sp M EY1 B IY0 Y UW1 L G EH1 T P R AH0 M OW1 T AH0 D sp}|that's good. maybe you'll get promoted.|none
+5_0_d1250|0|{AY1 HH OW1 P S OW1 sp}|i hope so.|none
+0_0_d1251|0|{HH AW1 D AH1 Z IH1 T F IH1 T sp}|how does it fit?|none
+1_1_d1251|1|{IH1 T F IH1 T S F AY1 N sp AY1 L T EY1 K IH1 T sp HH AW1 M AH1 CH IH1 Z IH1 T sp}|it fits fine. i'll take it. how much is it?|none
+2_0_d1251|0|{DH AH0 P R AY1 S IH1 Z AA1 N DH AH0 T AE1 G sp HH AW1 W UH1 D Y UW1 L AY1 K T UW1 P EY1 sp}|the price is on the tag. how would you like to pay?|none
+3_1_d1251|1|{AH1 M D UW1 Y UW1 T EY1 K K R EH1 D AH0 T K AA1 R D Z sp}|umm do you take credit cards?|none
+4_0_d1251|0|{Y EH1 S sp W IY1 D UW1 sp}|yes, we do.|none
+5_1_d1251|1|{G R EY1 T sp HH IH1 R Z M AY1 V IY1 Z AH0 K R EH1 D AH0 T K AA1 R D sp}|great. here's my visa credit card.|happiness
+6_0_d1251|0|{HH IH1 R Z Y AO1 R R IH0 S IY1 T sp TH AE1 NG K Y UW1 F AO1 R SH AA1 P IH0 NG HH IY1 R AH0 N D HH AE1 V AH0 N AY1 S D EY1 sp}|here's your receipt. thank you for shopping here and have a nice day.|happiness
+7_1_d1251|1|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+0_0_d1298|0|{IH0 K S K Y UW1 S M IY1 sp W AH1 T S DH AH0 S K R IY1 N N IH1 R Y AO1 R S T IH1 R IH0 NG W IY1 L F AO1 R sp}|excuse me, what's the screen near your steering wheel for?|none
+1_1_d1298|1|{IH1 T S AH0 P AO1 R T AH0 B AH0 L T IY1 V IY1 sp IH1 T S AH0 P AA1 P Y AH0 L ER0 TH IH1 NG N AW1 sp}|it's a portable tv. it's a popular thing now.|happiness
+2_0_d1298|0|{OW1 sp DH AE1 T S N UW1 T UW1 M IY1 sp S OW1 W AH1 T S AA1 N EH1 V R IY0 D EY1 sp}|oh, that's new to me. so what's on everyday?|none
+3_1_d1298|1|{N UW1 Z AH0 B AW1 T K ER1 AH0 N T AH0 F EH1 R Z sp D AA2 K Y AH0 M EH1 N T ER0 IY0 Z sp M Y UW1 Z IH0 K sp M UW1 V IY0 Z sp N AA1 N K AH0 M ER1 SH AH0 L AE1 D Z AH0 N D S OW1 AA1 N sp}|news about current affairs, documentaries, music, movies, noncommercial ads and so on.|happiness
+4_0_d1298|0|{AH1 M IH1 Z DH EH1 R EH1 N IY0 TH IH2 NG IH1 N T R AH0 S T IH0 NG sp}|umm is there anything interesting?|none
+5_1_d1298|1|{Y EH1 S sp DH EH1 R AA1 R S AH1 M TH IH0 NG G UH1 D AH0 N D IH0 N F AO1 R M AH0 T IH0 V sp AY1 TH IH1 NG K DH AE1 T M EH1 N IY0 P IY1 P AH0 L AH1 N D ER0 EH1 S T AH0 M AH0 T DH AH0 V AE1 L Y UW0 AH1 V T IY1 V IY1 IH0 N EH2 JH AH0 K EY1 SH AH0 N sp}|yes, there are something good and informative. i think that many people underestimate the value of tv in education.|happiness
+6_0_d1298|0|{AY1 AH0 G R IY1 sp AA1 R DH EH1 R EH1 N IY0 K AH0 M ER1 SH AH0 L Z AA1 N DH AH0 T IY1 V IY1 sp}|i agree. are there any commercials on the tv?|none
+7_1_d1298|1|{AH1 V K AO1 R S sp B IH0 K AO1 Z DH AH0 T IY1 V IY1 S T EY1 SH AH0 N Z N IY1 D T UW1 M EY1 K M AH1 N IY0 F R AH1 M K AH0 M ER1 SH AH0 L Z B IH0 T W IY1 N DH AH0 P R OW1 G R AE2 M Z sp}|of course. because the tv stations need to make money from commercials between the programs.|none
+8_0_d1298|0|{DH AE1 T M EY1 K S AH0 L AA1 T AH1 V S EH1 N S sp D AH1 Z DH AH0 T IY1 V IY1 W ER1 K W EH1 L sp}|that makes a lot of sense. does the tv work well?|none
+9_1_d1298|1|{N AA1 T AO1 L W EY2 Z sp IH1 T D IH0 P EH1 N D Z AA1 N DH AH0 T R AE0 N S M IH1 SH AH0 N AH1 V DH AH0 S AE1 T AH0 L AY2 T S IH1 G N AH0 L Z sp}|not always. it depends on the transmission of the satellite signals.|none
+10_0_d1298|0|{AY1 G AA1 T IH1 T sp D UW1 Y UW1 P EY1 F AO1 R DH AH0 P R OW1 G R AE2 M Z sp}|i got it. do you pay for the programs?|none
+11_1_d1298|1|{Y EH1 S sp F IH1 F T IY0 Y UW0 AA1 N P ER1 M AH1 N TH sp}|yes, fifty yuan per month.|none
+12_0_d1298|0|{IH1 T IH1 Z AH0 L IH1 T AH0 L B IH1 T IH0 K S P EH1 N S IH0 V sp B AH1 T IH1 T S W ER1 TH IH1 T sp}|it is a little bit expensive, but it's worth it.|none
+13_1_d1298|1|{Y AE1 sp Y UW1 N OW1 D R AY1 V IH0 NG IH1 Z B AO1 R IH0 NG sp T IY1 V IY1 K AE1 N G EH1 T M IY1 AW1 T AH1 V DH AH0 F AH0 T IY1 G AH1 V D R AY1 V IH0 NG sp}|yeah. you know driving is boring. tv can get me out of the fatigue of driving.|none
+14_0_d1298|0|{IH1 T K AE1 N AO1 L S OW0 EH2 N T ER0 T EY1 N Y AO1 R P AE1 S AH0 N JH ER0 Z L AY1 K M IY1 sp}|it can also entertain your passengers like me.|none
+15_1_d1298|1|{DH AE1 T S DH AH0 P OY1 N T sp}|that's the point.|none
+0_1_d1325|1|{D UW1 Y UW1 HH AE1 V EH1 N IY0 P L AE1 N Z F AO1 R T AH0 M AA1 R OW2 N AY1 T sp}|do you have any plans for tomorrow night?|none
+1_0_d1325|0|{AH1 M N AA1 T R IH1 L IY0 sp AY1 W AA1 Z TH IH1 NG K IH0 NG AH1 V M EY1 B IY0 G OW1 IH0 NG T UW1 AH0 M UW1 V IY0 sp D UW1 Y UW1 W AA1 N T T UW1 G OW1 W IH1 DH M IY1 sp}|umm not really. i was thinking of maybe going to a movie. do you want to go with me?|none
+2_1_d1325|1|{SH UH1 R sp W AH1 T M UW1 V IY0 Z W ER0 Y UW1 TH IH1 NG K IH0 NG AH0 B AW1 T G OW1 IH0 NG T UW1 sp}|sure. what movies were you thinking about going to?|none
+3_0_d1325|0|{HH AE1 V Y UW1 HH ER1 D AH1 V HH AA1 T F AH1 Z sp}|have you heard of hot fuzz?|none
+4_1_d1325|1|{Y EH1 S sp IH1 Z AH0 N T DH AH0 D ER0 EH1 K T ER0 AH1 V DH AE1 T M UW1 V IY0 DH AH0 S EY1 M G AY1 HH UW1 D ER0 EH1 K T AH0 D SH AO1 N AH1 V DH AH0 D EH1 D sp}|yes. isn't the director of that movie the same guy who directed shaun of the dead?|none
+5_0_d1325|0|{DH AE1 T S DH AH0 W AH1 N sp IH1 T S AE1 N AE1 K SH AH0 N D EY2 T sp W AH1 T D UW1 Y UW1 TH IH1 NG K sp}|that's the one. it's an actioncomedy. what do you think?|none
+6_1_d1325|1|{T UW1 B IY1 AA1 N AH0 S T sp AY1 D IH1 D AH0 N T R IH1 L IY0 L AY1 K SH AO1 N AH1 V DH AH0 D EH1 D sp B IH0 S AY1 D Z sp AY1 L AY1 K M UW1 V IY0 Z W IH1 DH AH0 HH AE1 P IY0 EH1 N D IH0 NG B EH1 S T sp}|to be honest, i didn't really like shaun of the dead. besides, i like movies with a happy ending best.|none
+7_0_d1325|0|{W AH1 T D UW1 Y UW1 HH AE1 V IH0 N M AY1 N D sp}|what do you have in mind?|none
+8_1_d1325|1|{AY1 W AA1 Z TH IH1 NG K IH0 NG AH1 V S IY1 IH0 NG Y UW1 sp M IY1 AH0 N D D AH0 P R IY1 sp IH1 T S AH0 T IH1 P AH0 K AH0 L HH AA1 L IY0 W UH2 D B L AA1 K B AH2 S T ER0 sp}|i was thinking of seeing you, me and dupree. it's a typical hollywood blockbuster.|none
+9_0_d1325|0|{IH1 Z AH0 N T DH AE1 T DH AH0 CH IH1 K F L IH1 K W IH1 DH K EY1 T HH AH1 D S AH0 N AH0 N D OW1 AH0 N W IH1 L S AH0 N sp}|isn't that the chick flick with kate hudson and owen wilson?|none
+10_1_d1325|1|{Y AE1 sp AY1 S AH0 P OW1 Z Y UW1 W UH1 D AH0 N T W AA1 N T T UW1 S IY1 DH AE1 T sp HH AH1 sp}|yeah, i suppose you wouldn't want to see that, huh?|none
+11_0_d1325|0|{N AA1 T R IH1 L IY0 sp D UW1 Y UW1 L AY1 K B AY2 AH0 G R AE1 F IH0 K AH0 L sp D R AA1 M AH0 F IH1 L M Z sp}|not really. do you like biographical, drama films?|none
+12_1_d1325|1|{IH1 T D IH0 P EH1 N D Z AA1 N HH UW1 DH AH0 F IH1 L M IH1 Z AH0 B AW1 T sp W IH1 CH M UW1 V IY0 D IH1 D Y UW1 HH AE1 V IH0 N M AY1 N D sp}|it depends on who the film is about. which movie did you have in mind?|none
+13_0_d1325|0|{AE1 N HH AE1 TH AH0 W EY2 IH1 Z IH0 N AH0 N UW1 M UW1 V IY0 K AO1 L D B IH0 K AH1 M IH0 NG JH EY1 N W IH1 CH IH1 Z B EY1 S T AA1 N AH0 T R UW1 S T AO1 R IY0 AH0 B AW1 T JH EY1 N AO1 S T IH0 N sp}|anne hathaway is in a new movie called becoming jane which is based on a true story about jane austen.|none
+14_1_d1325|1|{DH AE1 T S AW1 N D Z F AE0 N T AE1 S T IH0 K sp W AH1 T T AY1 M IH1 Z IH1 T P L EY1 IH0 NG sp}|that sounds fantastic! what time is it playing?|happiness
+15_0_d1325|0|{IH1 T S AA1 N AE1 T EY1 T P IY1 sp EH1 M sp AE1 T DH AH0 F IY1 N IH0 K S TH IY1 AH0 T ER0 Z sp AY1 HH AE1 V AH0 M EH1 M B ER0 SH IH2 P DH EH1 R sp S OW1 AY1 K AE1 N B UH1 K DH AH0 T IH1 K AH0 T S AH0 HH EH1 D AH1 V T AY1 M sp}|it's on at eight p.m. at the phoenix theatres. i have a membership there, so i can book the tickets ahead of time.|none
+16_1_d1325|1|{G R EY1 T sp SH AE1 L AY1 M IY1 T Y UW1 DH EH1 R ER0 AW1 N D S EH1 V AH0 N F AO1 R T IY0 sp F AY1 V T AH0 M AA1 R OW2 N AY1 T sp}|great. shall i meet you there around seven forty-five tomorrow night?|happiness
+17_0_d1325|0|{S AW1 N D Z G UH1 D sp AY1 L S IY1 Y UW1 DH EH1 N sp}|sounds good. i'll see you then!|happiness
+0_1_d1366|1|{AY1 M AH0 L IH1 T AH0 L N ER1 V AH0 S AH0 B AW1 T M AY1 P R EH2 Z AH0 N T EY1 SH AH0 N AA1 N F R AY1 D IY0 sp}|i'm a little nervous about my presentation on friday.|none
+1_0_d1366|0|{IH1 F Y UW1 W UH1 D L AY1 K M IY1 T UW1 sp AY1 K UH1 D HH EH1 L P Y UW1 W IH1 DH DH AE1 T sp}|if you would like me to, i could help you with that.|happiness
+2_1_d1366|1|{W UH1 D AH0 N T DH AE1 T T EY1 K Y UW1 AH0 W EY1 F R AH1 M Y AO1 R P R AA1 JH EH0 K T sp}|wouldn't that take you away from your project?|none
+3_0_d1366|0|{AY1 HH AE1 V P L EH1 N T IY0 AH1 V T AY1 M T UW1 D UW1 DH IH1 S sp AY1 P R AA1 M AH0 S Y UW1 IH1 T W OW1 N T B IY1 AH0 P R AA1 B L AH0 M F AO1 R M IY1 sp}|i have plenty of time to do this. i promise you it won't be a problem for me.|none
+4_1_d1366|1|{IH1 Z DH EH1 R AH0 G UH1 D T AY1 M F AO1 R Y UW1 T UW1 HH EH1 L P M IY1 sp}|is there a good time for you to help me?|none
+5_0_d1366|0|{IH1 F W IY1 W ER1 K AA1 N DH IH1 S T AH0 M AA1 R OW2 N AY1 T sp Y UW1 K UH1 D IY1 Z AH0 L IY0 B IY1 R EH1 D IY0 B AY1 F R AY1 D IY0 sp}|if we work on this tomorrow night, you could easily be ready by friday.|none
+6_1_d1366|1|{HH AW1 AH0 B AW1 T M IY1 T IH0 NG IH0 N M AY1 AO1 F AH0 S sp}|how about meeting in my office?|none
+7_0_d1366|0|{DH AE1 T W UH1 D W ER1 K AW1 T W EH1 L sp B R IH1 NG EH1 N IY0 K AH0 N S ER1 N Z DH AE1 T Y UW1 M AY1 T HH AE1 V sp}|that would work out well. bring any concerns that you might have.|none
+8_1_d1366|1|{S AW1 N D Z L AY1 K Y UW1 L B IY1 EY1 B AH0 L T UW1 HH EH1 L P M IY1 AH0 L AA1 T sp}|sounds like you'll be able to help me a lot.|happiness
+9_0_d1366|0|{D OW1 N T W ER1 IY0 sp EH1 V R IY0 TH IH2 NG W IH1 L G OW1 W EH1 L sp AY1 P R AA1 M AH0 S sp}|don't worry. everything will go well. i promise!|happiness
+0_0_d1399|0|{IH1 T S S OW1 B AO1 R IH0 NG sp}|it's so boring.|none
+1_1_d1399|1|{D OW1 N T Y UW1 L AY1 K IH1 T sp}|don't you like it?|none
+2_0_d1399|0|{AY1 D OW1 N T sp IH1 Z DH EH1 R EH1 N IY0 TH IH2 NG W ER1 TH W AA1 CH IH0 NG AA1 N DH AH0 AH1 DH ER0 CH AE1 N AH0 L sp}|i don't. is there anything worth watching on the other channel?|none
+3_1_d1399|1|{AH1 M AY1 TH IH1 NG K IH1 T S AH0 B AE1 S K AH0 T B AO2 L M AE1 CH AA1 N CH AE1 N AH0 L F AY1 V sp}|umm i think it's a basketball match on channel five.|none
+4_0_d1399|0|{D UW1 Y UW1 M AY1 N D IH1 F W IY1 S W IH1 CH OW1 V ER0 sp}|do you mind if we switch over?|none
+5_1_d1399|1|{W EH1 L sp AY1 D R AE1 DH ER0 S IY1 AH0 M UW1 V IY0 sp}|well, i'd rather see a movie.|none
+6_0_d1399|0|{W AH1 T S DH AH0 M UW1 V IY0 sp}|what's the movie?|none
+7_1_d1399|1|{sp S T AA1 R W AO1 R sp sp}|' star war '.|none
+8_0_d1399|0|{IH1 T M AH1 S T B IY1 IH1 N T R AH0 S T IH0 NG sp}|it must be interesting.|happiness
+9_1_d1399|1|{Y EH1 S sp Y UH1 R R AY1 T sp}|yes, you're right.|happiness
+0_1_d1414|1|{AA1 R Y UW1 SH UH1 R Y UW1 N OW1 W EH1 R DH IH1 S B AH1 S G OW1 Z sp}|are you sure you know where this bus goes?|none
+1_0_d1414|0|{IH1 T SH UH1 D G OW1 T UW1 AA2 L T AH0 D IY1 N AH0 sp}|it should go to altadena.|none
+2_1_d1414|1|{W AH1 T D UW1 Y UW1 M IY1 N IH1 T SH UH1 D sp}|what do you mean it should?|none
+3_0_d1414|0|{AY1 M N AA1 T K AH0 M P L IY1 T L IY0 SH UH1 R IH1 F IH1 T R IH1 L IY0 D AH1 Z sp}|i'm not completely sure if it really does.|none
+4_1_d1414|1|{D UW1 D sp AA1 R W IY1 AA1 N DH AH0 R AY1 T B AH1 S sp}|dude, are we on the right bus?|none
+5_0_d1414|0|{AY1 M AO1 L M OW2 S T P AA1 Z AH0 T IH0 V DH AE1 T DH IH1 S IH1 Z DH AH0 R AY1 T W AH1 N sp}|i'm almost positive that this is the right one.|none
+6_1_d1414|1|{IH1 T D AH1 Z AH0 N T L UH1 K L AY1 K W IY1 R AA1 N AW1 ER0 W EY1 T UW1 AA2 L T AH0 D IY1 N AH0 sp}|it doesn't look like we're on our way to altadena.|none
+7_0_d1414|0|{W IY1 HH AE1 V B IH1 N R AY1 D IH0 NG DH IH1 S B AH1 S F AO1 R AH0 L AO1 NG T AY1 M sp}|we have been riding this bus for a long time.|none
+8_1_d1414|1|{W AH1 T D AH1 Z DH AE1 T S AY1 N S EY1 sp}|what does that sign say?|none
+9_0_d1414|0|{AY1 TH IH1 NG K IH1 T S EH1 Z T EH1 M P AH0 L S IH1 T IY0 sp}|i think it says temple city.|none
+10_1_d1414|1|{Y AH1 P sp AY1 M N EH1 V ER0 T R AH1 S T IH0 NG Y UW1 W IH1 DH DH AH0 B AH1 S S K EH1 JH UH0 L Z AH0 G EH1 N sp}|yup, i'm never trusting you with the bus schedules again.|none
+11_0_d1414|0|{AY1 M S AA1 R IY0 sp B AH1 T AE1 T L IY1 S T W IY1 N OW1 W IH1 CH B AH1 S T UW1 K AE1 CH T UW1 G EH1 T B AE1 K W EH1 R W IY1 S T AA1 R T AH0 D sp}|i'm sorry. but at least we know which bus to catch to get back where we started.|sadness
+12_1_d1414|1|{Y AE1 sp AE1 T L IY1 S T sp}|yeah, at least.|none
+0_0_d1417|0|{AY1 L HH AE1 V S OW1 L sp DH EH1 N sp}|i'll have sole, then.|none
+1_1_d1417|1|{AO1 L R AY1 T sp HH AW1 AH0 B AW1 T AH1 DH ER0 G EH1 S T S sp}|all right. how about other guests?|none
+2_0_d1417|0|{AH1 M DH AH0 R EH1 S T AH1 V AH1 S W IH1 L HH AE1 V DH IH1 S T AH0 D EY1 Z S P EH1 SH AH0 L sp P L IY1 Z sp}|umm the rest of us will have this today's special, please.|none
+3_1_d1417|1|{OW1 K EY1 sp}|ok.|none
+4_0_d1417|0|{AY1 M S AA1 R IY0 B AH1 T AY1 AO1 R D ER0 D S OW1 L sp N AA1 T DH AH0 S EY1 M AE1 Z DH AH0 AH1 DH ER0 Z sp W IH1 L Y UW1 CH EY1 N JH IH1 T sp}|i'm sorry but i ordered sole, not the same as the others.will you change it?|none
+5_1_d1417|1|{AY1 M AH0 F R EY1 D W IY1 HH AE1 V N OW1 M AO1 R S OW1 L sp}|i'm afraid we have no more sole.|none
+6_0_d1417|0|{DH EH1 N sp AY1 L HH AE1 V DH IH1 S P AO1 R K K Y UW1 T IH0 N S T EH1 D sp}|then, i'll have this pork cute instead.|none
+7_1_d1417|1|{S ER1 T AH0 N L IY0 sp JH AH1 S T AH0 M OW1 M AH0 N T sp S ER1 sp}|certainly.just a moment, sir.|happiness
+0_1_d1418|1|{OW1 K EY1 sp AY1 L T EY1 K Y AO1 R B EH1 T sp AE1 Z L AO1 NG AE1 Z DH AH0 W IH1 N ER0 G EH1 T S T UW1 P IH1 K DH AH0 M UW1 V IY0 sp W AH1 T AH0 B AW1 T Y UW1 sp N IH1 K sp}|ok. i'll take your bet, as long as the winner gets to pick the movie. what about you, nick?|none
+1_0_d1418|0|{SH UH1 R sp AH1 M D UW1 Y UW1 W AA1 N T T UW1 G OW1 F ER1 S T sp S AE1 L IY0 sp}|sure. umm do you want to go first, sally?|none
+2_1_d1418|1|{W AY1 N AA1 T sp AY1 R OW1 L D AH0 F AY1 V sp DH AH0 K AE1 T AH0 G AO2 R IY0 IH1 Z B EH1 S T P IH1 K CH ER0 Z sp}|why not! i rolled a five. the category is best pictures.|none
+3_0_d1418|0|{OW1 K EY1 sp HH IH1 R Z Y AO1 R K W EH1 S CH AH0 N W AH1 T M UW1 V IY0 W AH1 N DH AH0 N AY1 N T IY1 N N AY1 N T IY0 S IH1 K S AO1 S K ER0 F AO1 R B EH1 S T P IH1 K CH ER0 sp}|ok, here's your question what movie won the nineteen ninety six oscar for best picture?|none
+4_1_d1418|1|{AY1 N OW1 DH AE1 T sp IH1 T S DH AH0 IH1 NG G L IH0 SH P EY1 SH AH0 N T sp IH1 T W AA1 Z W AH1 N AH1 V DH AH0 OW1 N L IY0 G UH1 D AH0 M EH1 R AH0 K AH0 N M UW1 V IY0 Z AH1 V DH AH0 N AY1 N T IY0 Z sp}|i know that, it's the english patient. it was one of the only good american movies of the nineties.|none
+5_0_d1418|0|{W EH1 L sp AH0 L AO1 NG W IH1 DH JH UH0 R AE1 S IH0 K P AA1 R K sp AH1 M N AY1 S G OW1 IH0 NG sp Y UW1 G AA1 T DH AH0 R AY1 T AE1 N S ER0 sp}|well, along with jurassic park! umm nice going, you got the right answer.|none
+0_1_d1431|1|{W AH1 T D UW1 Y UW1 D UW1 F AO1 R AH0 L IH1 V IH0 NG sp}|what do you do for a living?|none
+1_0_d1431|0|{AY1 M AH0 D AA1 K T ER0 sp}|i'm a doctor.|none
+2_1_d1431|1|{R IH1 L IY0 sp D UW1 Y UW1 L AY1 K IH1 T sp}|really? do you like it?|surprise
+3_0_d1431|0|{AH1 M sp Y EH1 S sp AY1 D UW1 sp IH1 T S V EH1 R IY0 IH1 N T R AH0 S T IH0 NG sp W AH1 T S Y AO1 R JH AA1 B sp}|umm, yes, i do. it's very interesting. what's your job?|none
+4_1_d1431|1|{AY1 M AH0 B AH1 S D R AY1 V ER0 sp}|i'm a bus driver.|none
+5_0_d1431|0|{OW1 sp D UW1 Y UW1 EH0 N JH OY1 IH1 T sp}|oh, do you enjoy it?|none
+6_1_d1431|1|{N OW1 sp AY1 D OW1 N T R IH1 L IY0 L AY1 K IH1 T sp IH1 T S B AO1 R IH0 NG sp}|no, i don't really like it. it's boring.|none
+0_1_d1452|1|{W AW1 sp IH1 Z DH AE1 T Y AO1 R S P AO1 R T S K AA1 R sp}|wow, is that your sports car?|happiness
+1_0_d1452|0|{Y EH1 S sp D UW1 Y UW1 L AY1 K IH1 T sp}|yes, do you like it?|happiness
+2_1_d1452|1|{AY1 L AH1 V IH1 T sp AY1 Y UW1 Z D T UW1 AO1 L W EY2 Z W AA1 N T T UW1 D R AY1 V AH0 G R IY1 N JH AE1 G W AA2 R sp IH1 Z IH1 T IH0 N G UH1 D K AH0 N D IH1 SH AH0 N sp}|i love it! i used to always want to drive a green jaguar. is it in good condition?|happiness
+3_0_d1452|0|{AH1 M IH1 T L UH1 K S G UH1 D AA1 N DH AH0 AW1 T S AY1 D sp B AH1 T DH AH0 IH0 N S AY1 D IH1 Z AH0 D IH1 F ER0 AH0 N T S T AO1 R IY0 sp IH1 T N IY1 D Z AH0 L AA1 T AH1 V S ER1 V IH0 S IH0 NG B IH0 F AO1 R IH1 T K AE1 N G OW1 AW1 T AA1 N DH AH0 R OW1 D Z AH0 G EH1 N sp}|umm it looks good on the outside, but the inside is a different story. it needs a lot of servicing before it can go out on the roads again.|none
+4_1_d1452|1|{W AH1 T S R AO1 NG W IH1 DH IH1 T sp}|what's wrong with it?|none
+5_0_d1452|0|{W EH1 L sp F ER1 S T AH1 V AO1 L sp IH1 T N IY1 D Z AH0 N UW1 EH1 N JH AH0 N sp W IH1 CH IH1 Z IH0 K S T R IY1 M L IY0 IH0 K S P EH1 N S IH0 V sp}|well, first of all, it needs a new engine, which is extremely expensive.|none
+6_1_d1452|1|{W EH1 N Z DH AH0 L AE1 S T T AY1 M Y UW1 HH AE1 D IH1 T S ER1 V IH0 S T sp}|when's the last time you had it serviced?|none
+7_0_d1452|0|{IH1 T M AH1 S T HH AE1 V B IH1 N AH0 F Y UW1 Y IH1 R Z AH0 G OW1 N AW1 sp}|it must have been a few years ago now.|none
+8_1_d1452|1|{AY1 TH AO1 T AO1 L K AA1 R Z N IY1 D AH0 D R EH1 G Y AH0 L ER0 S ER1 V IH0 S IH0 NG AA1 N AH0 Y IH1 R L IY0 B EY1 S AH0 S sp}|i thought all cars needed regular servicing on a yearly basis.|none
+9_0_d1452|0|{DH EY1 D UW1 sp W AH1 N S M AY1 S AH1 N W AA1 Z B AO1 R N sp DH EH1 R W AA1 Z N OW1 R IY1 Z AH0 N T UW1 D R AY1 V DH IH1 S K AA1 R EH2 N IY0 M AO1 R sp IH1 T S OW1 N L IY0 AH0 T UW1 sp S IY1 T ER0 sp Y UW1 N OW1 sp}|they do. once my son was born, there was no reason to drive this car anymore. it's only a two-seater, you know!|none
+10_1_d1452|1|{W AH1 T EH1 L S IH1 Z R AO1 NG W IH1 DH IH1 T sp}|what else is wrong with it?|none
+11_0_d1452|0|{DH AH0 HH IY1 T IH0 NG K AH0 N T R OW1 L Z D OW1 N T W ER1 K EH2 N IY0 M AO1 R sp S OW1 IH1 T AO1 L W EY2 Z F IY1 L Z L AY1 K IH1 T S AH0 B AW1 T HH AH1 N D R AH0 D D IH0 G R IY1 Z IH0 N DH AH0 K AA1 R sp sp IY1 V IH0 N IH0 N DH AH0 S AH1 M ER0 sp}|the heating controls don't work anymore, so it always feels like it's about hundred degrees in the car -- even in the summer!|none
+12_1_d1452|1|{EH1 N IY0 TH IH2 NG EH1 L S sp}|anything else?|none
+13_0_d1452|0|{DH AH0 B R EY1 K S D OW1 N T R IH1 L IY0 W ER1 K DH AE1 T W EH1 L EH2 N IY0 M AO1 R IY1 DH ER0 sp}|the brakes don't really work that well anymore either.|none
+14_1_d1452|1|{W AY1 D OW1 N T Y UW1 G EH1 T IH1 T AO1 L F IH1 K S T sp}|why don't you get it all fixed?|none
+15_0_d1452|0|{IH1 T K AA1 S T S M AO1 R DH AE1 N Y UW1 TH IH1 NG K T UW1 R AH1 N AH0 K AA1 R sp AH0 S P EH1 SH L IY0 W EH1 N DH EH1 R AA1 R S OW1 M EH1 N IY0 TH IH1 NG Z R AO1 NG W IH1 DH IH1 T sp}|it costs more than you think to run a car, especially when there are so many things wrong with it!|none
+16_1_d1452|1|{W EH1 L sp L EH1 T M IY1 N OW1 W EH1 N Y UW1 K AE1 N G EH1 T IH1 T F IH1 K S T sp AY1 D L AH1 V T UW1 G OW1 F AO1 R AH0 R AY1 D IH0 N IH1 T sp}|well, let me know when you can get it fixed. i'd love to go for a ride in it!|happiness
+0_1_d1455|1|{HH AH0 L OW1 sp DH IH1 S IH1 Z S UW1 Z AH0 N sp}|hello. this is susan.|none
+1_0_d1455|0|{HH AH0 L OW1 sp AY1 M M AA1 R K sp AY1 M JH AH1 S T W AH1 N D ER0 IH0 NG IH1 F Y UW1 AA1 R F R IY1 DH IH1 S W IY1 K EH2 N D sp}|hello, i'm mark. i'm just wondering if you are free this weekend.|none
+2_1_d1455|1|{Y EH1 S sp AY1 TH IH1 NG K S OW1 sp}|yes, i think so.|none
+3_0_d1455|0|{G UH1 D sp AY1 W AA1 Z TH IH1 NG K IH0 NG DH AE1 T AY1 D L AY1 K T UW1 IH1 N V AY0 T Y UW1 T UW1 W AA1 CH AH0 M UW1 V IY0 sp AY1 K AE1 N M IY1 T Y UW1 AE1 T DH AH0 S IH1 N AH0 M AH0 G EY1 T sp}|good. i was thinking that i'd like to invite you to watch a movie. i can meet you at the cinema gate.|none
+4_1_d1455|1|{W AH1 T S DH AH0 T AY1 M sp}|what's the time?|none
+5_0_d1455|0|{S IH1 K S TH ER1 D IY0 sp T AH0 N AY1 T sp}|six thirty, tonight.|none
+6_1_d1455|1|{OW1 sp AY1 M S AA1 R IY0 AY1 K AE1 N T B IH0 K AO1 Z AY1 HH AE1 V T UW1 D UW1 S AH1 M HH AW1 S W ER2 K sp Y UW1 K AE1 N AE1 S K JH EH1 N IY0 T UW1 G OW1 W IH1 DH Y UW1 sp}|oh, i'm sorry i can't because i have to do some housework. you can ask jenny to go with you.|none
+7_0_d1455|0|{AO1 L R AY1 T sp M EY1 B IY0 N EH1 K S T T AY1 M AY1 K AE1 N G OW1 W IH1 DH Y UW1 sp B AY1 sp}|all right. maybe next time i can go with you. bye!|none
+8_1_d1455|1|{G UH1 D B AY1 sp}|good bye!|none
+0_1_d1543|1|{W IY1 HH AE1 V AH0 HH AA1 L AH0 D EY2 N EH1 K S T W IY1 K sp D OW1 N T W IY1 sp}|we have a holiday next week, don't we?|none
+1_0_d1543|0|{AH1 M Y EH1 S sp AA1 N M AH1 N D IY0 sp}|umm yes, on monday.|none
+2_1_d1543|1|{W AH1 T ER0 Y UW1 G OW1 IH0 NG T UW1 D UW1 sp}|what're you going to do?|none
+3_0_d1543|0|{AY1 M P R AA1 B AH0 B L IY0 G OW1 IH0 NG T UW1 S P EH1 N D DH AH0 D EY1 L UH1 K IH0 NG AE1 T K AA1 R Z sp}|i'm probably going to spend the day looking at cars.|none
+4_1_d1543|1|{AE1 T K AA1 R Z sp Y UW1 AA1 R AH0 N T TH IH1 NG K IH0 NG AH0 B AW1 T B AY1 IH0 NG AH0 K AA1 R sp AA1 R Y UW1 sp}|at cars! you aren't thinking about buying a car, are you?|anger
+5_0_d1543|0|{Y EH1 S sp AY1 AE1 M sp AY1 D L AY1 K T UW1 B IY1 EY1 B AH0 L T UW1 G EH1 T ER0 AW1 N D AH0 L IH1 T AH0 L M AO1 R sp}|yes, i am. i'd like to be able to get around a little more.|none
+6_1_d1543|1|{B AH1 T IH1 T W IH1 L B IY1 IH0 K S P EH1 N S IH0 V T UW1 HH AE1 V AH0 K AA1 R IH0 N DH AH0 S IH1 T IY0 sp W OW1 N T IH1 T sp}|but it will be expensive to have a car in the city, won't it?|anger
+7_0_d1543|0|{OW1 sp AY1 D OW1 N T N OW1 sp AH1 V K AO1 R S sp G AE1 S AH0 L IY2 N K AA1 S T S AH0 L AA1 T DH IY1 Z D EY1 Z sp}|oh, i don't know. of course, gasoline costs a lot these days.|none
+8_1_d1543|1|{B AH1 T W AH1 T AH0 B AW1 T P AA1 R K IH0 NG sp Y UW1 K AE1 N T P AA1 R K AA1 N DH AH0 S T R IY1 T sp K AE1 N Y UW1 sp}|but what about parking? you can't park on the street, can you?|anger
+9_0_d1543|0|{AH0 L AA1 T AH1 V P IY1 P AH0 L D UW1 sp AY1 L T R AY1 IH1 T F AO1 R AH0 W AY1 L EH1 N IY0 W EY2 sp B AH1 T AY1 S ER1 T AH0 N L IY0 D OW1 N T W AA1 N T T UW1 P EY1 AH0 L AA1 T AH1 V P AA1 R K IH0 NG T IH1 K AH0 T S sp}|a lot of people do. i'll try it for a while anyway, but i certainly don't want to pay a lot of parking tickets.|none
+0_1_d1545|1|{DH IH1 S IH1 Z DH AH0 L AE1 S T AH1 V DH AH0 M IH1 L K sp}|this is the last of the milk.|happiness
+1_0_d1545|0|{AY1 N OW1 sp AY1 IH0 N T EH1 N D T UW1 G OW1 T UW1 DH AH0 S T AO1 R T AH0 D EY1 sp}|i know. i intend to go to the store today.|happiness
+2_1_d1545|1|{W UH1 D Y UW1 G EH1 T S AH1 M AH1 V DH AE1 T N UW1 S IH1 R IY0 AH0 L W IY1 S AO1 AE1 D V ER0 T AY2 Z D AA1 N T IY1 V IY1 sp}|would you get some of that new cereal we saw advertised on tv?|happiness
+3_0_d1545|0|{W IH1 CH W AH1 N sp}|which one?|happiness
+4_1_d1545|1|{Y UW1 N OW1 sp sp sp DH AH0 W AH1 N W IH1 DH DH AH0 S IH1 L IY0 AE1 D AH0 B AW1 T HH AW1 V AY1 T AH0 M AH0 N Z JH AH1 M P AH1 P AH0 N D D AW1 N sp}|you know... the one with the silly ad about how vitamins jump up and down.|happiness
+5_0_d1545|0|{OW1 sp Y UW1 M IY1 N sp K AY1 K S sp sp}|oh, you mean 'kikes'?|happiness
+6_1_d1545|1|{Y AE1 sp DH AE1 T S DH AH0 W AH1 N sp}|yeah. that's the one.|happiness
+7_0_d1545|0|{W EH1 L sp AY1 L S IY1 sp S AH0 M T AY1 M Z DH AH0 S T AO1 R Z D OW1 N T HH AE1 V S AH1 M AH1 V DH AH0 N UW1 K AY1 N D Z AH1 V S IH1 R IY0 AH0 L sp}|well, i'll see. sometimes the stores don't have some of the new kinds of cereal.|happiness
+0_1_d1581|1|{DH IH1 S M AE1 N L UH1 K S V EH1 R IY0 HH AE1 N S AH0 M sp IH1 Z HH IY1 M EH1 R IY0 D sp}|this man looks very handsome. is he married?|none
+1_0_d1581|0|{SH UH1 R sp AH1 sp HH IY1 HH AE1 Z AO0 L R EH1 D IY0 M EH1 R IY0 D sp AH0 F AA1 DH ER0 AH1 V T UW1 B OY1 Z sp}|sure. uh, he has already married, a father of two boys.|none
+2_1_d1581|1|{OW1 sp AY1 K AE1 N T B IH0 L IY1 V IH1 T sp HH IY1 L UH1 K S V EH1 R IY0 Y AH1 NG sp}|oh, i can't believe it. he looks very young.|surprise
+3_0_d1581|0|{HH IY1 T UH1 K DH AH0 P IH1 K CH ER0 W EH1 N HH IY1 W AA1 Z OW1 N L IY0 T W EH1 N T IY0 sp W AH1 N Y IH1 R Z OW1 L D sp}|he took the picture when he was only twenty-one years old.|none
+4_1_d1581|1|{AY1 S IY1 sp}|i see.|none
+0_1_d1618|1|{K AH1 M AA1 N sp P L EH1 N T IY0 AH1 V R UW1 M Z AH0 P S T EH1 R Z sp F EH1 R Z P L IY1 Z sp}|come on. plenty of rooms upstairs. fares please!|none
+1_0_d1618|0|{W AH1 N T UW1 DH AH0 B IY1 CH sp HH AW1 M AH1 CH IH1 Z IH1 T sp}|one to the beach. how much is it?|none
+2_1_d1618|1|{W AH1 N D AA1 L ER0 sp AY1 M SH AO1 R T AH1 V CH EY1 N JH DH IH1 S M AO1 R N IH0 NG sp}|one dollar. i'm short of change this morning.|none
+3_0_d1618|0|{S AA1 R IY0 sp AY1 K AE1 N W EY1 T AH0 M OW1 M AH0 N T sp}|sorry. i can wait a moment.|none
+4_1_d1618|1|{G UH1 D sp HH IH1 R Z Y AO1 R T IH1 K AH0 T AH0 N D F AO1 R D AA1 L ER0 Z CH EY1 N JH sp}|good, here's your ticket and four dollars change.|none
+5_0_d1618|0|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+0_1_d1704|1|{HH AH0 L OW1 sp AA1 R Y UW1 CH AY0 N IY1 Z sp}|hello, are you chinese?|none
+1_0_d1704|0|{N OW1 sp AY1 M K AO0 R IY1 AH0 N sp W EH1 R AA1 R Y UW1 F R AH1 M sp}|no, i'm korean. where are you from?|none
+2_1_d1704|1|{AY1 M F R AH1 M AH0 M EH1 R AH0 K AH0 sp AA1 R Y UW1 S EH1 T AH0 L IH0 NG IH0 N AO1 L R AY1 T sp}|i'm from america. are you settling in all right?|none
+3_0_d1704|0|{AY1 V AO0 L R EH1 D IY0 F AW1 N D AH0 F L AE1 T AH0 N D IH1 T S K W AY1 T K AH1 M F ER0 T AH0 B AH0 L sp W AH1 T AH0 B AW1 T Y UW1 sp}|i've already found a flat and it's quite comfortable. what about you?|none
+4_1_d1704|1|{AY1 L AY1 V IH0 N M AY1 AH1 NG K AH0 L Z HH AW1 S sp HH IY1 K EY1 M HH IY1 R T EH1 N Y IH1 R Z AH0 G OW1 sp}|i live in my uncle's house. he came here ten years ago.|none
+5_0_d1704|0|{W AH1 T D UW1 Y UW1 TH IH1 NG K AH1 V DH AH0 L OW1 K AH0 L AE1 K S EH2 N T HH IY1 R sp HH AE1 Z IH1 T B IH1 N K AA1 Z IH0 NG Y UW1 EH1 N IY0 P R AA1 B L AH0 M Z sp}|what do you think of the local accent here? has it been causing you any problems?|none
+6_1_d1704|1|{AY1 TH IH1 NG K IH1 T S JH AH1 S T AH0 M AE1 T ER0 AH1 V G EH1 T IH0 NG Y UW1 Z D T UW1 IH1 T sp}|i think it's just a matter of getting used to it.|none
+7_0_d1704|0|{AY1 K AE1 N T AH0 G R IY1 M AO1 R sp}|i can't agree more.|none
+0_1_d1705|1|{S AA1 R IY0 sp W AH1 T W AA1 Z DH AE1 T Y UW1 S EH1 D sp}|sorry. what was that you said?|none
+1_0_d1705|0|{AY1 L M IY1 T Y UW1 AE1 T DH AH0 G EY1 T R AW1 N D AH0 B AW1 T S EH1 V AH0 N sp}|i'll meet you at the gate round about seven.|none
+2_1_d1705|1|{W EH1 R sp}|where?|none
+3_0_d1705|0|{AE1 T DH AH0 G EY1 T sp}|at the gate.|none
+4_1_d1705|1|{W EH1 N sp D IH1 D Y UW1 S EY1 sp}|when, did you say?|none
+5_0_d1705|0|{R AW1 N D AH0 B AW1 T S EH1 V AH0 N sp}|round about seven.|none
+6_1_d1705|1|{HH UW1 Z K AH1 M IH0 NG sp}|who's coming?|none
+7_0_d1705|0|{P IY1 T ER0 sp P IY1 T ER0 B R AW1 N sp Y UW1 N OW1 sp AH1 M D OW1 N T F ER0 G EH1 T T UW1 B R IH1 NG DH AH0 L EH1 T ER0 sp}|peter. peter brown, you know. umm don't forget to bring the letter.|none
+8_1_d1705|1|{S AA1 R IY0 sp AY1 D IH1 D AH0 N T K W AY1 T K AE1 CH W AH1 T Y UW1 S EH1 D sp DH EH1 R Z AH0 L AA1 T AH1 V N OY1 Z AW1 T S AY1 D sp}|sorry. i didn't quite catch what you said. there's a lot of noise outside.|none
+9_0_d1705|0|{AY1 T OW1 L D Y UW1 N AA1 T T UW1 F ER0 G EH1 T T UW1 B R IH1 NG DH AH0 L EH1 T ER0 sp}|i told you not to forget to bring the letter.|none
+10_1_d1705|1|{L ER0 EH1 T AH0 sp N OW1 sp SH IY1 K AE1 N T K AH1 M sp SH IY1 Z B IH1 Z IY0 sp}|loretta? no, she can't come, she's busy.|none
+0_0_d1786|0|{JH AA1 N D EY1 T S HH ER0 S EH1 V AH0 N T AY1 M Z AH0 W IY1 K sp}|john dates her seven times a week.|none
+1_1_d1786|1|{R IH1 L IY0 sp DH AE1 T S AH0 S T R AO1 Z IH0 N DH AH0 W AY1 N D sp}|really? that's a straws in the wind.|surprise
+2_0_d1786|0|{AY1 TH IH1 NG K S OW1 sp M EY1 B IY0 HH IY1 Z F AA1 L AH0 N F AO1 R HH ER0 sp}|i think so. maybe he's fallen for her.|none
+3_1_d1786|1|{Y AE1 sp DH EY1 S UW1 T IY1 CH AH1 DH ER0 sp AH0 P ER1 F IH2 K T M AE1 CH B IH0 T W IY1 N AH0 M AE1 N AH0 N D AH0 G ER1 L sp}|yeah. they suit each other. a perfect match between a man and a girl.|none
+4_0_d1786|0|{AH1 sp R AY1 T sp}|uh, right.|none
+0_1_d1793|1|{AY1 HH AE1 V R EH1 D Y AO1 R N OW1 T AH0 S AA1 N DH AH0 W AO1 L S OW1 AY1 K AH1 M T UW1 S IY1 IH1 F DH EH1 R IH1 Z EH1 N IY0 TH IH2 NG AY1 N IY1 D sp}|i have read your notice on the wall so i come to see if there is anything i need.|none
+1_0_d1793|0|{W EH1 L T EY1 K Y AO1 R T AY1 M sp DH EH1 R AA1 R S OW1 M EH1 N IY0 TH IH1 NG Z T UW1 S EH1 L sp}|well take your time. there are so many things to sell.|none
+2_1_d1793|1|{HH AW1 M AH1 CH IH1 Z DH AH0 D EH1 S K sp}|how much is the desk?|none
+3_0_d1793|0|{S EH1 V AH0 N D AA1 L ER0 Z sp}|seven dollars.|happiness
+4_1_d1793|1|{AH1 sp DH AH0 G UH1 D Z IH0 N DH AH0 Y AA1 R D S EY1 L AA1 R R IH1 L IY0 CH IY1 P sp AY1 W IH1 L T EY1 K IH1 T sp}|uh, the goods in the yard sale are really cheap. i will take it.|happiness
+0_0_d1800|0|{D UW1 Y UW1 HH AE1 V EH1 N IY0 HH AA1 B IY0 Z sp}|do you have any hobbies?|none
+1_1_d1800|1|{Y EH1 S sp AY1 L AY1 K G AA1 R D AH0 N IH0 NG sp}|yes. i like gardening.|none
+2_0_d1800|0|{OW1 sp DH AE1 T S IH1 N T R AH0 S T IH0 NG sp D UW1 Y UW1 HH AE1 V AH0 G AA1 R D AH0 N sp}|oh, that's interesting. do you have a garden?|happiness
+3_1_d1800|1|{Y EH1 S sp F AA1 L OW0 M IY1 sp HH IY1 R IH1 T IH1 Z sp}|yes, follow me. here it is.|happiness
+4_0_d1800|0|{Y AO1 R G AA1 R D AH0 N IH1 Z R IH1 L IY0 L AH1 V L IY0 sp}|your garden is really lovely.|happiness
+5_1_d1800|1|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+6_0_d1800|0|{D UW1 Y UW1 T EY1 K K EH1 R AH1 V DH EH1 M EH1 V R IY0 D EY1 sp}|do you take care of them everyday?|none
+7_1_d1800|1|{Y EH1 S sp AY1 D UW1 sp}|yes, i do.|none
+8_0_d1800|0|{D OW1 N T Y UW1 F IY1 L D AH1 L sp}|don't you feel dull?|none
+9_1_d1800|1|{AH1 M AY1 D OW1 N T sp AY1 L AY1 K DH AH0 W ER1 K sp}|umm i don't. i like the work.|none
+0_1_d1805|1|{JH AA1 N sp HH AE1 V Y UW1 EH1 V ER0 W AA1 CH T B EY2 ZH IH1 NG AA1 P R AH0 sp}|john, have you ever watched beijing opera?|none
+1_0_d1805|0|{Y EH1 S sp AY1 W AA1 CH T W AH1 N S sp}|yes, i watched once.|none
+2_1_d1805|1|{W AH1 T D UW1 Y UW1 TH IH1 NG K AH1 V IH1 T sp}|what do you think of it?|none
+3_0_d1805|0|{W EH1 L sp AA1 N AH0 S T L IY0 S P IY1 K IH0 NG sp AY1 W EH1 N T T UW1 W AA1 CH IH1 T AW1 T AH1 V K Y UH2 R IY0 AA1 S AH0 T IY0 sp AY1 D S EY1 IH1 T S R IH1 L IY0 AH0 S P EH1 SH AH0 L AA1 R T F AO1 R M sp}|well, honestly speaking, i went to watch it out of curiosity. i'd say it's really a special art form.|none
+4_1_d1805|1|{AY1 K UH1 D AH0 N T AH0 G R IY1 M AO1 R sp AE1 K CH AH0 W AH0 L IY0 sp AY1 M AH0 B EY2 ZH IH1 NG AA1 P R AH0 F AE1 N sp}|i couldn't agree more. actually, i'm a beijing opera fan.|happiness
+5_0_d1805|0|{R IH1 L IY0 sp G UH1 D F AO1 R Y UW1 sp}|really? good for you.|surprise
+0_0_d1829|0|{K AE1 N Y UW1 P L EY1 T EH1 N AH0 S sp}|can you play tennis?|none
+1_1_d1829|1|{Y EH1 S sp AY1 K AE1 N sp}|yes, i can.|none
+2_0_d1829|0|{IH1 T IH1 Z IH1 N T R AH0 S T IH0 NG sp IH1 Z AH0 N T IH1 T sp}|it is interesting, isn't it?|none
+3_1_d1829|1|{Y EH1 S sp IH1 T S V EH1 R IY0 IH1 N T R AH0 S T IH0 NG sp}|yes, it's very interesting.|none
+4_0_d1829|0|{K AE1 N Y UW1 T IY1 CH M IY1 sp}|can you teach me?|none
+5_1_d1829|1|{SH UH1 R sp T EY1 K DH AH0 T EH1 N AH0 S R AE1 K IH0 T sp N AW1 sp TH R OW1 DH AH0 B AO1 L AH1 P sp AH0 N D HH IH1 T IH1 T W IH1 DH DH AH0 R AE1 K IH0 T sp L AY1 K DH IH1 S sp}|sure. take the tennis racket. now, throw the ball up, and hit it with the racket. like this.|none
+6_0_d1829|0|{L EH1 T M IY1 T R AY1 sp OW1 sp AY1 M IH1 S T sp}|let me try. oh, i missed!|none
+7_1_d1829|1|{TH R OW1 DH AH0 B AO1 L AH1 P HH AY1 sp}|throw the ball up high.|none
+8_0_d1829|0|{HH AY1 sp}|high?|none
+9_1_d1829|1|{Y EH1 S sp V EH1 R IY0 HH AY1 sp OW1 V ER0 Y AO1 R HH EH1 D sp DH EH1 N Y UW1 W IH1 L HH AE1 V T AY1 M T UW1 HH IH1 T DH AH0 B AO1 L sp}|yes, very high. over your head. then you will have time to hit the ball.|none
+10_0_d1829|0|{OW1 sp AY1 HH IH1 T IH1 T sp}|oh! i hit it.|happiness
+11_1_d1829|1|{W EH1 L D AH1 N sp}|well done!|happiness
+12_0_d1829|0|{TH AE1 NG K Y UW1 sp AY1 TH IH1 NG K AY1 L AY1 K P L EY1 IH0 NG IH1 T sp}|thank you. i think i like playing it.|happiness
+0_1_d1857|1|{D AE1 N Y AH0 L sp Y UW1 K AE1 N T S P IH1 T DH AH0 G AH1 M EH1 V R IY0 W EH2 R sp}|daniel, you can't spit the gum everywhere.|none
+1_0_d1857|0|{K AH1 M AA1 N sp JH AH1 S T AH0 L IH1 T AH0 L P IY1 S sp}|come on, just a little piece.|none
+2_1_d1857|1|{D UW1 Y UW1 N OW1 HH AW1 M EH1 N IY0 P IY1 P AH0 L CH UW1 G AH1 M EH1 V R IY0 D EY1 sp}|do you know how many people chew gum everyday?|none
+3_0_d1857|0|{AY1 HH AE1 V N OW1 AY0 D IY1 AH0 sp}|i have no idea.|none
+4_1_d1857|1|{JH AH1 S T IH0 N B EY2 ZH IH1 NG sp P IY1 P AH0 L K AH0 N S UW1 M TH R IY1 HH AH1 N D R AH0 D TH AW1 Z AH0 N D P IY1 S AH0 Z AH1 V G AH1 M EH1 V ER0 IY0 D EY1 sp}|just in beijing, people consume three hundred thousand pieces of gum every day.|none
+5_0_d1857|0|{DH AE1 T S AH0 M EY1 Z IH0 NG sp}|that's amazing.|surprise
+6_1_d1857|1|{IH1 F AO1 L DH AH0 P IY1 P AH0 L S P IH1 T AW1 T DH AH0 G AH1 M L AY1 K Y UW1 sp DH AH0 HH OW1 L W ER1 L D W UH1 D B IH0 K AH1 M AH0 B IH1 G T R AE1 SH K AE1 N sp}|if all the people spit out the gum like you, the whole world would become a big trash can.|none
+7_0_d1857|0|{K AH1 M AA1 N sp Y UW1 AA1 R M EY1 K IH0 NG T UW1 B IH1 G D IY1 L AW1 T AH1 V DH IH1 S sp}|come on, you are making too big deal out of this.|none
+8_1_d1857|1|{AY1 JH AH1 S T W AA1 N T T UW1 R IY0 M AY1 N D Y UW1 T UW1 B IH0 HH EY1 V Y ER0 S EH1 L F sp}|i just want to remind you to behave yourself.|none
+9_0_d1857|0|{OW1 K EY1 sp D IH1 R S IH1 S T ER0 sp AY1 S IY1 sp DH IH1 S K AY1 N D AH1 V TH IH1 NG W IH1 L N AA1 T HH AE1 P AH0 N AH0 G EH1 N sp}|ok, dear sister, i see. this kind of thing will not happen again.|none
+0_1_d1860|1|{HH EY1 sp T AA1 M sp AY1 W AA1 N T T UW1 L ER1 N HH AW1 T UW1 P L EY1 G AA1 L F sp}|hey, tom, i want to learn how to play golf.|happiness
+1_0_d1860|0|{Y UH1 R R IH1 L IY0 S P AO1 R T IY0 sp}|you're really sporty!|happiness
+2_1_d1860|1|{AY1 W AA1 N T T UW1 D UW1 EH1 V R IY0 TH IH2 NG AY1 K AE1 N sp}|i want to do everything i can.|none
+3_0_d1860|0|{D UW1 Y UW1 HH AE1 V K L AH1 B Z sp}|do you have clubs?|none
+4_1_d1860|1|{N OW1 sp K AE1 N AY1 R EH1 N T K L AH1 B Z sp}|no. can i rent clubs?|none
+5_0_d1860|0|{DH EH1 R AA1 R K L AH1 B Z F AO1 R B IH0 G IH1 N ER0 Z sp IH1 T S CH IY1 P ER0 T UW1 B AY1 DH OW1 Z R AE1 DH ER0 DH AE1 N R EH1 N T DH EH1 M AH0 F Y UW1 T AY1 M Z sp}|there are clubs for beginners. it's cheaper to buy those rather than rent them a few times.|none
+6_1_d1860|1|{W AH1 T K AY1 N D Z AH1 V K L AH1 B Z sp}|what kinds of clubs?|none
+7_0_d1860|0|{AH1 M sp sp sp sp L AY1 K DH AH0 S EH1 V AH0 N sp P IY1 S S EH1 T sp IH1 T S OW1 N L IY0 W AH1 N T W EH1 N T IY0 D AA1 L ER0 Z sp}|umm.... like the seven-piece set. it's only one twenty dollars.|none
+8_1_d1860|1|{AY1 L B AY1 AH0 S EH1 T sp B AH1 T Y UW1 HH AE1 V T UW1 T IY1 CH M IY1 sp}|i'll buy a set. but you have to teach me.|happiness
+9_0_d1860|0|{OW1 K EY1 sp}|ok.|happiness
+0_1_d1887|1|{AY1 AO1 L W EY2 Z TH IH1 NG K EH1 V R IY0 B AA2 D IY0 L UH1 K S D AW1 N AA1 N M IY1 sp}|i always think everybody looks down on me.|none
+1_0_d1887|0|{D OW1 N T B IY1 DH AE1 T N EH1 G AH0 T IH0 V sp}|don't be that negative.|none
+2_1_d1887|1|{HH AW1 K AE1 N Y UW1 B IY1 AA2 P T AH0 M IH1 S T IH0 K sp Y UW1 K AE1 N S IY1 IH1 T IH0 N DH EH1 R AY1 Z sp}|how can you be optimistic? you can see it in their eyes.|none
+3_0_d1887|0|{AY1 F AY1 N D IH1 T DH EH1 R IH1 Z N OW1 M IY1 N IH0 NG IH0 N L IH1 V IH0 NG DH IH1 S W ER1 L D sp}|i find it there is no meaning in living this world.|none
+4_1_d1887|1|{D OW1 N T B IY1 DH AE1 T N EH1 G AH0 T IH0 V sp}|don't be that negative.|none
+5_0_d1887|0|{R IH1 L IY0 sp L AY1 F IH1 Z S OW1 B AO1 R IH0 NG sp}|really, life is so boring.|none
+0_1_d1898|1|{HH AE1 V Y UW1 EH1 V ER0 B IH1 N T UW1 D IH1 Z N IY0 W ER0 L D sp}|have you ever been to disneyworld?|none
+1_0_d1898|0|{W EH1 N AY1 W AA1 Z Y AH1 NG sp M AY1 P EH1 R AH0 N T S T UH1 K M IY1 T UW1 DH AH0 W AH1 N IH0 N K AE2 L AH0 F AO1 R N Y AH0 sp AY1 AO1 L W EY2 Z F ER0 G EH1 T W IH1 CH sp sp IH1 Z DH AE1 T W AH1 N D IH1 Z N IY0 L AE2 N D AO1 R D IH1 Z N IY0 W ER0 L D sp}|when i was young, my parents took me to the one in california. i always forget which -- is that one disneyland or disneyworld?|none
+2_1_d1898|1|{DH AH0 W AH1 N IH0 N F L AO1 R AH0 D AH0 IH1 Z D IH1 Z N IY0 W ER0 L D AH0 N D DH AH0 W AH1 N IH0 N K AE2 L AH0 F AO1 R N Y AH0 IH1 Z D IH1 Z N IY0 L AE2 N D sp S OW1 Y UW1 M AH1 S T HH AE1 V B IH1 N T UW1 D IH1 Z N IY0 L AE2 N D sp}|the one in florida is disneyworld and the one in california is disneyland, so you must have been to disneyland.|none
+3_0_d1898|0|{DH AE1 T S R AY1 T sp W AY1 D UW1 Y UW1 AE1 S K sp}|that's right. why do you ask?|none
+4_1_d1898|1|{W EH1 L sp AY1 V N EH1 V ER0 B IH1 N T UW1 IY1 DH ER0 S OW1 AY1 W AA1 Z TH IH1 NG K IH0 NG AH1 V G OW1 IH0 NG T UW1 D IH1 Z N IY0 W ER0 L D F AO1 R M AY1 HH AH1 N IY0 M UW2 N sp}|well, i've never been to either so i was thinking of going to disneyworld for my honeymoon.|happiness
+5_0_d1898|0|{AH1 M W EH1 N AA1 R Y UW1 G EH1 T IH0 NG M EH1 R IY0 D sp}|umm when are you getting married?|happiness
+6_1_d1898|1|{S AH1 M T AY1 M N EH1 K S T Y IH1 R sp W IY1 HH AE1 V AH0 N T S EH1 T DH AH0 D EY1 T Y EH1 T sp}|some time next year. we haven't set the date yet.|happiness
+7_0_d1898|0|{K AH0 N G R AE2 CH AH0 L EY1 SH AH0 N Z sp AY1 HH AE1 D N OW1 AY0 D IY1 AH0 sp}|congratulations! i had no idea.|happiness
+8_1_d1898|1|{TH AE1 NG K Y UW1 sp S OW1 W AH1 T D UW1 Y UW1 TH IH1 NG K sp W UH1 D W IY1 HH AE1 V AH0 G UH1 D T AY1 M sp}|thank you. so what do you think? would we have a good time?|happiness
+9_0_d1898|0|{D UW1 Y UW1 L AY1 K AH0 M Y UW1 Z M AH0 N T P AA1 R K S sp}|do you like amusement parks?|none
+10_1_d1898|1|{F AO1 R DH AH0 M OW1 S T P AA1 R T sp Y EH1 S sp S AH1 M AH1 V DH AH0 R AY1 D Z AA1 R B IH1 T T UW1 S K EH1 R IY0 F AO1 R M IY1 sp DH OW1 sp}|for the most part, yes. some of the rides are bit too scary for me, though.|none
+11_0_d1898|0|{IH1 F Y UW1 D OW1 N T TH IH1 NG K T W AY1 S AH0 B AW1 T DH AH0 R AY1 D Z AH0 N D G OW1 AA1 N EH1 V ER0 IY0 R AY1 D DH AE1 T Y UW1 K AE1 N sp Y UW1 L HH AE1 V AH0 G UH1 D T AY1 M sp}|if you don't think twice about the rides and go on every ride that you can, you'll have a good time.|happiness
+12_1_d1898|1|{IY1 V IH0 N DH AH0 R OW1 L ER0 K OW1 S T ER0 Z DH AE1 T G OW1 TH R UW1 T AH1 N AH0 L Z IH0 N DH AH0 D AA1 R K sp}|even the roller coasters that go through tunnels in the dark?|happiness
+13_0_d1898|0|{IY1 V IH0 N DH OW1 Z sp IH1 T AH0 L B IY1 V EH1 R IY0 R OW0 M AE1 N T IH0 K sp AY1 TH IH1 NG K sp Y UW1 L HH AE1 V L OW1 D Z AH1 V F AH1 N sp}|even those. it'll be very romantic, i think. you'll have loads of fun.|happiness
+14_1_d1898|1|{TH AE1 NG K S F AO1 R DH AH0 AE0 D V AY1 S sp AY1 L T AO1 K T UW1 M AY1 F IY0 AA1 N S EY2 AH0 B AW1 T IH1 T T AH0 N AY1 T sp}|thanks for the advice. i'll talk to my fiance about it tonight.|happiness
+15_0_d1898|0|{AY1 M SH UH1 R HH IY1 L L AH1 V DH AH0 AY0 D IY1 AH0 sp JH AH1 S T TH R OW1 Y ER0 S EH1 L F IH0 N T UW1 IH1 T AH0 N D Y UW1 L EH0 N JH OY1 IH1 T sp}|i'm sure he'll love the idea. just throw yourself into it and you'll enjoy it!|happiness
+0_1_d1902|1|{W UH1 D Y UW1 L AY1 K T UW1 G OW1 T UW1 DH AH0 M UW1 V IY0 Z T AH0 N AY1 T sp}|would you like to go to the movies tonight?|none
+1_0_d1902|0|{W EH1 L sp AY1 JH AH1 S T S AO1 AH0 HH AO1 R ER0 M UW1 V IY0 L AE1 S T N AY1 T sp IH1 T AO1 L M OW2 S T F R AY1 T AH0 N D M IY1 T UW1 D EH1 TH sp}|well, i just saw a horror movie last night. it almost frightened me to death.|fear
+2_1_d1902|1|{W EH1 L sp W IY1 K UH1 D S IY1 S AH1 M TH IH0 NG D IH1 F ER0 AH0 N T L AY1 K AH0 D IH0 T EH1 K T IH0 V F IH1 L M sp}|well, we could see something different like a detective film.|none
+3_0_d1902|0|{AY1 D OW1 N T K EH1 R F AO1 R AH0 D IH0 T EH1 K T IH0 V F IH1 L M sp IH1 T AO1 L S OW0 M EY1 K S M IY1 N ER1 V AH0 S sp}|i don't care for a detective film. it also makes me nervous.|none
+4_1_d1902|1|{HH AW1 AH0 B AW1 T AH0 K AA1 M AH0 D IY0 sp}|how about a comedy?|none
+5_0_d1902|0|{N OW1 sp AY1 D OW1 N T TH IH1 NG K K AA1 M AH0 D IY0 Z T AH0 D EY1 AA1 R N AE1 CH ER0 AH0 L AO1 R CH IH1 R F AH0 L sp}|no, i don't think comedies today are natural or cheerful.|none
+6_1_d1902|1|{HH AW1 AH0 B AW1 T AH0 L AH1 V S T AO1 R IY0 DH EH1 N sp}|how about a love story then?|none
+7_0_d1902|0|{N OW1 sp R OW0 M AE1 N S IH1 Z B AO1 R IH0 NG sp}|no, romance is boring.|none
+8_1_d1902|1|{W AH1 T S Y AO1 R AH0 P IH1 N Y AH0 N sp}|what's your opinion?|none
+9_0_d1902|0|{L EH1 T S G OW1 T UW1 S IY1 AH0 W AO1 R M UW1 V IY0 sp SH AE1 L W IY1 sp}|let's go to see a war movie, shall we?|none
+10_1_d1902|1|{R IH1 L IY0 sp}|really?|surprise
+11_0_d1902|0|{S ER1 T AH0 N L IY0 sp IH1 Z DH EH1 R EH1 N IY0 TH IH2 NG R AO1 NG sp}|certainly. is there anything wrong?|none
+12_1_d1902|1|{N OW1 sp B AH1 T AY1 K AE1 N T IH0 M AE1 JH AH0 N DH AE1 T AH0 B OY1 L AY1 K Y UW1 W UH1 D W AH1 N D ER0 T UW1 S IY1 AH0 W AO1 R M UW1 V IY0 sp}|no, but i can't imagine that a boy like you would wonder to see a war movie.|none
+0_0_d1908|0|{W AH1 T AA1 R Y UW1 D UW1 IH0 NG sp}|what are you doing?|none
+1_1_d1908|1|{AY1 M JH AH1 S T T R AY1 IH0 NG T UW1 K AH0 M P L IY1 T T AH0 D EY1 Z K R AO1 S W ER2 D P AH1 Z AH0 L sp W EH0 N EH1 V ER0 AY1 G EH1 T DH AH0 T AY1 M sp AY1 L AY1 K T UW1 D UW1 DH AH0 K R AO1 S W ER2 D P AH1 Z AH0 L Z IH0 N DH AH0 P EY1 P ER0 sp}|i'm just trying to complete today's crossword puzzle. whenever i get the time, i like to do the crossword puzzles in the paper.|none
+2_0_d1908|0|{AH1 M Y UW1 R IH1 L IY0 L AY1 K B R EY1 N Z DH AE1 T M EY1 K Y UW1 TH IH1 NG K sp D OW1 N T Y UW1 sp}|umm you really like brains that make you think, don't you?|none
+3_1_d1908|1|{AY1 G EH1 S Y UW1 K UH1 D S EY1 DH AE1 T sp W AH1 T K AY1 N D AH1 V G EY1 M Z D UW1 Y UW1 L AY1 K sp}|i guess you could say that. what kind of games do you like?|none
+4_0_d1908|0|{AY1 G EH1 S DH AH0 G EY1 M Z AY1 L AY1 K DH AH0 M OW1 S T AA1 R DH AH0 W AH1 N Z DH AE1 T AY1 M G UH1 D AE1 T sp}|i guess the games i like the most are the ones that i'm good at!|none
+5_1_d1908|1|{D AH1 Z AH0 N T EH1 V R IY0 W AH2 N sp W IH1 CH G EY1 M Z AA1 R DH OW1 Z sp}|doesn't everyone? which games are those?|none
+6_0_d1908|0|{W EH1 L sp AY1 L AY1 K T UW1 P L EY1 D AA1 R T S sp W EH0 N EH1 V ER0 AY1 G OW1 T UW1 AH0 B AA1 R sp AY1 Y UW1 ZH AH0 W AH0 L IY0 P L EY1 F AO1 R AH0 F Y UW1 AW1 ER0 Z sp}|well, i like to play darts. whenever i go to a bar, i usually play for a few hours.|none
+7_1_d1908|1|{D IH1 D Y UW1 P L EY1 AH0 L AA1 T AH1 V G EY1 M Z W EH1 N Y UW1 W ER0 L IH1 T AH0 L sp}|did you play a lot of games when you were little?|none
+8_0_d1908|0|{M AY1 P EH1 R AH0 N T S Y UW1 Z D T UW1 L AH1 V T UW1 P L EY1 CH EH1 K ER0 Z AH0 N D D AA1 M AH0 N OW2 Z sp W IY1 Y UW1 Z D T UW1 HH AE1 V F AE1 M AH0 L IY0 T ER1 N AH0 M AH0 N T S EH1 V ER0 IY0 W IY1 K EH2 N D sp}|my parents used to love to play checkers and dominoes. we used to have family tournaments every weekend.|none
+9_1_d1908|1|{D UW1 Y UW1 S T IH1 L L AY1 K P L EY1 IH0 NG DH OW1 Z G EY1 M Z sp}|do you still like playing those games?|none
+10_0_d1908|0|{N AA1 T AE1 T AO1 L sp AY1 N EH1 V ER0 R IH1 L IY0 D IH1 D sp T UW1 B IY1 AA1 N AH0 S T sp W AH1 T AH0 B AW1 T Y UW1 sp D IH1 D Y AO1 R F AE1 M AH0 L IY0 Y UW1 Z D T UW1 P L EY1 G EY1 M Z T AH0 G EH1 DH ER0 sp}|not at all. i never really did, to be honest. what about you? did your family used to play games together?|none
+11_1_d1908|1|{EH1 V R IY0 W AH2 N IH0 N M AY1 F AE1 M AH0 L IY0 R IH1 L IY0 EH0 N JH OY1 Z P L EY1 IH0 NG K AA1 R D G EY1 M Z sp}|everyone in my family really enjoys playing card games.|none
+12_0_d1908|0|{S AH1 M AH1 V M AY1 F R EH1 N D Z P L EY1 K AA1 R D Z AA1 N DH AH0 IH1 N T ER0 N EH2 T sp HH AE1 V Y UW1 EH1 V ER0 T R AY1 D DH AE1 T sp}|some of my friends play cards on the internet. have you ever tried that?|none
+13_1_d1908|1|{N OW1 sp AY1 P R AH0 F ER1 T UW1 P L EY1 W IH1 DH P IY1 P AH0 L AY1 N OW1 sp}|no, i prefer to play with people i know.|none
+14_0_d1908|0|{HH AW1 AH0 B AW1 T M AA1 sp JH AO1 NG sp}|how about mah-jong?|none
+15_1_d1908|1|{IH1 T S AH0 P AA1 P Y AH0 L ER0 G EY1 M W IH1 DH S AH1 M P IY1 P AH0 L sp B AH1 T AY1 V N EH1 V ER0 P L EY1 D IH1 T sp}|it's a popular game with some people, but i've never played it.|none
+16_0_d1908|0|{AY1 TH AO1 T EH1 V R IY0 W AH2 N IH0 N Y AO1 R K AH1 N T R IY0 W ER0 EH1 K S P ER0 T S AE1 T M AA1 sp JH AO1 NG sp}|i thought everyone in your country were experts at mah-jong!|none
+17_1_d1908|1|{AY1 HH EY1 T T UW1 D IH2 S AH0 P OY1 N T Y UW1 sp B AH1 T AH0 N L AY1 K W AH1 T M OW1 S T P IY1 P AH0 L TH IH1 NG K sp W IY1 AA1 R AH0 N T AO1 L IH0 G Z AE1 K T L IY0 DH AH0 S EY1 M sp}|i hate to disappoint you, but unlike what most people think, we aren't all exactly the same!|none
+0_1_d1917|1|{G UH1 D M AO1 R N IH0 NG sp M IH1 S T ER0 JH OW1 N Z sp}|good morning, mister jones!|happiness
+1_0_d1917|0|{G UH1 D M AO1 R N IH0 NG sp M IH1 S B EH1 L sp}|good morning, miss bell!|happiness
+2_1_d1917|1|{N AY1 S T UW1 S IY1 Y UW1 AH0 G EH1 N sp}|nice to see you again.|happiness
+3_0_d1917|0|{N AY1 S T UW1 S IY1 Y UW1 T UW1 sp IH1 T S B IH1 N AH0 L AO1 NG T AY1 M sp}|nice to see you too. it's been a long time.|happiness
+4_1_d1917|1|{HH AW1 IH1 Z EH1 V R IY0 TH IH2 NG sp}|how is everything?|none
+5_0_d1917|0|{JH AH1 S T F AY1 N sp AH0 N D Y UW1 sp}|just fine, and you?|none
+6_1_d1917|1|{K W AY1 T W EH1 L sp TH AE1 NG K Y UW1 sp}|quite well, thank you.|happiness
+7_0_d1917|0|{D IH1 D Y UW1 D R AY1 V Y ER0 S EH1 L F T UW1 DH AH0 EH1 R P AO2 R T sp}|did you drive yourself to the airport?|none
+8_1_d1917|1|{N OW1 sp AY1 W AA1 Z D R IH1 V AH0 N B AY1 M AY1 HH AH1 Z B AH0 N D sp}|no, i was driven by my husband.|none
+9_0_d1917|0|{D IH1 D S AH1 M W AH2 N M IY1 T Y UW1 AE1 T DH AH0 EH1 R P AO2 R T HH IY1 R sp}|did someone meet you at the airport here?|none
+10_1_d1917|1|{Y EH1 S sp TH AE1 NG K S sp}|yes, thanks.|happiness
+11_0_d1917|0|{IH1 Z DH IH1 S W EH1 R W IY1 L B IY1 HH OW1 L D IH0 NG DH AH0 M IY1 T IH0 NG sp}|is this where we'll be holding the meeting?|none
+12_1_d1917|1|{N OW1 sp DH AH0 M IY1 T IH0 NG W IH1 L B IY1 HH EH1 L D AA1 N DH AH0 F AO1 R TH F L AO1 R sp}|no, the meeting will be held on the fourth floor.|none
+0_1_d1928|1|{HH AW1 D UW1 Y UW1 W AA1 N T Y AO1 R HH EH1 R K AH1 T sp}|how do you want your hair cut?|none
+1_0_d1928|0|{AY1 W AA1 N T IH1 T DH AH0 W EY1 P EH1 K AH0 M W EH1 R Z IH1 T sp}|i want it the way peckham wears it.|none
+2_1_d1928|1|{HH UW1 IH1 Z P EH1 K AH0 M sp}|who is peckham?|sadness
+3_0_d1928|0|{AA1 R Y UW1 K IH1 D IH0 NG M IY1 sp IY1 V IH0 N DH AH0 G ER1 L Z N OW1 P EH1 K AH0 M sp W AH2 T EH1 V ER0 sp AY1 HH AE1 V AH0 P IH1 K CH ER0 AH1 V HH IH1 M HH IY1 R sp}|are you kidding me? even the girls know peckham. whatever, i have a picture of him here.|none
+4_1_d1928|1|{Y UW1 AA1 R AH0 B IH1 G F AE1 N AH1 V HH IH1 M sp HH IY1 HH AE1 Z S T R AO1 NG L EH1 G Z sp}|you are a big fan of him! he has strong legs.|none
+5_0_d1928|0|{SH UH1 R sp HH IY1 IH1 Z AH0 S AA1 K ER0 S T AA1 R sp}|sure, he is a soccer star.|none
+6_1_d1928|1|{HH EY1 sp W EY1 K AH1 P sp IH1 T S D AH1 N sp HH AW1 D UW1 Y UW1 L AY1 K IH1 T sp}|hey, wake up. it's done. how do you like it?|none
+7_0_d1928|0|{OW1 sp M AY1 G AA1 D sp IH1 T S D IH0 Z AE1 S T ER0 sp IH1 T M EY1 K S M AY1 HH EH1 D L UH1 K L AY1 K AH0 S AA1 K ER0 B AO1 L sp}|oh, my god. it's disaster. it makes my head look like a soccer ball.|happiness
+8_1_d1928|1|{B AH1 T IH1 T S DH AH0 S EY1 M HH EH1 R S T AY2 L sp}|but it's the same hairstyle.|none
+9_0_d1928|0|{IH1 T L UH1 K S L AY1 K DH AH0 HH EH1 R S T AY2 L AH1 V K AA1 N HH UW1 S T AE1 N D Z B IH0 S AY1 D HH IH1 M IH0 N DH AH0 P IH1 K CH ER0 sp}|it looks like the hairstyle of kahn who stands beside him in the picture.|none
+10_1_d1928|1|{OW1 sp AY1 M EY1 D AH0 M IH0 S T EY1 K sp AY1 TH AO1 T DH AH0 G AY1 AA1 N DH AH0 R AY1 T W AA1 Z P EH1 K AH0 M sp}|oh. i made a mistake. i thought the guy on the right was peckham.|sadness
+11_0_d1928|0|{HH IY1 P L EY1 Z AW1 T S AY1 D R AY1 T B AH1 T IH1 T D AH1 Z AH0 N T M IY1 N HH IY1 HH AE1 Z T UW1 S T AE1 N D AA1 N DH AH0 R AY1 T sp}|he plays outside right but it doesn't mean he has to stand on the right.|none
+12_1_d1928|1|{S AA1 R IY0 sp B AH1 T D UW1 N AA1 T W ER1 IY0 sp AY1 TH IH1 NG K AY1 K AE1 N F IH1 K S IH1 T sp JH AH1 S T K AH1 T AH0 L IH1 T AH0 L M AO1 R AO1 F DH AH0 T EH1 M P AH0 L sp}|sorry, but do not worry. i think i can fix it. just cut a little more off the temple.|sadness
+13_0_d1928|0|{D UW1 IH1 T sp P L IY1 Z sp}|do it, please.|none
+0_1_d1936|1|{DH IH1 S IH1 Z T AH1 F T UW1 S EY1 sp JH AA1 N sp B AH1 T AY1 TH IH1 NG K W IY1 SH UH1 D B R EY1 K AH1 P sp}|this is tough to say, john, but i think we should break up.|none
+1_0_d1936|0|{AH1 M AA1 R Y UW1 S IH1 R IY0 AH0 S sp}|umm are you serious?|surprise
+2_1_d1936|1|{Y EH1 S sp AY1 M IY1 N IH1 T sp}|yes, i mean it.|none
+3_0_d1936|0|{B AH1 T W AY1 sp D IH1 D AY1 D UW1 EH1 N IY0 TH IH2 NG R AO1 NG sp}|but why? did i do anything wrong?|surprise
+4_1_d1936|1|{N OW1 sp W IY1 AA1 R JH AH1 S T T UW1 D IH1 F ER0 AH0 N T sp DH IH1 S R IY0 L EY1 SH AH0 N SH IH2 P IH1 Z AH0 N T G OW1 IH0 NG EH1 N IY0 W EH2 R sp}|no, we are just too different. this relationship isn't going anywhere.|none
+5_0_d1936|0|{HH EY1 sp K AH1 M AA1 N sp IH1 T S T UW1 ER1 L IY0 T UW1 S EY1 DH AE1 T sp W IY1 K AE1 N F IH1 K S TH IH1 NG Z sp}|hey, come on. it's too early to say that. we can fix things.|none
+6_1_d1936|1|{AY1 HH AE1 V TH AO1 T AH0 B AW1 T IH1 T F AO1 R AH0 L AO1 NG T AY1 M sp AY1 TH IH1 NG K IH1 T S T AY1 M T UW1 M UW1 V AA1 N F AO1 R B OW1 TH AH1 V AH1 S sp}|i have thought about it for a long time. i think it's time to move on for both of us.|none
+7_0_d1936|0|{B AH1 T AY1 S T IH1 L L AH1 V Y UW1 sp}|but i still love you.|sadness
+8_1_d1936|1|{AY1 M S AA1 R IY0 sp}|i'm sorry.|none
+9_0_d1936|0|{AY1 N UW1 DH IH1 S W UH1 D HH AE1 P AH0 N S AH1 M D EY1 sp sp sp}|i knew this would happen some day...|sadness
+10_1_d1936|1|{DH EH1 N W AY1 D IH1 D AH0 N T Y UW1 T AO1 K T UW1 M IY1 sp}|then why didn't you talk to me?|none
+11_0_d1936|0|{W EH1 L sp IH1 T S N AA1 T AO1 L M AY1 F AO1 L T sp AE1 N AH0 sp sp sp}|well. it's not all my fault, anna...|sadness
+12_1_d1936|1|{AY1 D OW1 N T W AA1 N T T UW1 AA1 R G Y UW0 W IH1 DH Y UW1 EH2 N IY0 M AO1 R sp DH IH1 S IH1 Z G OW1 IH0 NG T UW1 B IY1 T AH1 F sp B AH1 T L EH1 T S T R AY1 T UW1 F ER0 G EH1 T DH AE1 T AH0 N D B IY1 F R EH1 N D Z sp}|i don't want to argue with you anymore. this is going to be tough, but let's try to forget that and be friends.|none
+13_0_d1936|0|{HH AE1 V Y UW1 M EY1 D DH AH0 D IH0 S IH1 ZH AH0 N Y EH1 T sp}|have you made the decision yet?|sadness
+14_1_d1936|1|{AH1 M AY1 TH IH1 NG K W IY1 L B IY1 B EH1 T ER0 AO1 F IH1 F W IY1 AA1 R AH0 P AA1 R T sp}|umm i think we'll be better off if we are apart.|none
+15_0_d1936|0|{DH EH1 N SH AE1 L W IY1 K IY1 P P Y UH1 R F R EH1 N D SH IH0 P sp}|then shall we keep pure friendship?|sadness
+16_1_d1936|1|{SH UH1 R sp L EH1 T S JH AH1 S T B IY1 F R EH1 N D Z sp}|sure, let's just be friends.|none
+0_0_d1949|0|{AH1 M AY1 W AA1 N T T UW1 CH EY1 N JH R UW1 M Z sp IH0 N F AE1 K T sp AY1 W AA1 N T AH0 R IY1 F AH2 N D F AO1 R T AH0 N AY1 T sp}|umm i want to change rooms. in fact, i want a refund for tonight!|none
+1_1_d1949|1|{AH0 N D DH AH0 P R AA1 B L AH0 M IH1 Z sp S ER1 sp}|and the problem is, sir?|none
+2_0_d1949|0|{K AA1 K R OW2 CH IH0 Z HH AE1 V T EY1 K AH0 N OW1 V ER0 M AY1 R UW1 M sp}|cockroaches have taken over my room!|none
+3_1_d1949|1|{M AY1 AH0 P AA1 L AH0 JH IY0 Z sp S ER1 sp W IY1 L G IH1 V Y UW1 AH0 N UW1 R UW1 M AH0 N D R IY1 F AH2 N D DH AH0 V AE1 L Y UW0 AH1 V Y AO1 R K ER1 AH0 N T R UW1 M sp}|my apologies, sir. we'll give you a new room and refund the value of your current room.|none
+4_0_d1949|0|{TH AE1 NG K Y UW1 sp AY1 W AA1 N T T UW1 K AH0 N T IH1 N Y UW0 T UW1 B IY1 EY1 B AH0 L T UW1 R EH2 K AH0 M EH1 N D DH IH1 S HH OW0 T EH1 L T UW1 AH1 DH ER0 Z sp}|thank you. i want to continue to be able to recommend this hotel to others.|none
+5_1_d1949|1|{W IY1 AO1 L W EY2 Z T R AY1 T UW1 S ER1 V AW1 ER0 G EH1 S T S IH0 N DH AH0 M OW1 S T AH0 G R IY1 AH0 B AH0 L W EY1 P AA1 S AH0 B AH0 L sp}|we always try to serve our guests in the most agreeable way possible.|none
+0_0_d1970|0|{AY1 D L AH1 V T UW1 sp DH AH0 M UW1 V IY0 Z AA1 R S M AE1 SH HH IH1 T sp}|i'd love to, the movies are smash hit.|none
+1_1_d1970|1|{DH EH1 N L EH1 T S G OW1 IH0 N sp}|then let's go in.|none
+2_0_d1970|0|{AY1 K AE1 N T sp AY1 M W EY1 T IH0 NG F AO1 R P AO1 L sp B AH1 T HH IY1 Z L EY1 T sp}|i can't. i'm waiting for paul, but he's late.|none
+3_1_d1970|1|{AY1 L S EY1 DH AH0 M UW1 V IY0 Z S T AA1 R T IH0 NG IH0 N DH AH0 M IH1 N AH0 T sp}|i'll say the movie's starting in the minute.|none
+4_0_d1970|0|{AY1 N OW1 sp AY1 W AH1 N D ER0 W AH1 T S K IY1 P IH0 NG HH IH1 M sp}|i know. i wonder what's keeping him.|sadness
+5_1_d1970|1|{L UH1 K S L AY1 K HH IY1 W OW1 N T SH OW1 AH1 P sp HH IY1 Z D AH1 N DH IH1 S B IH0 F AO1 R sp HH AE1 Z AH0 N T HH IY1 sp}|looks like he won't show up. he's done this before, hasn't he?|none
+6_0_d1970|0|{Y AE1 sp AH0 N AH1 M B ER0 AH1 V T AY1 M Z sp}|yeah, a number of times.|sadness
+7_1_d1970|1|{W AH1 T S HH IY1 T R AY1 IH0 NG T UW1 P UH1 L EH1 N IY0 W EY2 sp}|what's he trying to pull anyway.|none
+8_0_d1970|0|{AY1 D OW1 N T N OW1 sp B AH1 T DH IH1 S IH1 Z D EH1 F AH0 N AH0 T L IY0 DH AH0 L AE1 S T S T R AO1 sp}|i don't know. but this is definitely the last straw.|sadness
+9_1_d1970|1|{M EY1 B IY0 Y UW1 SH UH1 D S T AA1 R T S IY1 IH0 NG S AH1 M W AH2 N EH1 L S sp}|maybe you should start seeing someone else.|none
+10_0_d1970|0|{Y UW1 S EH1 D IH1 T sp OW1 K EY1 sp L EH1 T S G OW1 IH0 N sp S AE1 N D IY0 sp}|you said it. ok, let's go in, sandy.|happiness
+0_1_d1983|1|{IH1 Z DH IH1 S W EH1 R AY1 K AE1 N K AE1 CH AH0 B AH1 S T UW1 DH AH0 TH IY1 AH0 T ER0 sp}|is this where i can catch a bus to the theater?|none
+1_0_d1983|0|{Y EH1 S sp B AH1 T Y UW1 K AE1 N T G EH1 T DH EH1 R W IH0 TH AW1 T AH0 CH EY1 N JH sp}|yes, but you can't get there without a change.|none
+2_1_d1983|1|{AH1 M sp W IH1 CH B AH1 S D UW1 AY1 HH AE1 V T UW1 CH EY1 N JH sp}|umm, which bus do i have to change?|none
+3_0_d1983|0|{Y UW1 HH AE1 V T UW1 G EH1 T AO1 F AE1 T DH AH0 HH AA1 S P IH2 T AH0 L AH0 N D CH EY1 N JH F AO1 R B AH1 S F IH0 F T IY1 N sp}|you have to get off at the hospital and change for bus fifteen.|none
+4_1_d1983|1|{AY1 S IY1 sp TH AE1 NG K Y UW1 sp}|i see. thank you.|happiness
+0_1_d1987|1|{AA1 R Y UW1 OW1 K EY1 sp CH AH1 K sp Y UW1 L UH1 K P EY1 L sp}|are you ok, chuck? you look pale.|none
+1_0_d1987|0|{AY1 M F AY1 N sp K AE1 TH ER0 IH0 N sp AY1 JH AH1 S T S T EY1 D AH1 P L EY1 T L AE1 S T N AY1 T W ER1 K IH0 NG AA1 N M AY1 CH AY0 N IY1 Z sp}|i'm fine, katherine. i just stayed up late last night working on my chinese.|none
+2_1_d1987|1|{OW1 sp P UH1 R Y UW1 sp Y UW1 N OW1 W AH1 T sp AY1 F AW1 N D AH0 N UW1 W EY1 T UW1 L ER1 N CH AY0 N IY1 Z AH0 N D IH1 T W ER1 K S V EH1 R IY0 W EH1 L sp}|oh, poor you. you know what? i found a new way to learn chinese and it works very well.|none
+3_0_d1987|0|{Y UW1 D IH1 D sp AH1 M D UW1 T EH1 L M IY1 sp AY1 V S P EH1 N T AO1 L DH IY1 Z M AH1 N TH S T R AY1 IH0 NG T UW1 L ER1 N S AH1 M TH IH0 NG N UW1 AH0 B AW1 T IH1 T sp B AH1 T AY1 V M EY1 D L IH1 T AH0 L P R AA1 G R EH2 S sp}|you did? umm do tell me. i've spent all these months trying to learn something new about it, but i've made little progress!|none
+4_1_d1987|1|{SH UH1 R sp AY1 M L ER1 N IH0 NG CH AY0 N IY1 Z TH R UW1 S AO1 NG Z sp}|sure. i'm learning chinese through songs.|none
+5_0_d1987|0|{S OW1 Y UH1 R L ER1 N IH0 NG CH AY0 N IY1 Z S AO1 NG Z sp}|so you're learning chinese songs?|none
+6_1_d1987|1|{Y UW1 K AE1 N S EY1 DH AE1 T sp AY1 K AE1 N AE1 K CH AH0 W AH0 L IY0 S IH1 NG S AH1 M AH1 V DH EH1 M N AW1 sp}|you can say that. i can actually sing some of them now.|none
+7_0_d1987|0|{DH AE1 T S AH0 R IY1 L AH0 CH IY1 V M AH0 N T sp HH AW1 D IH1 D Y UW1 D UW1 DH AE1 T sp}|that's a real achievement. how did you do that?|none
+8_1_d1987|1|{AY1 S T AA1 R T B AY1 L IH1 S AH0 N IH0 NG T UW1 DH AH0 S AO1 NG AH0 F Y UW1 T AY1 M Z AH0 N D AE1 F T ER0 S EH1 V R AH0 L T AY1 M Z AY1 AE1 M EY1 B AH0 L T UW1 F AA1 L OW0 DH AH0 S IH1 NG ER0 sp}|i start by listening to the song a few times and after several times i am able to follow the singer.|none
+9_0_d1987|0|{IH1 T M EY1 K S S EH1 N S sp}|it makes sense.|none
+10_1_d1987|1|{IH1 T D AH1 Z sp AY1 V L ER1 N IH0 D S AH1 M CH AY0 N IY1 Z F OW1 K S AO1 NG Z DH IH1 S W EY1 sp DH EY1 AA1 R K L IH1 R L IY0 P R IY0 Z EH1 N T AH0 D AH0 N D IY1 Z IY0 T UW1 F AA1 L OW0 sp}|it does. i've learned some chinese folk songs this way. they are clearly presented and easy to follow.|none
+11_0_d1987|0|{K AE1 N AY1 JH OY1 N Y UW1 sp K AE1 TH ER0 IH0 N sp AY1 D UW1 W AA1 N T T UW1 HH AE1 V AH0 T R AY1 sp}|can i join you, katherine? i do want to have a try.|none
+12_1_d1987|1|{W AY1 N AA1 T sp AY1 D AW1 N L OW2 D IH0 D AH0 B Y UW1 T AH0 F AH0 L S AO1 NG DH AH0 AH1 DH ER0 D EY1 sp W IY1 K AE1 N L ER1 N IH1 T T AH0 G EH1 DH ER0 N AW1 sp}|why not? i downloaded a beautiful song the other day. we can learn it together now.|none
+13_0_d1987|0|{G R EY1 T sp D UW1 Y UW1 TH IH1 NG K W IY1 N IY1 D AH0 CH AY0 N IY1 Z D IH1 K SH AH0 N EH2 R IY0 sp}|great. do you think we need a chinese dictionary?|none
+14_1_d1987|1|{Y EH1 S sp JH AH1 S T IH0 N K EY1 S W IY1 R AH1 N IH0 N T UW1 DH AH0 N UW1 K AE1 R IH0 K T ER0 Z sp}|yes, just in case we run into the new characters.|none
+15_0_d1987|0|{OW1 K EY1 sp AY1 W IH1 L B R IH1 NG IH1 T W IH1 DH M IY1 sp}|ok. i will bring it with me.|none
+0_0_d1993|0|{AA1 R DH EH1 R AH1 DH ER0 CH AO1 R Z F AO1 R AH1 S T UW1 D UW1 sp}|are there other chores for us to do?|none
+1_1_d1993|1|{AH1 M W IY1 AO1 L S OW0 HH AE1 V T UW1 V AE1 K Y UW0 M DH AH0 HH AW1 S sp}|umm we also have to vacuum the house.|none
+2_0_d1993|0|{Y UW1 Y UW1 Z D T UW1 D UW1 DH IH1 S B AY1 Y ER0 S EH1 L F sp}|you used to do this by yourself?|none
+3_1_d1993|1|{Y UW1 D B EH1 T ER0 B IH0 L IY1 V IH1 T sp}|you'd better believe it.|none
+4_0_d1993|0|{AY1 L D UW1 DH AH0 S EH1 K AH0 N D F L AO1 R AH0 N D Y UW1 D UW1 DH AH0 F ER1 S T F L AO1 R sp}|i'll do the second floor and you do the first floor.|none
+5_1_d1993|1|{N OW1 sp Y UH1 R G OW1 IH0 NG T UW1 D UW1 DH AH0 IH0 N T AY1 ER0 HH AW1 S sp}|no. you're going to do the entire house.|none
+6_0_d1993|0|{W AH1 T AH0 B AW1 T Y UW1 sp}|what about you?|none
+7_1_d1993|1|{AY1 M G OW1 IH0 NG T UW1 M OW1 DH AH0 L AO1 N sp}|i'm going to mow the lawn.|none
+0_1_d2031|1|{HH UW1 IH1 Z DH AE1 T G AY1 sp}|who is that guy?|none
+1_0_d2031|0|{IH1 T S K L AY1 V AH1 V K AO1 R S sp W EH1 R D IH1 D Y UW1 K AH1 M F R AH1 M sp EH1 V ER0 IY0 G ER1 L N OW1 Z K L AY1 V sp}|it's clive of course. where did you come from? every girl knows clive!|none
+2_1_d2031|1|{R IH1 L IY0 sp HH IY1 IH1 Z M AY1 T AY1 P sp}|really? he is my type.|surprise
+3_0_d2031|0|{HH IY1 IH1 Z EH1 V R IY0 B AA2 D IY0 Z T AY1 P sp}|he is everybody's type.|none
+4_1_d2031|1|{W AH1 T P AH0 Z IH1 SH AH0 N D AH1 Z HH IY1 P L EY1 sp}|what position does he play?|none
+5_0_d2031|0|{SH UW1 T IH0 NG G AA1 R D sp DH AH0 S EY1 M AE1 Z M AY1 K AH0 L JH AO1 R D AH0 N sp}|shooting guard. the same as michael jordan!|none
+6_1_d2031|1|{OW1 sp AY1 L AH1 V M AY1 K AH0 L JH AO1 R D AH0 N sp HH IY1 F IH1 L Z P IY1 P AH0 L Z L IH1 V Z W IH1 DH G R EY1 T IH0 K S AY1 T M AH0 N T sp}|oh, i love michael jordan. he fills people's lives with great excitement.|none
+7_0_d2031|0|{Y UW1 Z D T UW1 sp B AH1 T N AW1 HH IY1 IH1 Z T UW1 OW1 L D T UW1 P L EY1 IH0 N AH0 F IH1 R S G EY1 M L AY1 K DH IH1 S sp B AH1 T K OW1 B EY0 IH1 Z DH AH0 AH1 P K AH2 M IH0 NG S UW2 P ER0 S T AA1 R N AW1 sp}|used to. but now he is too old to play in a fierce game like this. but kobe is the upcoming superstar now.|none
+8_1_d2031|1|{AH1 M K OW1 B EY0 IH1 Z AH0 G UH1 D P L EY1 ER0 B AH1 T AY1 HH ER1 D HH IY1 IH1 Z AH0 W UH1 M AH0 N AY2 Z ER0 sp}|umm kobe is a good player but i heard he is a womanizer.|none
+9_0_d2031|0|{DH AE1 T IH1 Z N AA1 T T R UW1 sp DH EY1 AA1 R JH AH1 S T JH EH1 L AH0 S AH1 V HH IH1 M sp}|that is not true. they are just jealous of him!|none
+10_1_d2031|1|{JH AO1 R D AH0 N IH1 Z AH0 L EH1 JH AH0 N D sp EH1 N IY0 W EY2 sp AE1 N AY1 D AH0 L DH AE1 T N OW1 W AH1 N K AE1 N R IY2 P L EY1 S sp AY1 TH IH1 NG K K L AY1 V K AE1 N M EY1 K AH0 G UH1 D P R AH0 F EH1 SH AH0 N AH0 L B AE1 S K AH0 T B AO2 L P L EY1 ER0 sp}|jordan is a legend, anyway. an idol that no one can replace. i think clive can make a good professional basketball player.|none
+11_0_d2031|0|{Y UW1 N OW1 W AH1 T sp HH IY1 IH1 Z AO1 L S OW0 AE1 N AW2 T S T AE1 N D IH0 NG F UH1 T B AO2 L P L EY1 ER0 sp HH IY1 IH1 Z SH UH1 R L IY0 T UW1 B IY1 AH0 S T AA1 R AH1 V T AH0 M AA1 R OW2 sp}|you know what, he is also an outstanding football player. he is surely to be a star of tomorrow.|none
+12_1_d2031|1|{B AY1 DH AH0 W EY1 sp D UW1 Y UW1 N OW1 IH1 F HH IY1 HH AE1 Z AH0 G ER1 L F R EH1 N D sp}|by the way, do you know if he has a girl friend?|none
+13_0_d2031|0|{Y UW1 AA1 R S OW1 N AA1 T HH IY1 R sp HH IH1 Z G ER1 L F R EH2 N D IH1 Z W AH1 N AH1 V DH AH0 CH IH1 R L IY1 D ER0 Z sp}|you are so not here! his girlfriend is one of the cheer leaders.|none
+14_1_d2031|1|{OW1 sp M AY1 CH AE1 N S IH1 Z S L IH1 M DH EH1 N sp}|oh, my chance is slim then.|none
+0_0_d2033|0|{W AH1 T S Y AO1 R N UW1 JH AA1 B L AY1 K sp}|what's your new job like?|none
+1_1_d2033|1|{OW1 sp IH1 T S F AY1 N sp AY1 V G AA1 T AH0 V EH1 R IY0 N AY1 S S EH1 K R AH0 T EH2 R IY0 AH0 N D AH0 L AA1 R JH P L EH1 Z AH0 N T AO1 F AH0 S sp}|oh, it's fine. i've got a very nice secretary and a large pleasant office.|none
+2_0_d2033|0|{AH1 M sp}|um.|none
+3_1_d2033|1|{AH0 N D AH0 K AH1 M P AH0 N IY0 K AA1 R sp}|and a company car.|none
+4_0_d2033|0|{V EH1 R IY0 N AY1 S sp}|very nice.|happiness
+5_1_d2033|1|{Y EH1 S sp IH1 T IH1 Z sp B AH1 T AY1 V G AA1 T AH0 L AA1 T AH1 V W ER1 K T UW1 sp}|yes, it is. but i've got a lot of work too.|none
+6_0_d2033|0|{W EH1 L sp DH AE1 T S L AY1 F sp IH1 Z AH0 N T IH1 T sp}|well, that's life, isn't it?|none
+0_0_d2060|0|{HH AH0 L OW1 sp IH0 K S K Y UW1 S M IY1 sp}|hello, excuse me!|none
+1_1_d2060|1|{HH AH0 L OW1 sp IH1 Z DH EH1 R EH1 N IY0 TH IH2 NG AY1 K AE1 N HH EH1 L P Y UW1 W IH1 DH sp}|hello! is there anything i can help you with?|none
+2_0_d2060|0|{Y EH1 S sp AY1 W AA1 N AH0 N OW1 W EH1 R AY1 K AE1 N G EH1 T AA1 N DH AH0 B AH1 S G OW1 IH0 NG D AW1 N T AW1 N sp}|yes. i wanna know where i can get on the bus going downtown.|none
+3_1_d2060|1|{G OW1 S T R EY1 T DH EH1 N T ER1 N R AY1 T sp AH0 N D Y UW1 W IH1 L S IY1 AH0 B IH1 G B AH1 S S T EY1 SH AH0 N DH EH1 R sp}|go straight then turn right, and you will see a big bus station there.|none
+4_0_d2060|0|{OW1 K EY1 sp AY1 S IY1 sp TH AE1 NG K Y UW1 sp}|ok, i see. thank you!|happiness
+5_1_d2060|1|{Y UW1 AA1 R W EH1 L K AH0 M sp}|you are welcome!|happiness
+0_1_d2075|1|{W EY1 T ER0 sp K AE1 N Y UW1 K AH1 M HH IY1 R F AO1 R AH0 M OW1 M AH0 N T sp}|waiter, can you come here for a moment?|none
+1_0_d2075|0|{Y EH1 S sp IH1 Z DH EH1 R S AH1 M TH IH0 NG R AO1 NG sp}|yes, is there something wrong?|none
+2_1_d2075|1|{AY1 M AH0 F R EY1 D Y UW1 V M EY1 D AH0 M IH0 S T EY1 K sp DH IH1 S IH1 Z AH0 N T W AH1 T AY1 AO1 R D ER0 D sp}|i'm afraid you've made a mistake. this isn't what i ordered.|none
+3_0_d2075|0|{S OW1 S AA1 R IY0 sp AY1 M AH1 S T HH AE1 V K AH0 N F Y UW1 Z D DH AH0 AO1 R D ER0 Z sp AY1 L CH EH1 K IH1 T sp}|so sorry, i must have confused the orders. i'll check it.|none
+4_1_d2075|1|{AH0 N D AO1 L S OW0 DH IH1 S S UW1 P IH1 Z K OW1 L D sp}|and also this soup is cold.|none
+5_0_d2075|0|{AY1 M R IH1 L IY0 S AA1 R IY0 sp AY1 L B R IH1 NG Y UW1 AH0 HH AA1 T W AH1 N R AY1 T AH0 W EY1 sp}|i'm really sorry, i'll bring you a hot one right away.|sadness
+0_1_d2081|1|{HH IY1 R W IY1 AA1 R sp R AY1 AH0 N sp DH IH1 S IH1 Z W EH1 R W IY1 R G OW1 IH0 NG T UW1 S EH1 L AH0 B R EY2 T sp}|here we are, ryan! this is where we're going to celebrate!|happiness
+1_0_d2081|0|{EH1 L T S AH0 T IY1 V IY1 P AE1 L AH0 S sp AY1 M G L AE1 D AY1 B R AO1 T M AY1 P L AE1 T N AH0 M K AA1 R D sp}|lt's a tv palace! i'm glad i brought my platinum card.|happiness
+2_1_d2081|1|{Y UW1 W OW1 N T N IY1 D IH1 T sp T AA1 M IH1 Z G OW1 IH0 NG T UW1 T R IY1 T EH1 V R IY0 B AA2 D IY0 sp}|you won't need it. tom is going to treat everybody!|happiness
+3_0_d2081|0|{W EH1 R IH1 Z T AA1 M sp IH1 T W AA1 Z HH IH1 Z AY0 D IY1 AH0 T UW1 HH AE1 V DH AH0 B AE1 CH AH0 L ER0 P AA1 R T IY0 AE1 T AH0 EH1 T V sp W AA1 Z AH0 N T IH1 T sp}|where is tom? it was his idea to have the bachelor party at a etv, wasn't it?|happiness
+4_1_d2081|1|{IH1 F IH1 T W ER0 AH1 P T UW1 T AA1 M sp W IY1 D HH AE1 V DH AH0 W EH1 D IH0 NG IH0 N DH AH0 EH1 T V sp HH IY1 L AH1 V Z T UW1 S IH1 NG sp}|if it were up to tom, we'd have the wedding in the etv? he loves to sing.|none
+5_0_d2081|0|{DH EH1 N AY1 B EH1 T HH IY1 Z R IH1 L IY0 G UH1 D sp}|then i bet he's really good!|happiness
+6_1_d2081|1|{W EH1 L sp AH1 sp AY1 L L EH1 T Y UW1 D IH0 S AY1 D IH0 D DH AE1 T F AO1 R Y UW1 Y ER0 S EH1 L F sp HH IY1 L B IY1 HH IY1 R AH0 L IH1 T AH0 L L EY1 T ER0 sp HH IH1 R Z AW1 ER0 R UW1 M sp}|well, uh, i'll let you decided that for you yourself. he'll be here a little later. here's our room.|happiness
+7_0_d2081|0|{DH IH1 S IH1 Z W EH1 R W IY1 S IH1 NG sp DH IY1 Z B UW1 TH S AA1 R S OW1 K AH1 M F ER0 T AH0 B AH0 L AY1 TH IH1 NG K AY1 K UH1 D F AO1 L AH0 S L IY1 P sp}|this is where we sing? these booths are so comfortable i think i could fall asleep!|happiness
+8_1_d2081|1|{L EH1 T S AO1 R D ER0 S AH1 M TH IH0 NG T UW1 IY1 T sp W AH1 T AA1 R Y UW1 IH0 N DH AH0 M UW1 D F AO1 R sp}|let's order something to eat. what are you in the mood for?|none
+9_0_d2081|0|{IH1 T S AH1 P T UW1 Y UW1 sp}|it's up to you.|none
+10_1_d2081|1|{OW1 K EY1 sp HH AW1 AH0 B AW1 T S AH1 M S P R IH1 NG R OW1 L Z AH0 N D S K W IH1 D B AO1 L Z sp S AH1 M P AO1 R K S K IH1 N Z sp AH0 N D S AH1 M B IH1 R sp}|ok. how about some spring rolls and squid balls, some pork skins, and some beer!|happiness
+0_0_d2109|0|{G UH1 D M AO1 R N IH0 NG sp M EY1 N T AH0 N AH0 N S D IH0 P AA1 R T M AH0 N T sp}|good morning, maintenance department.|none
+1_1_d2109|1|{HH AH0 L OW1 sp AY1 M HH AE1 V IH0 NG AH0 P R AA1 B L AH0 M W IH1 DH M AY1 EH1 R K AH0 N D IH1 SH AH0 N ER0 sp}|hello. i'm having a problem with my air conditioner.|none
+2_0_d2109|0|{W IH1 CH EH1 R K AH0 N D IH1 SH AH0 N ER0 sp}|which air conditioner?|none
+3_1_d2109|1|{DH AH0 W AH1 N IH0 N DH AH0 B EH1 D R UW2 M sp}|the one in the bedroom.|none
+4_0_d2109|0|{W AH1 T S IY1 M Z T UW1 B IY1 DH AH0 P R AA1 B L AH0 M sp}|what seems to be the problem?|none
+5_1_d2109|1|{DH EH1 R Z N OW1 K OW1 L D EH1 R K AH1 M IH0 NG AW1 T sp}|there's no cold air coming out.|none
+6_0_d2109|0|{M EY1 AY1 HH AE1 V Y AO1 R R UW1 M N AH1 M B ER0 sp P L IY1 Z sp}|may i have your room number, please?|none
+7_1_d2109|1|{F AY1 V T W EH1 L V sp}|five twelve.|none
+8_0_d2109|0|{OW1 K EY1 sp W IY1 L S EH1 N D S AH1 M W AH2 N AH1 P T UW1 CH EH1 K IH1 T sp}|ok, we'll send someone up to check it.|none
+9_1_d2109|1|{AH1 M sp sp sp sp AY1 M G OW1 IH0 NG AW1 T R AY1 T N AW1 sp B AH1 T DH AE1 T S AO1 L R AY1 T sp Y UW1 K AE1 N K AH1 M W EH1 N AY1 V G AO1 N sp}|umm.... i'm going out right now. but that's all right, you can come when i've gone.|none
+10_0_d2109|0|{F AY1 N sp DH AH0 HH AW1 S K IY2 P ER0 W IH1 L OW1 P AH0 N DH AH0 D AO1 R AH0 N D S T EY1 IH0 N DH AH0 R UW1 M W IH1 DH DH AH0 R IH0 P EH1 R M EH2 N sp}|fine. the housekeeper will open the door and stay in the room with the repairmen.|none
+0_1_d2126|1|{IH0 K S K Y UW1 S M IY1 sp K AE1 N Y UW1 T EH1 L M IY1 W EH1 R DH AH0 W AO1 L sp M AA1 R T IH1 Z sp}|excuse me. can you tell me where the wal-mart is?|happiness
+1_0_d2126|0|{T ER1 N R AY1 T AE1 T DH AH0 S EH1 K AH0 N D K R AO1 S IH0 NG AH0 N D DH EH1 N G OW1 S T R EY1 T F AO1 R T UW1 B L AA1 K S sp}|turn right at the second crossing and then go straight for two blocks.|none
+2_1_d2126|1|{IH1 Z IH1 T F AA1 R F R AH1 M HH IY1 R sp}|is it far from here?|none
+3_0_d2126|0|{N OW1 sp IH1 T S OW1 N L IY0 T EH1 N sp M IH1 N AH0 T S W AO1 K sp}|no, it's only ten-minute's walk.|none
+4_1_d2126|1|{TH AE1 NG K S AH0 L AA1 T sp}|thanks a lot.|happiness
+5_0_d2126|0|{Y UH1 R W EH1 L K AH0 M sp}|you're welcome.|happiness
+0_0_d2169|0|{AY1 N IY1 D T UW1 K AE1 N S AH0 L M AY1 R EH2 Z ER0 V EY1 SH AH0 N sp AH1 M AY1 HH AE1 V P ER1 S IH0 N IH0 L M AE1 T ER0 Z DH AE1 T N IY1 D F IH1 K S IH0 NG sp}|i need to cancel my reservation. umm i have personal matters that need fixing.|none
+1_1_d2169|1|{DH AE1 T S N AA1 T AH0 P R AA1 B L AH0 M sp JH AH1 S T G IH1 V M IY1 Y AO1 R N EY1 M sp F OW1 N N AH1 M B ER0 sp AH0 N D D EY1 T AH1 V V IH1 Z AH0 T sp}|that's not a problem. just give me your name, phone number, and date of visit.|none
+2_0_d2169|0|{R UW1 D IY0 R AE1 N D AA0 L F sp EY1 T W AH1 N EY1 T F AY1 V F AY1 V F AY1 V W AH1 N T UW1 TH R IY1 F AO1 R sp EY1 P R AH0 L N AY1 N TH TH R UW1 F IH0 F T IY1 N sp}|rudy randolph, eight one eight five five five one two three four, april nineth through fifteen.|none
+3_1_d2169|1|{AY1 S IY1 Y AO1 R IH1 N F OW0 HH IY1 R AA1 N DH AH0 S K R IY1 N sp AY1 L HH IH1 T JH AH1 S T W AH1 N B AH1 T AH0 N sp S ER1 sp AH0 N D Y UH1 R K AE1 N S AH0 L D sp}|i see your info here on the screen. i'll hit just one button, sir, and you're cancelled.|none
+4_0_d2169|0|{TH AE1 NG K Y UW1 sp AY1 M G L AE1 D DH AE1 T W AA1 Z AH0 N T T UW1 M AH1 CH AH1 V AH0 B AA1 DH ER0 sp}|thank you. i'm glad that wasn't too much of a bother.|happiness
+5_1_d2169|1|{IH1 T S AH0 P L EH1 ZH ER0 sp}|it's a pleasure.|happiness
+0_1_d2170|1|{AH1 M IH0 K S K Y UW1 S M IY1 sp AY1 AE1 M IH1 N T R AH0 S T AH0 D IH0 N G EH1 T IH0 NG AH0 L AY1 B R EH2 R IY0 K AA1 R D sp}|umm excuse me. i am interested in getting a library card.|none
+1_0_d2170|0|{SH UH1 R sp L EH1 T M IY1 G IH1 V Y UW1 AE1 N AE2 P L AH0 K EY1 SH AH0 N sp Y UW1 K AE1 N F IH1 L IH1 T AW1 T R AY1 T HH IY1 R AE1 T DH AH0 K AW1 N T ER0 sp}|sure, let me give you an application. you can fill it out right here at the counter.|none
+2_1_d2170|1|{OW1 K EY1 sp HH IY1 R IH1 T IH1 Z sp}|ok, here it is.|none
+3_0_d2170|0|{L EH1 T M IY1 T EY1 K AH0 L UH1 K AE1 T DH IH1 S F AO1 R Y UW1 sp M EY1 AY1 HH AE1 V Y AO1 R D R AY1 V ER0 Z L AY1 S AH0 N S sp P L IY1 Z sp}|let me take a look at this for you. may i have your driver's license, please?|none
+4_1_d2170|1|{HH IH1 R Z M AY1 L AY1 S AH0 N S AH0 N D F AO1 R M sp}|here's my license and form.|none
+5_0_d2170|0|{Y UW1 S IY1 M T UW1 HH AE1 V F IH1 L D DH AH0 F AO1 R M AW1 T AO1 L R AY1 T sp AA1 R Y UW1 F AH0 M IH1 L Y ER0 W IH1 DH AW1 ER0 R UW1 L Z AH0 N D F AY1 N Z sp}|you seem to have filled the form out all right. are you familiar with our rules and fines?|none
+6_1_d2170|1|{Y EH1 S sp AY1 N OW1 W AH1 T T UW1 D UW1 sp}|yes, i know what to do.|none
+7_0_d2170|0|{DH AH0 AW1 ER0 Z AH0 N D L IH2 M IH0 T EY1 SH AH0 N Z AA1 R P R IH1 N T AH0 D AA1 N DH AH0 K AA1 R D AH0 N D DH IH1 S HH AE1 N D AW2 T sp}|the hours and limitations are printed on the card and this handout.|none
+8_1_d2170|1|{OW1 K EY1 sp}|ok.|none
+9_0_d2170|0|{TH AE1 NG K Y UW1 F AO1 R JH OY1 N IH0 NG DH AH0 L AY1 B R EH2 R IY0 W IY1 L UH1 K F AO1 R W ER0 D T UW1 S ER1 V IH0 NG Y UW1 sp}|thank you for joining the library; we look forward to serving you.|happiness
+0_1_d2171|1|{HH AW1 S K IY1 P IH0 NG sp M EY1 AY1 K AH1 M IH0 N sp}|house keeping. may i come in?|none
+1_0_d2171|0|{K AH1 M IH0 N P L IY1 Z sp}|come in please.|none
+2_1_d2171|1|{G UH1 D IY1 V N IH0 NG sp S ER1 sp AY1 K AH1 M T UW1 M EY1 K DH AH0 B EH1 D sp SH AE1 L AY1 D UW1 IH1 T N AW1 AO1 R L EY1 T ER0 sp}|good evening, sir. i come to make the bed. shall i do it now or later?|none
+3_0_d2171|0|{W EH1 L sp S IH1 N S Y UW1 HH AE1 V K AH1 M sp D UW1 IH1 T N AW1 P L IY1 Z sp}|well, since you have come, do it now please?|none
+4_1_d2171|1|{DH AE1 T S AO1 L sp HH AE1 V AH0 N AY1 S S T EY1 HH IY1 R sp}|that's all. have a nice stay here.|none
+5_0_d2171|0|{TH AE1 NG K Y UW1 sp AH1 M P L IY1 Z G EH1 T S AH1 M S OW1 P F AO1 R AH1 S sp}|thank you. umm please get some soap for us.|none
+6_1_d2171|1|{JH AH1 S T AH0 M OW1 M AH0 N T sp AY1 W IH1 L D UW1 IH1 T R AY1 T N AW1 sp}|just a moment. i will do it right now.|none
+0_0_d2216|0|{AY1 HH EY1 T DH IH1 S K AY1 N D AH1 V W EH1 DH ER0 sp}|i hate this kind of weather!|disgust
+1_1_d2216|1|{W EH1 N AY1 W AA1 Z AH0 K IH1 D sp DH EH1 R W AA1 Z AH0 W EH1 DH ER0 HH UW1 S EH1 D DH EH1 R IH1 Z N OW1 S AH1 CH TH IH1 NG AE1 Z B AE1 D W EH1 DH ER0 sp}|when i was a kid, there was a weather who said there is no such thing as bad weather.|none
+2_0_d2216|0|{AY1 TH IH1 NG K HH IY1 HH AE1 D W AO1 T ER0 AA1 N DH AH0 B R EY1 N sp DH IH1 S IH1 Z B AE1 D sp}|i think he had water on the brain. this is bad.|disgust
+3_1_d2216|1|{HH IY1 S EH1 D DH EH1 R AA1 R OW1 N L IY0 AO1 L K AY1 N D Z AH1 V G UH1 D W EH1 DH ER0 sp}|he said there are only all kinds of good weather.|none
+4_0_d2216|0|{OW2 K EY1 sp P AA2 L IY0 AE1 N AH0 sp W AH1 T S S OW1 G UH1 D AH0 B AW1 T DH IH1 S W EH1 DH ER0 sp}|okay, pollyanna, what's so good about this weather?|none
+5_1_d2216|1|{W EH1 L sp F AO1 R W AH1 N sp W IY1 HH AE1 V AE1 N IH0 K S K Y UW1 S T UW1 S T EY1 HH OW1 M sp}|well, for one, we have an excuse to stay home.|none
+6_0_d2216|0|{W IY1 G EH1 T T UW1 S T EY1 HH OW1 M sp D UW1 Y UW1 N OW1 S AH1 M TH IH0 NG DH AE1 T AY1 D OW1 N T sp}|we get to stay home? do you know something that i don't?|none
+7_1_d2216|1|{AY1 N OW1 DH AE1 T DH EH1 R IH1 Z HH AA1 T CH AO1 K L AH0 T IH0 N DH AH0 K IH1 CH AH0 N AH0 N D S AH1 M N UW1 S IY1 D IY1 Z JH AH1 S T W EY1 T IH0 NG F AO1 R AH1 S sp}|i know that there is hot chocolate in the kitchen and some new cds just waiting for us.|none
+0_0_d2279|0|{K AE1 N AY1 S T IH1 L K AE1 CH T IY1 W AH1 N sp OW1 sp S EH1 V AH0 N F AO1 R Z IY0 EY1 M AH0 N sp}|can i still catch t one-o-seven for xiamen?|none
+1_1_d2279|1|{S AA1 R IY0 sp S ER1 sp DH AH0 T R EY1 N HH AE1 Z AO0 L R EH1 D IY0 L EH1 F T sp}|sorry, sir. the train has already left.|none
+2_0_d2279|0|{DH AE1 T S T UW1 B AE1 D sp K AE1 N AY1 T EY1 K AH0 N AH1 DH ER0 T R EY1 N sp}|that's too bad. can i take another train?|none
+3_1_d2279|1|{Y EH1 S sp Y AO1 R T IH1 K AH0 T IH1 Z V AE1 L AH0 D F AO1 R TH R IY1 D EY1 Z sp}|yes. your ticket is valid for three days.|none
+4_0_d2279|0|{DH AE1 T S G R EY1 T sp AY1 W IH1 L T EY1 K DH AH0 N EH1 K S T T R EY1 N sp}|that's great! i will take the next train.|none
+5_1_d2279|1|{Y UW1 HH AE1 V T UW1 HH AE1 V Y AO1 R T IH1 K AH0 T CH EH1 K T sp}|you have to have your ticket checked.|none
+6_0_d2279|0|{SH AE1 L AY1 P EY1 EH1 K S T R AH0 CH AA1 R JH sp}|shall i pay extra charge?|none
+7_1_d2279|1|{N OW1 EH1 K S T R AH0 CH AA1 R JH AE1 T AO1 L sp B AH1 T Y AO1 R B ER1 TH W IH1 L B IY1 IH1 N V AH0 L AH0 D sp}|no extra charge at all. but your berth will be invalid.|none
+0_0_d2282|0|{Y UW1 S EY1 HH IY1 W AA1 Z ER0 AW1 N D AE1 V ER0 IH0 JH HH AY1 T sp}|you say he was around average height.|none
+1_1_d2282|1|{Y EH1 S sp DH AE1 T S R AY1 T sp ER0 AW1 N D F AY1 V N AY1 N F AY1 V T EH1 N sp}|yes, that's right, around five nine five ten.|none
+2_0_d2282|0|{W EY1 T sp}|weight?|none
+3_1_d2282|1|{AY1 M N AA1 T SH UH1 R sp M IY1 D IY0 AH0 M AY1 S AH0 P OW1 Z sp M EY1 B IY0 AH0 L IH1 T AH0 L AA1 N DH AH0 HH EH1 V IY0 S AY1 D sp}|i'm not sure. medium i suppose. maybe a little on the heavy side.|none
+4_0_d2282|0|{EH1 N IY0 M AA1 R K S AA1 N HH IH1 Z F EY1 S sp}|any marks on his face?|none
+5_1_d2282|1|{N OW1 sp AY1 D OW1 N T TH IH1 NG K S OW1 sp}|no, i don't think so.|none
+6_0_d2282|0|{G L AE1 S AH0 Z sp}|glasses?|none
+7_1_d2282|1|{N OW1 sp}|no.|none
+8_0_d2282|0|{W AH1 T AH0 B AW1 T HH IH1 Z HH EH1 R sp}|what about his hair?|none
+9_1_d2282|1|{B L AE1 K AO1 R D AA1 R K B R AW1 N sp}|black or dark brown.|none
+10_0_d2282|0|{L AO1 NG AO1 R SH AO1 R T sp S T R EY1 T sp K ER1 L IY0 sp}|long or short? straight? curly?|none
+11_1_d2282|1|{S T R EY1 T sp AY1 TH IH1 NG K sp AH0 N D AH0 B AW1 T AE1 V ER0 IH0 JH L EH1 NG K TH}|straight, i think, and about average length|none
+12_0_d2282|0|{G ER1 L sp DH IH1 S SH UH1 R D AH1 Z AH0 N T HH EH1 L P AH1 S M AH1 CH sp IH1 T K UH1 D B IY1 EH1 N IY0 B AH0 D IY0 sp HH AW1 AH0 B AW1 T HH IH1 Z K L AO1 TH sp W AH1 T W AA1 Z HH IY1 W EH1 R IH0 NG sp}|girl, this sure doesn't help us much. it could be anybody. how about his cloth? what was he wearing?|none
+0_0_d2306|0|{G UH1 D M AO1 R N IH0 NG sp AY1 D L AY1 K T UW1 OW1 P AH0 N AH0 S EY1 V IH0 NG Z AH0 K AW1 N T sp K AE1 N Y UW1 T EH1 L M IY1 AA1 N HH AW1 T UW1 G OW1 AH0 B AW1 T IH1 T sp}|good morning, i'd like to open a savings account. can you tell me on how to go about it?|none
+1_1_d2306|1|{OW1 K EY1 sp Y UW1 HH AE1 V T UW1 F IH1 L AW1 T DH IH1 S F AO1 R M AH0 N D L EH1 T M IY1 S IY1 TH R IY1 AY0 D EH2 N T AH0 F AH0 K EY1 SH AH0 N K AA1 R D Z AO1 R D AA1 K Y AH0 M AH0 N T S sp}|ok. you have to fill out this form and let me see three identification cards or documents.|none
+2_0_d2306|0|{AY1 HH AE1 V M AY1 P AE1 S P AO2 R T W IH1 DH M IY1 sp AH0 D R AY1 V ER0 Z L AY1 S AH0 N S AH0 N D AH0 M EH1 M B ER0 SH IH2 P K AA1 R D sp W IH1 L DH EY1 D UW1 sp}|i have my passport with me, a driver's license and a membership card. will they do?|none
+3_1_d2306|1|{L EH1 T M IY1 S IY1 DH EH1 M sp Y EH1 S sp DH EH1 R OW1 K EY1 sp}|let me see them. yes, they're ok.|none
+4_0_d2306|0|{AH1 M W AH1 T S DH AH0 M IH1 N AH0 M AH0 M AH0 M AW1 N T AY1 K AE1 N D AH0 P AA1 Z IH0 T IH0 N AE1 N AH0 K AW1 N T sp}|umm what's the minimum amount i can deposit in an account?|none
+5_1_d2306|1|{Y UW1 K AE1 N D AH0 P AA1 Z IH0 T AE1 N IH0 N IH1 SH AH0 L AH0 M AW1 N T AH1 V F AY1 V D AA1 L ER0 Z sp}|you can deposit an initial amount of five dollars.|none
+6_0_d2306|0|{TH AE1 NG K Y UW1 sp}|thank you.|none
+0_1_d2371|1|{IH0 K S K Y UW1 S M IY1 sp DH IH1 S B AH1 S G OW1 Z D AW1 N T AW1 N sp D AH1 Z AH0 N T IH1 T sp}|excuse me, this bus goes down town, doesn't it?|none
+1_0_d2371|0|{Y EH1 S sp W EH1 R D UW1 Y UW1 W AA1 N T T UW1 G OW1 sp}|yes, where do you want to go?|none
+2_1_d2371|1|{AH1 sp DH AH0 W ER1 K ER0 S T EY1 D IY0 AH0 M sp}|uh, the worker stadium.|none
+3_0_d2371|0|{DH IH1 S IH1 Z DH AH0 R AY1 T B AH1 S sp}|this is the right bus.|none
+4_1_d2371|1|{D UW1 Y UW1 L EH1 T M IY1 N OW1 W EH1 R T UW1 G EH1 T AO1 F sp}|do you let me know where to get off?|none
+5_0_d2371|0|{S ER1 T AH0 N L IY0 sp F AO1 R M AO1 R S T AA1 P S AE1 F T ER0 DH IH1 S sp AY1 L K AO1 L AW1 T DH AH0 S T AA1 P S sp}|certainly. four more stops after this. i'll call out the stops.|happiness
+6_1_d2371|1|{TH AE1 NG K Y UW1 sp}|thank you.|happiness
+0_1_d2377|1|{HH AE1 Z AE1 L AH0 N SH OW1 N AH1 P Y EH1 T sp}|has alan shown up yet?|none
+1_0_d2377|0|{N OW1 P sp AH1 M AY1 G EH1 S S AH1 M TH IH0 NG M AY1 T HH AE1 V K AH1 M AH1 P sp}|nope. umm i guess something might have come up.|none
+2_1_d2377|1|{AY1 W AH1 N D ER0 W AH1 T HH AE1 P AH0 N D sp}|i wonder what happened.|none
+3_0_d2377|0|{AY1 D OW1 N T N OW1 sp AY1 HH OW1 P IH1 T S N AH1 TH IH0 NG S IH1 R IY0 AH0 S sp}|i don't know. i hope it's nothing serious.|none
+4_1_d2377|1|{L AE1 S T W IY1 K HH IH1 Z S IH1 S T ER0 W AA1 Z AH0 D M IH1 T AH0 D T UW1 DH AH0 HH AA1 S P IH2 T AH0 L sp}|last week his sister was admitted to the hospital.|none
+5_0_d2377|0|{OW1 sp W AH1 T HH AE1 P AH0 N D sp}|oh? what happened?|surprise
+6_1_d2377|1|{HH IH1 Z S IH1 S T ER0 HH AE1 D AH0 K AA1 R AE1 K S AH0 D AH0 N T L AE1 S T W IY1 K sp}|his sister had a car accident last week.|none
+7_0_d2377|0|{IH1 Z SH IY1 F AY1 N N AW1 sp}|is she fine now?|none
+8_1_d2377|1|{SH IY1 IH1 Z S T IH1 L IH0 N AH0 K OW1 M AH0 sp}|she is still in a coma.|none
+9_0_d2377|0|{OW1 sp P UH1 R AE1 L AH0 N sp HH IH1 Z S IH1 S T ER0 IH1 Z DH AH0 OW1 N L IY0 W AH1 N HH IY1 HH AE1 Z L EH1 F T S IH1 N S HH IH1 Z P EH1 R AH0 N T S D AY1 D L AE1 S T Y IH1 R sp}|oh, poor alan! his sister is the only one he has left since his parents died last year.|sadness
+0_0_d2384|0|{HH AW1 D IH1 D Y UW1 D UW1 AA1 N Y AO1 R IY1 L T S IH0 G Z AE1 M sp}|how did you do on your ielts exam?|none
+1_1_d2384|1|{F AE0 N T AE1 S T IH0 K sp AY1 G AA1 T AE1 N OW1 V ER0 AO2 L S K AO1 R AH1 V EY1 T sp}|fantastic! i got an overall score of eight.|happiness
+2_0_d2384|0|{DH AE1 T S EH1 K S AH0 L AH0 N T sp AH1 M HH AE1 V Y UW1 R AH0 S IY1 V D Y AO1 R K AH0 N D IH1 SH AH0 N AH0 L AO1 F ER0 Z Y EH1 T sp}|that's excellent! umm have you received your conditional offers yet?|none
+3_1_d2384|1|{Y EH1 S sp AY1 M JH AH1 S T W EY1 T IH0 NG AH0 N T IH1 L AY1 AH0 F IH1 SH AH0 L IY0 G EH1 T AH0 D M IH1 T AH0 D T UW1 DH AH0 Y UW2 N AH0 V ER1 S AH0 T IY0 W IH1 DH AH0 K AH0 N D IH1 SH AH0 N AH0 L AO1 F ER0 T UW1 AH0 P L AY1 F AO1 R M AY1 V IY1 Z AH0 sp}|yes. i'm just waiting until i officially get admitted to the university with a conditional offer to apply for my visa.|none
+4_0_d2384|0|{D UW1 Y UW1 N OW1 W EH1 R DH AH0 V IY1 Z AH0 AO1 F AH0 S IH1 Z sp}|do you know where the visa office is?|none
+5_1_d2384|1|{N OW1 sp}|no.|none
+6_0_d2384|0|{IH1 T S JH AH1 S T N IH1 R DH AH0 D AO1 NG S IY1 SH IY1 T IY0 AA1 W AA2 S AH1 B W EY2 S T AA1 P sp}|it's just near the dong si shi tiao subway stop.|none
+7_1_d2384|1|{DH AE1 T S N AA1 T T UW1 F AA1 R AH0 W EY1 sp AH1 M D UW1 Y UW1 TH IH1 NG K AY1 L G EH1 T AH0 V IY1 Z AH0 sp}|that's not too far away. umm do you think i'll get a visa?|none
+8_0_d2384|0|{HH AE1 V Y UW1 EH1 V ER0 G AO1 N AH0 B R AO1 D B IH0 F AO1 R sp}|have you ever gone abroad before?|none
+9_1_d2384|1|{Y EH1 S sp AY1 V B IH1 N T UW1 T EY1 L AH0 N D sp IY1 JH AH0 P T sp AH0 N D JH AH0 P AE1 N sp}|yes, i've been to tailland, egypt, and japan.|none
+10_0_d2384|0|{HH AE1 V Y UW1 EH1 V ER0 B IH1 N D IH0 N AY1 D AH0 V IY1 Z AH0 B IH0 F AO1 R sp}|have you ever been denied a visa before?|none
+11_1_d2384|1|{N EH1 V ER0 sp}|never.|none
+12_0_d2384|0|{DH AE1 T S G UH1 D sp AA1 R Y UW1 P L AE1 N IH0 NG AA1 N IH1 M AH0 G R EY2 T IH0 NG T UW1 AH0 N AH1 DH ER0 K AH1 N T R IY0 sp}|that's good. are you planning on immigrating to another country?|none
+13_1_d2384|1|{N OW1 sp AY1 W AA1 N T T UW1 K AH1 M B AE1 K T UW1 CH AY1 N AH0 sp}|no, i want to come back to china.|none
+14_0_d2384|0|{DH AE1 T S IH0 G Z AE1 K T L IY0 W AH1 T DH AH0 V IY1 Z AH0 AO1 F AH0 S ER0 Z W AA1 N T T UW1 HH IY1 R sp D UW1 Y UW1 HH AE1 V IH0 N AH1 F M AH1 N IY0 F AO1 R T Y UW0 IH1 SH AH0 N AH0 N D R UW1 M AH0 N D B AO1 R D sp}|that's exactly what the visa officers want to hear. do you have enough money for tuition and room and board?|none
+15_1_d2384|1|{AY1 V R AH0 S IY1 V D AH0 F UH1 L S K AA1 L ER0 SH IH2 P sp S OW1 AY1 W OW1 N T N IY1 D EH1 N IY0 AH1 DH ER0 M AH1 N IY0 T UW1 L AY1 V AO1 F W AY1 L AY1 M S T AH1 D IY0 IH0 NG sp}|i've received a full scholarship, so i won't need any other money to live off while i'm studying.|none
+16_0_d2384|0|{AY1 TH IH1 NG K Y UW1 HH AE1 V AH0 V EH1 R IY0 G UH1 D CH AE1 N S AH1 V G EH1 T IH0 NG AH0 V IY1 Z AH0 sp AY1 K AE1 N HH EH1 L P Y UW1 P R IY0 P EH1 R F AO1 R DH AH0 V IY1 Z AH0 IH1 N T ER0 V Y UW2 IH1 F Y UW1 W AA1 N T sp}|i think you have a very good chance of getting a visa. i can help you prepare for the visa interview if you want.|none
+17_1_d2384|1|{DH AE1 T S B IY1 G R EY1 T sp DH AH0 M AO1 R P R IY0 P EH1 R D AY1 AE1 M sp DH AH0 B EH1 T ER0 sp}|that's be great. the more prepared i am, the better.|happiness
+0_1_d2387|1|{HH AE1 P IY0 N UW1 Y IH1 R sp B IH1 L sp}|happy new year, bill.|happiness
+1_0_d2387|0|{HH AE1 P IY0 N UW1 Y IH1 R sp S OW1 F IY0 sp}|happy new year, sophie.|happiness
+2_1_d2387|1|{D UW1 Y UW1 HH AE1 V EH1 N IY0 P L AE1 N Z F AO1 R DH AH0 N UW1 Y IH1 R HH AA1 L AH0 D EY2 sp}|do you have any plans for the new year holiday?|none
+3_0_d2387|0|{M AY1 HH OW1 L F AE1 M AH0 L IY0 AA1 R G OW1 IH0 NG T UW1 HH EY1 N AH0 N F AO1 R V IH1 Z AH0 T IH0 NG sp W AH1 T AH0 B AW1 T Y UW1 sp}|my whole family are going to hainan for visiting. what about you?|none
+4_1_d2387|1|{HH AW1 HH AE1 P IY0 Y UW1 AA1 R sp AY1 HH AE1 V T UW1 S T EY1 AE1 T HH OW1 M T UW1 P R IY0 P EH1 R M AY1 F AY1 N AH0 L IH0 G Z AE1 M sp}|how happy you are! i have to stay at home to prepare my final exam.|none
+0_0_d2406|0|{AY1 S T EY1 D AO1 N L AY2 N CH AE1 T IH0 NG W IH1 DH F R EH1 N D Z AO1 L N AY1 T sp IH1 T W AA1 Z G R EY1 T F AH1 N sp}|i stayed online chatting with friends all night. it was great fun.|none
+1_1_d2406|1|{AY1 D OW1 N T AH2 N D ER0 S T AE1 N D sp Y UW1 D OW1 N T IY1 V IH0 N N OW1 DH AH0 sp F R EH1 N D Z sp Y UW1 AA1 R sp T AO1 K IH0 NG sp T UW1 sp}|i don't understand. you don't even know the 'friends' you are 'talking' to!|none
+2_0_d2406|0|{IH1 T IH1 Z B EH1 T ER0 AY1 D OW1 N T N OW1 DH EH1 M sp S OW1 AY1 K AE1 N S EY1 EH1 N IY0 TH IH2 NG AY1 W AA1 N T sp}|it is better i don't know them. so i can say anything i want.|none
+3_1_d2406|1|{D UW1 Y UW1 B IH0 L IY1 V W AH1 T DH EY1 S EY1 sp}|do you believe what they say?|none
+4_0_d2406|0|{HH UW1 K EH1 R Z sp IH1 T S JH AH1 S T AO1 N L AY2 N sp IH1 T S N AA1 T R IY1 L sp D UW1 Y UW1 W AA1 N T T UW1 JH OY1 N M IY1 T AH0 N AY1 T sp}|who cares? it's just online. it's not real. do you want to join me tonight?|none
+5_1_d2406|1|{TH AE1 NG K S sp B AH1 T AY1 M AH0 L AW1 Z IY0 T AY1 P IH0 S T sp}|thanks, but i'm a lousy typist.|none
+0_0_d2436|0|{L IH1 N D AH0 sp IH1 Z DH AE1 T Y UW1 sp AY1 HH AE1 V AH0 N T S IY1 N Y UW1 IH0 N EY1 JH AH0 Z sp}|linda? is that you? i haven't seen you in ages!|surprise
+1_1_d2436|1|{HH AY1 JH AO1 R JH sp IH1 T S G UH1 D T UW1 S IY1 Y UW1 sp}|hi george! it's good to see you!|surprise
+2_0_d2436|0|{W AH1 T HH AE1 V Y UW1 B IH1 N AH1 P T UW1 sp}|what have you been up to?|none
+3_1_d2436|1|{AY1 JH AH1 S T OW1 P AH0 N D AH1 P M AY1 OW1 N B IH1 Z N AH0 S N AA1 T L AO1 NG AH0 G OW1 sp}|i just opened up my own business not long ago.|none
+4_0_d2436|0|{G UH1 D F AO1 R Y UW1 sp W AH1 T AA1 R Y UW1 D UW1 IH0 NG sp}|good for you! what are you doing?|none
+5_1_d2436|1|{AY1 M AH0 P R AH0 F EH1 SH AH0 N AH0 L P AA1 R T IY0 P L AE1 N ER0 HH IY1 R IH0 N DH AH0 S IH1 T IY0 sp AY1 D UW1 K EY1 T ER0 IH0 NG AH0 N D AO1 L DH AE1 T sp}|i'm a professional party planner here in the city. i do catering and all that.|none
+6_0_d2436|0|{AY1 N UW1 S AH1 M D EY1 AY1 W UH1 D B IY1 EY1 B AH0 L T UW1 P R AA1 F AH0 T F R AH1 M Y AO1 R L AH1 V AH1 V F AH1 N sp}|i knew some day i would be able to profit from your love of fun!|happiness
+7_1_d2436|1|{W EH1 L sp AY1 D OW1 N T N OW1 AH0 B AW1 T DH AH0 P R AA1 F AH0 T P AA1 R T Y EH1 T sp B AH1 T AY1 AE1 M R IH1 L IY0 HH AE1 V IH0 NG F AH1 N sp}|well, i don't know about the profit part yet. but i am really having fun!|happiness
+0_0_d2463|0|{W AH1 T AH0 W AH1 N D ER0 F AH0 L S AY1 T sp}|what a wonderful sight!|happiness
+1_1_d2463|1|{Y EH1 S sp AY1 V D R IY1 M D AH0 TH AW1 Z AH0 N D T AY1 M Z AY1 K UH1 D L AY1 D AW1 N HH IY1 R T UW1 R IH0 L AE1 K S sp}|yes. i've dreamed a thousand times i could lie down here to relax.|happiness
+2_0_d2463|0|{W IY1 AA1 R T AY1 ER0 D AH1 V JH AA1 B Z AH0 N D K AA2 M P AH0 T IH1 SH AH0 N sp W IY1 N IY1 D AH0 K W AY1 AH0 T P L EY1 S sp}|we are tired of jobs and competition. we need a quiet place.|none
+3_1_d2463|1|{AY1 D L AY1 K T UW1 S T EY1 HH IY1 R F AO1 R AO1 L M AY1 L AY1 F IH1 F P AA1 S AH0 B AH0 L sp}|i'd like to stay here for all my life if possible.|none
+4_0_d2463|0|{AH1 M S OW1 W UH1 D AY1 sp L UH1 K sp IH1 T M AY1 T B IY1 G OW1 IH0 NG T UW1 R EY1 N sp}|umm so would i. look, it might be going to rain.|none
+5_1_d2463|1|{AH1 M AY1 D OW1 N T TH IH1 NG K IH1 T W IH1 L S P OY1 L AW1 ER0 T R IH1 P sp}|umm i don't think it will spoil our trip.|none
+6_0_d2463|0|{IH1 T W IH1 L G IH1 V AH1 S B EH1 T ER0 F IY1 L IH0 NG AH0 N D AE1 T M AH0 S F IH2 R IH1 F IH1 T R EY1 N Z sp}|it will give us better feeling and atmosphere if it rains.|happiness
+7_1_d2463|1|{L EH1 T S K IH1 K AO1 F AW1 ER0 SH UW1 Z T UW1 W AO1 K AA1 N DH AH0 G R IY1 N F L AE1 G S T OW1 N D R OW1 D Z sp}|let's kick off our shoes to walk on the green flag stoned roads.|happiness
+8_0_d2463|0|{DH AE1 T S AH0 G UH1 D AY0 D IY1 AH0 sp}|that's a good idea!|happiness
+0_0_d2522|0|{AH1 M sp W EH1 R D IH1 D Y UW1 G OW1 Y EH1 S T ER0 D EY2 sp}|umm, where did you go yesterday?|none
+1_1_d2522|1|{AY1 W EH1 N T T UW1 K R OY1 D AH0 N sp}|i went to croydon.|none
+2_0_d2522|0|{D IH1 D Y UW1 G OW1 SH AA1 P IH0 NG sp}|did you go shopping?|none
+3_1_d2522|1|{N OW1 sp AY1 W EH1 N T F AO1 R AE1 N IH1 N T ER0 V Y UW2 sp}|no, i went for an interview.|none
+4_0_d2522|0|{OW1 sp D IH1 D Y UW1 G EH1 T AH0 JH AA1 B sp}|oh, did you get a job?|none
+5_1_d2522|1|{Y EH1 S sp AY1 G AA1 T AH0 JH AA1 B AE1 Z AH0 M AE1 N AH0 JH M AH0 N T T R EY1 N IY1 sp}|yes, i got a job as a management trainee.|happiness
+6_0_d2522|0|{F AE0 N T AE1 S T IH0 K sp}|fantastic.|happiness
