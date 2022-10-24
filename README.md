@@ -3,7 +3,7 @@
 
 ### Keon Lee<sup>\*</sup>, Kyumin Park<sup>\*</sup>, Daeyoung Kim
 
-In this [paper](https://arxiv.org/abs/2207.01063), we introduce DailyTalk, a high-quality conversational speech dataset designed for Text-to-Speech.
+In our [paper](https://arxiv.org/abs/2207.01063), we introduce DailyTalk, a high-quality conversational speech dataset designed for Text-to-Speech.
 
 <p align="center">
     <img src="img/dailytalk_table.png" width="70%">
@@ -13,25 +13,12 @@ In this [paper](https://arxiv.org/abs/2207.01063), we introduce DailyTalk, a hig
     <img src="img/dailytalk_model.png" width="70%">
 </p>
 
-**Abstract:** The majority of current TTS datasets, which are collections of individual utterances, contain few conversational aspects in terms of both style and metadata. In this paper, we introduce DailyTalk, a high-quality conversational speech dataset designed for Text-to-Speech. We sampled, modified, and recorded 2,541 dialogues from the open-domain dialogue dataset DailyDialog which are adequately long to represent context of each dialogue. During the data construction step, we maintained attributes distribution originally annotated in DailyDialog to support diverse dialogue in DailyTalk. On top of our dataset, we extend prior work as our baseline, where a non-autoregressive TTS is conditioned on historical information in a dialog. We gather metadata so that a TTS model can learn historical dialog information, the key to generating context-aware speech. From the baseline experiment results, we show that DailyTalk can be used to train neural text-to-speech models, and our baseline can represent contextual information. The DailyTalk dataset and baseline code are freely available for academic use with CC-BY-SA 4.0 license.
+**Abstract:** The majority of current Text-to-Speech (TTS) datasets, which are collections of individual utterances, contain few conversational aspects. In this paper, we introduce DailyTalk, a high-quality conversational speech dataset designed for conversational TTS. We sampled, modified, and recorded 2,541 dialogues from the open-domain dialogue dataset DailyDialog inheriting its annotated attributes. On top of our dataset, we extend prior work as our baseline, where a non-autoregressive TTS is conditioned on historical information in a dialogue. From the baseline experiment with both general and our novel metrics, we show that DailyTalk can be used as a general TTS dataset, and more than that, our baseline can represent contextual information from DailyTalk. The DailyTalk dataset and baseline code are freely available for academic use with CC-BY-SA 4.0 license.
 
-<details>
-<summary><b><h3>Statistic Details</h3></b></summary>
-
-#### Phoneme Distribution
-<p align="center">
-    <img src="img/phoneme-distribution.png" width="70%">
-</p>
-
-#### Characteristic Distribution
-<p align="center">
-    <img src="img/feature-distribution.png" width="70%">
-</p>
-
-</details>
 
 # Dataset
 You can download our [dataset](https://drive.google.com/drive/folders/1WRt-EprWs-2rmYxoWYT9_13omlhDHcaL).
+
 
 # Pretrained Models
 You can download our [pretrained models](https://drive.google.com/drive/folders/1RrmWzJM1iWhQg2_wvDHlszVDJRV60Wfu?usp=sharing). There are two different directories: 'history_none' and 'history_guo'. The former has no historical encodings so that it is not a conversational context-aware model. The latter has historical encodings following [Conversational End-to-End TTS for Voice Agent](https://arxiv.org/abs/2005.10438) (Guo et al., 2020).
