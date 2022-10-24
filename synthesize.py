@@ -206,7 +206,7 @@ if __name__ == "__main__":
         if preprocess_config["preprocessing"]["text"]["language"] == "en":
             texts = np.array([preprocess_english(args.text, preprocess_config)])
         else:
-            return NotImplementedError
+            raise NotImplementedError
         text_lens = np.array([len(texts[0])])
         batchs = [(ids, raw_texts, speakers, texts, text_lens, max(text_lens), spker_embed, emotions)]
 

@@ -39,7 +39,7 @@ Also, `Dockerfile` is provided for `Docker` users.
 
 ## Inference
 
-You have to download the [pretrained models](https://drive.google.com/drive/folders/1RrmWzJM1iWhQg2_wvDHlszVDJRV60Wfu?usp=sharing) and put them in `output/ckpt/DailyTalk/`. The models are trained with unsupervised duration modeling under transformer building block and the history encoding types.
+You have to download both [our dataset](https://drive.google.com/drive/folders/1WRt-EprWs-2rmYxoWYT9_13omlhDHcaL). Download [pretrained models](https://drive.google.com/drive/folders/1RrmWzJM1iWhQg2_wvDHlszVDJRV60Wfu?usp=sharing) and put them in `output/ckpt/DailyTalk/`. Also unzip `generator_LJSpeech.pth.tar` or `generator_universal.pth.tar` in hifigan folder. The models are trained with unsupervised duration modeling under transformer building block and the history encoding types.
 
 Only the batch inference is supported as the generation of a turn may need contextual history of the conversation. Try
 
